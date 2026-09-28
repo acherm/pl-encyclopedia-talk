@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" font-family="'Latin Modern Sans', 'LM Sans 10', Helvetica, Arial, sans-serif">
+<rect x="20" y="109.7" width="19" height="8.3" rx="2" fill="#1f5fa6"/>
+<text x="29.5" y="136" fill="#555566" font-size="13" text-anchor="middle">2002</text>
+<rect x="44" y="111.1" width="19" height="6.9" rx="2" fill="#1f5fa6"/>
+<rect x="68" y="113.6" width="19" height="4.4" rx="2" fill="#1f5fa6"/>
+<rect x="92" y="113.5" width="19" height="4.5" rx="2" fill="#1f5fa6"/>
+<rect x="116" y="110.2" width="19" height="7.8" rx="2" fill="#1f5fa6"/>
+<rect x="140" y="109.6" width="19" height="8.4" rx="2" fill="#1f5fa6"/>
+<rect x="164" y="111.5" width="19" height="6.5" rx="2" fill="#1f5fa6"/>
+<rect x="188" y="110.4" width="19" height="7.6" rx="2" fill="#1f5fa6"/>
+<rect x="212" y="110.3" width="19" height="7.7" rx="2" fill="#1f5fa6"/>
+<rect x="236" y="108.2" width="19" height="9.8" rx="2" fill="#1f5fa6"/>
+<rect x="260" y="97.4" width="19" height="20.6" rx="2" fill="#1f5fa6"/>
+<text x="269.5" y="136" fill="#555566" font-size="13" text-anchor="middle">2012</text>
+<rect x="284" y="104.9" width="19" height="13.1" rx="2" fill="#1f5fa6"/>
+<rect x="308" y="104.3" width="19" height="13.7" rx="2" fill="#1f5fa6"/>
+<rect x="332" y="102.9" width="19" height="15.1" rx="2" fill="#1f5fa6"/>
+<rect x="356" y="36.6" width="19" height="81.4" rx="2" fill="#1f5fa6"/>
+<rect x="380" y="95.7" width="19" height="22.3" rx="2" fill="#1f5fa6"/>
+<rect x="404" y="89.1" width="19" height="28.9" rx="2" fill="#1f5fa6"/>
+<rect x="428" y="91.4" width="19" height="26.6" rx="2" fill="#1f5fa6"/>
+<rect x="452" y="57.4" width="19" height="60.6" rx="2" fill="#1f5fa6"/>
+<rect x="476" y="28" width="19" height="90" rx="2" fill="#c00000"/>
+<path d="M474,42 l23,-6 M474,48 l23,-6" stroke="#ffffff" stroke-width="3"/>
+<text x="477.5" y="22" fill="#c00000" font-size="14" font-weight="700" text-anchor="end">121 K in 2021 ≈ one synthetic test fixture</text>
+<rect x="500" y="82.4" width="19" height="35.6" rx="2" fill="#1f5fa6"/>
+<rect x="524" y="103.8" width="19" height="14.2" rx="2" fill="#1f5fa6"/>
+<text x="533.5" y="136" fill="#555566" font-size="13" text-anchor="middle">2023</text>
+<line x1="16" y1="118" x2="548" y2="118" stroke="#9a9aaa" stroke-width="1"/>
+<text x="16" y="22" fill="#555566" font-size="13">files / year</text>
+</svg>

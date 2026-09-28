@@ -1,0 +1,9210 @@
+{
+"1C:Enterprise script language": {
+"status": "missing"
+},
+"2APL": {
+"status": "ok",
+"desc": "",
+"final": "2APL"
+},
+"3APL": {
+"status": "ok",
+"desc": "Experimental tool and programming language",
+"final": "3APL"
+},
+"4th Dimension (software)": {
+"status": "ok",
+"desc": "Relational database and programming language",
+"final": "4th Dimension (software)"
+},
+"A Hardware Programming Language": {
+"status": "missing"
+},
+"A Manufacturing Language": {
+"status": "ok",
+"desc": "General-purpose programming language",
+"final": "A Manufacturing Language"
+},
+"A Sharp (.NET)": {
+"status": "ok",
+"desc": "Programming language port",
+"final": "A Sharp (.NET)"
+},
+"A+ (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "A+ (programming language)"
+},
+"A-0 System": {
+"status": "ok",
+"desc": "Programming language",
+"final": "A-0 System"
+},
+"A-Shell": {
+"status": "missing"
+},
+"ABC (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "ABC (programming language)"
+},
+"ABCL/1": {
+"status": "ok",
+"desc": "Family of programming languages",
+"final": "Actor-Based Concurrent Language"
+},
+"ABEL (language)": {
+"status": "missing"
+},
+"ABS (programming language)": {
+"status": "missing"
+},
+"ABSET": {
+"status": "ok",
+"desc": "Programming language",
+"final": "ABSET"
+},
+"ABSYS": {
+"status": "ok",
+"desc": "",
+"final": "Absys"
+},
+"ACE (Amiga BASIC compiler)": {
+"status": "missing"
+},
+"ACL2": {
+"status": "ok",
+"desc": "Programming language and theorem prover",
+"final": "ACL2"
+},
+"ACSL (programming language)": {
+"status": "missing"
+},
+"ACT-III": {
+"status": "missing"
+},
+"ACT-R": {
+"status": "ok",
+"desc": "Software",
+"final": "ACT-R"
+},
+"ADMB": {
+"status": "ok",
+"desc": "Non-linear statistical modeling software suite",
+"final": "ADMB"
+},
+"ADRIFT": {
+"status": "ok",
+"desc": "Graphical user interface for text adventures",
+"final": "ADRIFT"
+},
+"AED (programming language)": {
+"status": "missing"
+},
+"AFNIX": {
+"status": "missing"
+},
+"AGFL": {
+"status": "ok",
+"desc": "Notation for context-free grammars with finite set-valued features",
+"final": "Affix grammar over a finite lattice"
+},
+"AIMACO": {
+"status": "ok",
+"desc": "",
+"final": "AIMACO"
+},
+"AIML": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "AIML"
+},
+"AIMMS": {
+"status": "ok",
+"desc": "Business analytics software company",
+"final": "AIMMS"
+},
+"ALF (programming language)": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "ALF"
+},
+"ALGOL": {
+"status": "ok",
+"desc": "Family of programming languages",
+"final": "ALGOL"
+},
+"ALGOL 58": {
+"status": "ok",
+"desc": "Programming language",
+"final": "ALGOL 58"
+},
+"ALGOL 60": {
+"status": "ok",
+"desc": "Member of the ALGOL family of computer programming languages",
+"final": "ALGOL 60"
+},
+"ALGOL 68": {
+"status": "ok",
+"desc": "Programming language",
+"final": "ALGOL 68"
+},
+"ALGOL 68-R": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "ALGOL 68-R"
+},
+"ALGOL 68C": {
+"status": "ok",
+"desc": "Imperative computer programming language",
+"final": "ALGOL 68C"
+},
+"ALGOL 68R": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "ALGOL 68-R"
+},
+"ALGOL W": {
+"status": "ok",
+"desc": "Programming language based on a proposal for ALGOL X",
+"final": "ALGOL W"
+},
+"ALTAC": {
+"status": "missing"
+},
+"ALTRAN": {
+"status": "ok",
+"desc": "Variant of the FORTRAN programming language",
+"final": "ALTRAN"
+},
+"AMBIT": {
+"status": "ok",
+"desc": "",
+"final": "AMBIT"
+},
+"AMOS (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "AMOS (programming language)"
+},
+"AMPL": {
+"status": "ok",
+"desc": "Algebraic modeling language",
+"final": "AMPL"
+},
+"AMTRAN": {
+"status": "ok",
+"desc": "",
+"final": "Altoona Metro Transit"
+},
+"ANSI BASIC": {
+"status": "ok",
+"desc": "Family of programming languages",
+"final": "BASIC"
+},
+"ANSYS Parametric Design Language": {
+"status": "missing"
+},
+"ANTLR": {
+"status": "ok",
+"desc": "Parser generator program",
+"final": "ANTLR"
+},
+"APL (programming language)": {
+"status": "ok",
+"desc": "Functional programming language for arrays",
+"final": "APL (programming language)"
+},
+"APL2": {
+"status": "ok",
+"desc": "Functional programming language for arrays",
+"final": "APL (programming language)"
+},
+"APLX": {
+"status": "missing"
+},
+"APT (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "APT (programming language)"
+},
+"ARIBAS": {
+"status": "missing"
+},
+"ARITH-MATIC": {
+"status": "ok",
+"desc": "",
+"final": "ARITH-MATIC"
+},
+"ARM architecture family": {
+"status": "ok",
+"desc": "Family of RISC-based computer architectures",
+"final": "ARM architecture family"
+},
+"ARexx": {
+"status": "ok",
+"desc": "Interpreter for the Rexx language on an Amiga computer",
+"final": "ARexx"
+},
+"ASF+SDF": {
+"status": "missing"
+},
+"ASIC (programming language)": {
+"status": "missing"
+},
+"ASN.1": {
+"status": "ok",
+"desc": "Data interface description language",
+"final": "ASN.1"
+},
+"ASP.NET Razor": {
+"status": "ok",
+"desc": "Programming syntax for ASP.NET",
+"final": "ASP.NET Razor"
+},
+"ASSIST (computing)": {
+"status": "ok",
+"desc": "",
+"final": "ASSIST (computing)"
+},
+"ATLAS (programming language)": {
+"status": "missing"
+},
+"ATLAS Transformation Language": {
+"status": "ok",
+"desc": "Model transformation language",
+"final": "ATLAS Transformation Language"
+},
+"ATS (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "ATS (programming language)"
+},
+"AUTOFLOW": {
+"status": "missing"
+},
+"AVISPA": {
+"status": "missing"
+},
+"AWK": {
+"status": "ok",
+"desc": "Text processing programming language",
+"final": "AWK"
+},
+"Aardappel (programming language)": {
+"status": "missing"
+},
+"Acceleo": {
+"status": "ok",
+"desc": "Open-source code generator",
+"final": "Acceleo"
+},
+"Acme (programming language)": {
+"status": "missing"
+},
+"Acorn Atom": {
+"status": "ok",
+"desc": "Acorn Computers home computer, 1980\u20131982",
+"final": "Acorn Atom"
+},
+"Acornsoft LISP": {
+"status": "ok",
+"desc": "Lisp dialect for the BBC Micro",
+"final": "Acornsoft LISP"
+},
+"Act 1 (programming language)": {
+"status": "missing"
+},
+"Actalk": {
+"status": "missing"
+},
+"Action! (programming language)": {
+"status": "ok",
+"desc": "Atari 8-bit computer programming language",
+"final": "Action! (programming language)"
+},
+"ActionScript": {
+"status": "ok",
+"desc": "Object-oriented programming language",
+"final": "ActionScript"
+},
+"Active Oberon": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Active Oberon"
+},
+"Actor (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Actor (programming language)"
+},
+"Actor model": {
+"status": "ok",
+"desc": "Model of concurrent computation",
+"final": "Actor model"
+},
+"Ada (programming language)": {
+"status": "ok",
+"desc": "High-level programming language first released in 1980",
+"final": "Ada (programming language)"
+},
+"Adobe Graphics Assembly Language": {
+"status": "ok",
+"desc": "API for rendering interactive 3D graphics",
+"final": "Stage3D"
+},
+"AdvPL": {
+"status": "ok",
+"desc": "Programming language",
+"final": "AdvPL"
+},
+"Adventure Game Studio": {
+"status": "ok",
+"desc": "Graphic design game tool",
+"final": "Adventure Game Studio"
+},
+"Agda (programming language)": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Agda (programming language)"
+},
+"Agena (programming language)": {
+"status": "missing"
+},
+"AgentSpeak": {
+"status": "ok",
+"desc": "",
+"final": "AgentSpeak"
+},
+"Aheui": {
+"status": "missing"
+},
+"Alan (programming language)": {
+"status": "missing"
+},
+"Alda (music programming language)": {
+"status": "missing"
+},
+"Aldor": {
+"status": "ok",
+"desc": "Programming language which first appeared in 1990",
+"final": "Aldor"
+},
+"Alef (programming language)": {
+"status": "ok",
+"desc": "Concurrent programming language",
+"final": "Alef (programming language)"
+},
+"Aleo (blockchain platform)": {
+"status": "missing"
+},
+"Aleph (ILP system)": {
+"status": "missing"
+},
+"Algae (programming language)": {
+"status": "missing"
+},
+"Alice (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Alice (programming language)"
+},
+"Alice (software)": {
+"status": "ok",
+"desc": "Programming language and software",
+"final": "Alice (software)"
+},
+"Allegro Common Lisp": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Allegro Common Lisp"
+},
+"Alloy (specification language)": {
+"status": "ok",
+"desc": "Declarative specification language",
+"final": "Alloy (specification language)"
+},
+"Alma-0": {
+"status": "ok",
+"desc": "Multi-paradigm programming language",
+"final": "Alma-0"
+},
+"Almquist shell": {
+"status": "ok",
+"desc": "Lightweight Unix shell",
+"final": "Almquist shell"
+},
+"Alphard (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Alphard (programming language)"
+},
+"Altair BASIC": {
+"status": "ok",
+"desc": "Programming language interpreter software, first product developed by Microsoft",
+"final": "Altair BASIC"
+},
+"Amanda (programming language)": {
+"status": "missing"
+},
+"Amber Smalltalk": {
+"status": "ok",
+"desc": "Implementation of Smalltalk-80",
+"final": "Amber Smalltalk"
+},
+"AmbientTalk": {
+"status": "ok",
+"desc": "Experimental object-oriented programming language",
+"final": "AmbientTalk"
+},
+"Amiga BASIC": {
+"status": "ok",
+"desc": "BASIC programming language implementation for Amiga computers",
+"final": "Amiga Basic"
+},
+"Amiga E": {
+"status": "ok",
+"desc": "General-purpose programming language for the Amiga family of computers",
+"final": "Amiga E"
+},
+"AmigaBasic": {
+"status": "ok",
+"desc": "BASIC programming language implementation for Amiga computers",
+"final": "Amiga Basic"
+},
+"AmigaE": {
+"status": "ok",
+"desc": "General-purpose programming language for the Amiga family of computers",
+"final": "Amiga E"
+},
+"Andl (programming language)": {
+"status": "missing"
+},
+"Andorra Kernel Language": {
+"status": "missing"
+},
+"Anna (programming language)": {
+"status": "missing"
+},
+"AnsProlog": {
+"status": "ok",
+"desc": "Programming paradigm focused on difficult search problems",
+"final": "Answer set programming"
+},
+"Ansible (software)": {
+"status": "ok",
+"desc": "Open-source software platform for remote configuring and managing computers",
+"final": "Ansible (software)"
+},
+"Answer set programming": {
+"status": "ok",
+"desc": "Programming paradigm focused on difficult search problems",
+"final": "Answer set programming"
+},
+"Antescofo": {
+"status": "ok",
+"desc": "",
+"final": "Antescofo"
+},
+"Apache Hive": {
+"status": "ok",
+"desc": "Database engine",
+"final": "Apache Hive"
+},
+"Apache Impala": {
+"status": "ok",
+"desc": "Open-source SQL query engine",
+"final": "Apache Impala"
+},
+"Apache Pig": {
+"status": "ok",
+"desc": "Open-source data analytics software",
+"final": "Apache Pig"
+},
+"Apache Thrift": {
+"status": "ok",
+"desc": "Open-source remote procedure call framework",
+"final": "Apache Thrift"
+},
+"Apache Velocity": {
+"status": "ok",
+"desc": "Java template engine",
+"final": "Apache Velocity"
+},
+"Apex (programming language)": {
+"status": "ok",
+"desc": "American software company",
+"final": "Salesforce"
+},
+"AppGameKit": {
+"status": "ok",
+"desc": "Software companies of the United Kingdom",
+"final": "The Game Creators"
+},
+"AppleScript": {
+"status": "ok",
+"desc": "Scripting language for macOS",
+"final": "AppleScript"
+},
+"Applesoft BASIC": {
+"status": "ok",
+"desc": "Dialect of Microsoft BASIC programming language",
+"final": "Applesoft BASIC"
+},
+"Arc (programming language)": {
+"status": "ok",
+"desc": "Open-source programming language",
+"final": "Arc (programming language)"
+},
+"Architecture Analysis and Design Language": {
+"status": "ok",
+"desc": "Architecture description language",
+"final": "Architecture Analysis & Design Language"
+},
+"Arden syntax": {
+"status": "ok",
+"desc": "",
+"final": "Arden syntax"
+},
+"Arduino": {
+"status": "ok",
+"desc": "Italian open-source hardware and software company",
+"final": "Arduino"
+},
+"Arena (programming language)": {
+"status": "missing"
+},
+"Arend (proof assistant)": {
+"status": "missing"
+},
+"Argile (programming language)": {
+"status": "missing"
+},
+"Argos (programming language)": {
+"status": "missing"
+},
+"Argus (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Argus (programming language)"
+},
+"Ariel (programming language)": {
+"status": "missing"
+},
+"ArnoldC": {
+"status": "ok",
+"desc": "Esoteric programming language",
+"final": "LOLCODE"
+},
+"AsciiDoc": {
+"status": "ok",
+"desc": "Human-readable document format",
+"final": "AsciiDoc"
+},
+"Asm.js": {
+"status": "ok",
+"desc": "Intermediate programming language",
+"final": "Asm.js"
+},
+"AsmL": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Abstract State Machine Language"
+},
+"AspectC++": {
+"status": "ok",
+"desc": "",
+"final": "AspectC++"
+},
+"AspectJ": {
+"status": "ok",
+"desc": "Aspect-oriented Java programming extension",
+"final": "AspectJ"
+},
+"Assembly language": {
+"status": "ok",
+"desc": "Low-level programming language family",
+"final": "Assembly language"
+},
+"AssemblyScript": {
+"status": "ok",
+"desc": "TypeScript-based programming language",
+"final": "AssemblyScript"
+},
+"Asymptote (vector graphics language)": {
+"status": "ok",
+"desc": "Descriptive vector graphics language",
+"final": "Asymptote (vector graphics language)"
+},
+"Atari BASIC": {
+"status": "ok",
+"desc": "Dialect of the BASIC programming language",
+"final": "Atari BASIC"
+},
+"Atari Logo": {
+"status": "ok",
+"desc": "",
+"final": "Atari Logo"
+},
+"Ateji PX": {
+"status": "ok",
+"desc": "Object-oriented programming language extension for Java",
+"final": "Ateji PX"
+},
+"Atlas Autocode": {
+"status": "ok",
+"desc": "1960s computer programming language",
+"final": "Atlas Autocode"
+},
+"Atmel AVR": {
+"status": "ok",
+"desc": "Family of microcontrollers",
+"final": "AVR microcontrollers"
+},
+"Attempto Controlled English": {
+"status": "ok",
+"desc": "Controlled language",
+"final": "Attempto Controlled English"
+},
+"Augeas (software)": {
+"status": "ok",
+"desc": "Configuration-management library",
+"final": "Augeas (software)"
+},
+"AutoHotkey": {
+"status": "ok",
+"desc": "Automation-focused scripting language for Windows",
+"final": "AutoHotkey"
+},
+"AutoIt": {
+"status": "ok",
+"desc": "Scripting language to automate tasks in Microsoft Windows",
+"final": "AutoIt"
+},
+"AutoLISP": {
+"status": "ok",
+"desc": "LISP computer programming language variant",
+"final": "AutoLISP"
+},
+"Autocode": {
+"status": "ok",
+"desc": "Early computer programming languages",
+"final": "Autocode"
+},
+"Autocoder": {
+"status": "ok",
+"desc": "Computer assembler",
+"final": "Autocoder"
+},
+"Automath": {
+"status": "ok",
+"desc": "Formal languages for expressing mathematical theories",
+"final": "Automath"
+},
+"Avail (programming language)": {
+"status": "missing"
+},
+"Avenue (programming language)": {
+"status": "missing"
+},
+"Averest": {
+"status": "ok",
+"desc": "",
+"final": "Averest"
+},
+"AviSynth": {
+"status": "ok",
+"desc": "Computer frameserver program",
+"final": "AviSynth"
+},
+"Axe (programming language)": {
+"status": "missing"
+},
+"Axiom (computer algebra system)": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Axiom (computer algebra system)"
+},
+"Axum (programming language)": {
+"status": "ok",
+"desc": "Domain specific concurrent programming language originally developed by Microsoft",
+"final": "Axum (programming language)"
+},
+"B (formal method)": {
+"status": "missing"
+},
+"B (programming language)": {
+"status": "ok",
+"desc": "Procedural programming language",
+"final": "B (programming language)"
+},
+"B-Method": {
+"status": "ok",
+"desc": "Method of software development",
+"final": "B-Method"
+},
+"B-Prolog": {
+"status": "ok",
+"desc": "",
+"final": "B-Prolog"
+},
+"BALM (programming language)": {
+"status": "missing"
+},
+"BANCStar programming language": {
+"status": "missing"
+},
+"BASIC": {
+"status": "ok",
+"desc": "Family of programming languages",
+"final": "BASIC"
+},
+"BASIC Stamp": {
+"status": "ok",
+"desc": "Microcontrollers",
+"final": "BASIC Stamp"
+},
+"BASIC-256": {
+"status": "ok",
+"desc": "Computer programming language and learning project",
+"final": "Basic-256"
+},
+"BASIC-PLUS": {
+"status": "ok",
+"desc": "Dialect of the BASIC Programming Language",
+"final": "BASIC-PLUS"
+},
+"BASIC09": {
+"status": "ok",
+"desc": "BASIC programming language dialect",
+"final": "BASIC09"
+},
+"BASICODE": {
+"status": "ok",
+"desc": "Computer project",
+"final": "BASICODE"
+},
+"BBC BASIC": {
+"status": "ok",
+"desc": "Version of the BASIC programming language",
+"final": "BBC BASIC"
+},
+"BBN LISP": {
+"status": "ok",
+"desc": "",
+"final": "BBN LISP"
+},
+"BBj": {
+"status": "missing"
+},
+"BBx": {
+"status": "missing"
+},
+"BCPL": {
+"status": "ok",
+"desc": "Multi-paradigm computer programming language",
+"final": "BCPL"
+},
+"BDS C": {
+"status": "ok",
+"desc": "C compiler from BD Software",
+"final": "BDS C"
+},
+"BEFLIX": {
+"status": "ok",
+"desc": "Programming language for animation",
+"final": "BEFLIX"
+},
+"BESM-6": {
+"status": "ok",
+"desc": "Soviet computer model (1968\u20131985)",
+"final": "BESM-6"
+},
+"BLISS": {
+"status": "ok",
+"desc": "Systems programming language",
+"final": "BLISS"
+},
+"BLISS (programming language)": {
+"status": "ok",
+"desc": "Systems programming language",
+"final": "BLISS"
+},
+"BLITZ": {
+"status": "ok",
+"desc": "British fashion and culture magazine",
+"final": "Blitz (British magazine)"
+},
+"BLODI": {
+"status": "missing"
+},
+"BNR Prolog": {
+"status": "ok",
+"desc": "Constraint logic programming language",
+"final": "BNR Prolog"
+},
+"BPFtrace": {
+"status": "missing"
+},
+"BUGS (programming language)": {
+"status": "missing"
+},
+"BYOND": {
+"status": "missing"
+},
+"BaCon (Basic Converter)": {
+"status": "missing"
+},
+"Babbage (programming language)": {
+"status": "ok",
+"desc": "Series of 16/32-bit minicomputers",
+"final": "GEC 4000 series"
+},
+"Babel-17 (programming language)": {
+"status": "missing"
+},
+"Babelsberg (programming language)": {
+"status": "ok",
+"desc": "Computer programming paradigm",
+"final": "Constraint programming"
+},
+"Balsa (language)": {
+"status": "missing"
+},
+"Bash (Unix shell)": {
+"status": "ok",
+"desc": "GNU replacement for the Bourne shell",
+"final": "Bash (Unix shell)"
+},
+"Basic4GL": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "Basic4GL"
+},
+"Basic4android": {
+"status": "ok",
+"desc": "Programming tool for Windows",
+"final": "Basic4android"
+},
+"Batari Basic": {
+"status": "ok",
+"desc": "Homebrew software on the Atari 2600 system",
+"final": "Atari 2600 homebrew"
+},
+"Batch file": {
+"status": "ok",
+"desc": "Script file for Microsoft computer operating systems",
+"final": "Batch file"
+},
+"Bc (programming language)": {
+"status": "ok",
+"desc": "Arbitrary-precision calculator supporting interactive and scripted use",
+"final": "Bc (programming language)"
+},
+"BeanShell": {
+"status": "ok",
+"desc": "Java-like scripting language",
+"final": "BeanShell"
+},
+"Befunge": {
+"status": "ok",
+"desc": "2-dimensional esoteric programming language",
+"final": "Befunge"
+},
+"Behavior Interaction Priority": {
+"status": "missing"
+},
+"Beluga (programming language)": {
+"status": "missing"
+},
+"BennuGD": {
+"status": "ok",
+"desc": "Video game development platform",
+"final": "BennuGD"
+},
+"Berkeley Packet Filter": {
+"status": "ok",
+"desc": "Interface to data link layers on a Unix-like system",
+"final": "Berkeley Packet Filter"
+},
+"Berry (programming language)": {
+"status": "missing"
+},
+"Bertrand (programming language)": {
+"status": "missing"
+},
+"Beta (programming language)": {
+"status": "missing"
+},
+"Beta BASIC": {
+"status": "ok",
+"desc": "BASIC interpreter for the Sinclair Research ZX Spectrum microcomputer",
+"final": "Beta BASIC"
+},
+"Betty (programming language)": {
+"status": "missing"
+},
+"Bicep (programming language)": {
+"status": "missing"
+},
+"Bigloo": {
+"status": "ok",
+"desc": "",
+"final": "Bigloo"
+},
+"Bigwig (programming language)": {
+"status": "missing"
+},
+"Binary lambda calculus": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "Binary combinatory logic"
+},
+"BitBake": {
+"status": "ok",
+"desc": "Build automation tool often used for building Linux distributions",
+"final": "BitBake"
+},
+"BitC": {
+"status": "missing"
+},
+"Bitcoin": {
+"status": "ok",
+"desc": "Decentralized digital cryptocurrency",
+"final": "Bitcoin"
+},
+"BlackBox Component Builder": {
+"status": "ok",
+"desc": "Software development tool",
+"final": "BlackBox Component Builder"
+},
+"Blassic": {
+"status": "missing"
+},
+"Blitz BASIC": {
+"status": "ok",
+"desc": "Programming language of the first Blitz compilers",
+"final": "Blitz BASIC"
+},
+"Blitz3D": {
+"status": "ok",
+"desc": "Programming language of the first Blitz compilers",
+"final": "Blitz BASIC"
+},
+"BlitzBasic": {
+"status": "ok",
+"desc": "Programming language of the first Blitz compilers",
+"final": "Blitz BASIC"
+},
+"BlitzMax": {
+"status": "ok",
+"desc": "Programming language of the first Blitz compilers",
+"final": "Blitz BASIC"
+},
+"Blockly": {
+"status": "ok",
+"desc": "JavaScript library",
+"final": "Blockly"
+},
+"BlooP and FlooP": {
+"status": "ok",
+"desc": "Simple programming languages",
+"final": "BlooP and FlooP"
+},
+"Bloom (programming language)": {
+"status": "missing"
+},
+"Blue (programming language)": {
+"status": "missing"
+},
+"Bluespec": {
+"status": "ok",
+"desc": "American semiconductor design company",
+"final": "Bluespec"
+},
+"Bluespec SystemVerilog": {
+"status": "ok",
+"desc": "American semiconductor design company",
+"final": "Bluespec"
+},
+"Boa (programming language)": {
+"status": "missing"
+},
+"Boo (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Boo (programming language)"
+},
+"Boogie (programming language)": {
+"status": "missing"
+},
+"Boomerang (programming language)": {
+"status": "ok",
+"desc": "Text-oriented programming language",
+"final": "Boomerang (programming language)"
+},
+"Bourne shell": {
+"status": "ok",
+"desc": "Command-line interpreter for operating systems",
+"final": "Bourne shell"
+},
+"Bournegol": {
+"status": "ok",
+"desc": "Command-line interpreter for operating systems",
+"final": "Bourne shell"
+},
+"Boxer (programming environment)": {
+"status": "missing"
+},
+"Bracmat": {
+"status": "missing"
+},
+"Braid (programming language)": {
+"status": "missing"
+},
+"Brainfuck": {
+"status": "ok",
+"desc": "Esoteric, minimalist programming language",
+"final": "Brainfuck"
+},
+"BrightScript": {
+"status": "ok",
+"desc": "Brand of streaming media players",
+"final": "Roku"
+},
+"BrookGPU": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "BrookGPU"
+},
+"Brython": {
+"status": "ok",
+"desc": "Ancient Celtic people of Great Britain",
+"final": "Celtic Britons"
+},
+"Burlesque (programming language)": {
+"status": "missing"
+},
+"Burroughs Algebraic Compiler": {
+"status": "missing"
+},
+"Burroughs large systems": {
+"status": "ok",
+"desc": "Range of mainframe computers in the 1960s and 70s",
+"final": "Burroughs Large Systems"
+},
+"Business Basic": {
+"status": "ok",
+"desc": "Category of BASIC interpreters specialized for business use",
+"final": "Business Basic"
+},
+"Business Intelligence Markup Language": {
+"status": "ok",
+"desc": "",
+"final": "Business Intelligence Markup Language"
+},
+"Business Object Notation": {
+"status": "ok",
+"desc": "",
+"final": "Business Object Notation"
+},
+"Business Process Execution Language": {
+"status": "ok",
+"desc": "Computer executable language",
+"final": "Business Process Execution Language"
+},
+"Buzz (programming language)": {
+"status": "missing"
+},
+"Bywater BASIC": {
+"status": "ok",
+"desc": "",
+"final": "List of BASIC dialects"
+},
+"C (programming language)": {
+"status": "ok",
+"desc": "General-purpose programming language",
+"final": "C (programming language)"
+},
+"C Sharp (programming language)": {
+"status": "ok",
+"desc": "General-purpose programming language",
+"final": "C Sharp (programming language)"
+},
+"C Shell": {
+"status": "ok",
+"desc": "Unix shell",
+"final": "C shell"
+},
+"C shell": {
+"status": "ok",
+"desc": "Unix shell",
+"final": "C shell"
+},
+"C*": {
+"status": "ok",
+"desc": "Object-oriented programming language",
+"final": "C*"
+},
+"C++": {
+"status": "ok",
+"desc": "General-purpose programming language",
+"final": "C++"
+},
+"C++/CLI": {
+"status": "ok",
+"desc": "Variant of C++ for .NET interoperability",
+"final": "C++/CLI"
+},
+"C--": {
+"status": "ok",
+"desc": "C-like programming language",
+"final": "C--"
+},
+"C/AL": {
+"status": "ok",
+"desc": "Programming language",
+"final": "C/AL"
+},
+"C0 (programming language)": {
+"status": "missing"
+},
+"CA-Visual Objects": {
+"status": "missing"
+},
+"CAL actor language": {
+"status": "missing"
+},
+"CAMAL": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Cambridge Algebra System"
+},
+"CARDboard Illustrative Aid to Computation": {
+"status": "ok",
+"desc": "Learning aid",
+"final": "CARDboard Illustrative Aid to Computation"
+},
+"CASL": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "CASL"
+},
+"CBASIC": {
+"status": "ok",
+"desc": "Compiled BASIC programming language for CP/M",
+"final": "CBASIC"
+},
+"CC++": {
+"status": "missing"
+},
+"CCured": {
+"status": "missing"
+},
+"CDC 6600": {
+"status": "ok",
+"desc": "Mainframe computer by Control Data",
+"final": "CDC 6600"
+},
+"CDuce": {
+"status": "missing"
+},
+"CESIL": {
+"status": "ok",
+"desc": "Educational computer programming language",
+"final": "CESIL"
+},
+"CFEngine": {
+"status": "ok",
+"desc": "Configuration management software",
+"final": "CFEngine"
+},
+"CGOL": {
+"status": "ok",
+"desc": "Programming language",
+"final": "CGOL"
+},
+"CHICKEN (Scheme implementation)": {
+"status": "ok",
+"desc": "Scheme-based programming language implementation",
+"final": "Chicken (Scheme implementation)"
+},
+"CHIP (programming language)": {
+"status": "ok",
+"desc": "Constraint logic programming language",
+"final": "CHIP (programming language)"
+},
+"CHIP-8": {
+"status": "ok",
+"desc": "Interpreted programming language",
+"final": "CHIP-8"
+},
+"CLASSIC (description logic)": {
+"status": "missing"
+},
+"CLISP": {
+"status": "ok",
+"desc": "Version of programming language Common Lisp",
+"final": "CLISP"
+},
+"CLIST": {
+"status": "ok",
+"desc": "Programming language",
+"final": "CLIST"
+},
+"CLP(R)": {
+"status": "ok",
+"desc": "Constraint logic programming over rational and real numbers",
+"final": "CLP(R)"
+},
+"CLU (programming language)": {
+"status": "ok",
+"desc": "Class-based programming language",
+"final": "CLU (programming language)"
+},
+"CMPL (programming language)": {
+"status": "missing"
+},
+"CMS EXEC": {
+"status": "ok",
+"desc": "",
+"final": "CMS EXEC"
+},
+"CMS Pipelines": {
+"status": "ok",
+"desc": "",
+"final": "CMS Pipelines"
+},
+"CMS-2 (programming language)": {
+"status": "ok",
+"desc": "Programming language developed for the US Navy",
+"final": "CMS-2"
+},
+"CMake": {
+"status": "ok",
+"desc": "Cross-platform build tool for configuring platform-specific builds",
+"final": "CMake"
+},
+"COBOL": {
+"status": "ok",
+"desc": "Programming language with English-like syntax",
+"final": "COBOL"
+},
+"CODIL": {
+"status": "missing"
+},
+"COGO": {
+"status": "ok",
+"desc": "Civil engineering geometry program",
+"final": "COGO"
+},
+"COLa (programming language)": {
+"status": "missing"
+},
+"COMAL": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "COMAL"
+},
+"COMEFROM": {
+"status": "ok",
+"desc": "Programming language control flow statement; opposite of goto",
+"final": "COMEFROM"
+},
+"COMIT": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "COMIT"
+},
+"COMPACT II": {
+"status": "missing"
+},
+"COMPASS": {
+"status": "ok",
+"desc": "",
+"final": "COMPASS"
+},
+"COMPOOL": {
+"status": "missing"
+},
+"COMTRAN": {
+"status": "ok",
+"desc": "Programming language developed in 1957",
+"final": "COMTRAN"
+},
+"COOL (programming language)": {
+"status": "missing"
+},
+"CORAL (programming language)": {
+"status": "missing"
+},
+"CORAL 66": {
+"status": "ok",
+"desc": "Early programming language",
+"final": "CORAL"
+},
+"CORC (programming language)": {
+"status": "missing"
+},
+"COURSEWRITER": {
+"status": "missing"
+},
+"COW programming language": {
+"status": "missing"
+},
+"CPL (programming language)": {
+"status": "ok",
+"desc": "Computer programming language from 1960s",
+"final": "CPL (programming language)"
+},
+"CUDA": {
+"status": "ok",
+"desc": "Parallel computing platform and programming model",
+"final": "CUDA"
+},
+"CUPL": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "CUPL"
+},
+"CWEB": {
+"status": "ok",
+"desc": "Macro-based programming language",
+"final": "Web (programming system)"
+},
+"CWIC": {
+"status": "ok",
+"desc": "Act of Parliament of the United Kingdom",
+"final": "Identity Cards Act 2006"
+},
+"Cach\u00e9 (software)": {
+"status": "ok",
+"desc": "Commercial operational database management system",
+"final": "InterSystems Cach\u00e9"
+},
+"Cach\u00e9 ObjectScript": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Cach\u00e9 ObjectScript"
+},
+"Cadabra (computer program)": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Cadabra (computer program)"
+},
+"Cadence (programming language)": {
+"status": "missing"
+},
+"Cadence SKILL": {
+"status": "ok",
+"desc": "Programming language dialect",
+"final": "Cadence SKILL"
+},
+"CafeOBJ": {
+"status": "missing"
+},
+"Caja project": {
+"status": "ok",
+"desc": "Google project for sanitizing third party HTML, CSS and JavaScript",
+"final": "Caja project"
+},
+"CakeML": {
+"status": "missing"
+},
+"Calc (software)": {
+"status": "missing"
+},
+"Calculus of communicating systems": {
+"status": "ok",
+"desc": "",
+"final": "Calculus of communicating systems"
+},
+"Cambridge Autocode": {
+"status": "missing"
+},
+"Caml": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Caml"
+},
+"Camlp4": {
+"status": "ok",
+"desc": "Programming software system",
+"final": "Camlp4"
+},
+"Cangjie (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Cangjie (programming language)"
+},
+"Cap'n Proto": {
+"status": "ok",
+"desc": "Serialization format and Remote Procedure Call (RPC) framework",
+"final": "Cap'n Proto"
+},
+"Carbon (programming language)": {
+"status": "ok",
+"desc": "Programming language designed for interoperability with C++",
+"final": "Carbon (programming language)"
+},
+"Cardano (blockchain platform)": {
+"status": "ok",
+"desc": "Public blockchain platform",
+"final": "Cardano (blockchain platform)"
+},
+"Carol (programming language)": {
+"status": "missing"
+},
+"Casio BASIC": {
+"status": "ok",
+"desc": "Casio calculator programming language",
+"final": "Casio BASIC"
+},
+"Cat (programming language)": {
+"status": "missing"
+},
+"Catala (programming language)": {
+"status": "missing"
+},
+"Catrobat": {
+"status": "ok",
+"desc": "Open source block-based programming language",
+"final": "Catrobat"
+},
+"Causal Calculator": {
+"status": "missing"
+},
+"Cayenne (programming language)": {
+"status": "ok",
+"desc": "Swedish computer scientist",
+"final": "Lennart Augustsson"
+},
+"Cayley (computer algebra system)": {
+"status": "missing"
+},
+"Cecil (programming language)": {
+"status": "ok",
+"desc": "Object-oriented programming language",
+"final": "Cecil (programming language)"
+},
+"Cedar (programming language)": {
+"status": "ok",
+"desc": "Programming language created in 1976",
+"final": "Mesa (programming language)"
+},
+"Cedille (programming language)": {
+"status": "missing"
+},
+"Cell (processor)": {
+"status": "ok",
+"desc": "Multi-core microprocessor microarchitecture",
+"final": "Cell (processor)"
+},
+"Cell-DEVS": {
+"status": "missing"
+},
+"Ceylon (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Ceylon (programming language)"
+},
+"Cg (programming language)": {
+"status": "ok",
+"desc": "Shading language",
+"final": "High-Level Shader Language"
+},
+"Ch (computer programming)": {
+"status": "ok",
+"desc": "Programming language environment",
+"final": "Ch (computer programming)"
+},
+"Chameleon (programming language)": {
+"status": "missing"
+},
+"Charm (programming language)": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "Charm (programming language)"
+},
+"Charm++": {
+"status": "ok",
+"desc": "Similar to C++ programming language",
+"final": "Charm++"
+},
+"CheetahTemplate": {
+"status": "ok",
+"desc": "Template engine software",
+"final": "CheetahTemplate"
+},
+"Chef (programming language)": {
+"status": "ok",
+"desc": "Programming language for experimentation or art",
+"final": "Esoteric programming language"
+},
+"Chez Scheme": {
+"status": "ok",
+"desc": "R6RS Scheme compiler and run-time",
+"final": "Chez Scheme"
+},
+"Chill (programming language)": {
+"status": "missing"
+},
+"Chipmunk Basic": {
+"status": "ok",
+"desc": "Freeware interpreter for the BASIC programming language",
+"final": "Chipmunk Basic"
+},
+"ChocoPy": {
+"status": "missing"
+},
+"ChucK": {
+"status": "ok",
+"desc": "Audio programming language",
+"final": "ChucK"
+},
+"Church (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Church (programming language)"
+},
+"Ciao (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Ciao (programming language)"
+},
+"Cilk": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Cilk"
+},
+"Cilk Plus": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Cilk"
+},
+"CircuitPython": {
+"status": "ok",
+"desc": "Programming language for embedded electronics",
+"final": "CircuitPython"
+},
+"Circus (specification language)": {
+"status": "missing"
+},
+"Citrine (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Citrine (programming language)"
+},
+"Clafer": {
+"status": "missing"
+},
+"Claire (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Claire (programming language)"
+},
+"Clarion (programming language)": {
+"status": "ok",
+"desc": "Database language, released 1986",
+"final": "Clarion (programming language)"
+},
+"Clarity (programming language)": {
+"status": "missing"
+},
+"Clash (hardware description language)": {
+"status": "missing"
+},
+"Clay (programming language)": {
+"status": "missing"
+},
+"Clean (programming language)": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Clean (programming language)"
+},
+"Click Modular Router": {
+"status": "missing"
+},
+"Clipper (programming language)": {
+"status": "ok",
+"desc": "Compiler for xBase",
+"final": "Clipper (programming language)"
+},
+"Clozure CL": {
+"status": "ok",
+"desc": "Common Lisp implementation",
+"final": "Clozure CL"
+},
+"Co-array Fortran": {
+"status": "ok",
+"desc": "Fortran parallel programming extension",
+"final": "Coarray Fortran"
+},
+"CoCoA": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "CoCoA"
+},
+"CoCoA (computer algebra system)": {
+"status": "missing"
+},
+"Coarray Fortran": {
+"status": "ok",
+"desc": "Fortran parallel programming extension",
+"final": "Coarray Fortran"
+},
+"Coccinelle (software)": {
+"status": "ok",
+"desc": "Open-source system for transforming C code",
+"final": "Coccinelle (software)"
+},
+"Coconut (programming language)": {
+"status": "ok",
+"desc": "General-purpose programming language",
+"final": "Python (programming language)"
+},
+"CodeQL": {
+"status": "ok",
+"desc": "English code analysis platform",
+"final": "Semmle"
+},
+"CoffeeScript": {
+"status": "ok",
+"desc": "Programming language which compiles to JavaScript",
+"final": "CoffeeScript"
+},
+"Cogent (programming language)": {
+"status": "missing"
+},
+"ColdFusion": {
+"status": "ok",
+"desc": "Rapid Web app development platform",
+"final": "Adobe ColdFusion"
+},
+"ColdFusion Markup Language": {
+"status": "ok",
+"desc": "Scripting language for web development",
+"final": "ColdFusion Markup Language"
+},
+"ColdMUD": {
+"status": "missing"
+},
+"Color BASIC": {
+"status": "ok",
+"desc": "",
+"final": "Color BASIC"
+},
+"ColorForth": {
+"status": "ok",
+"desc": "Programming language",
+"final": "ColorForth"
+},
+"Comenius Logo": {
+"status": "missing"
+},
+"Comet (programming language)": {
+"status": "missing"
+},
+"Comfy-65": {
+"status": "missing"
+},
+"Commodore BASIC": {
+"status": "ok",
+"desc": "BASIC programming language dialect",
+"final": "Commodore BASIC"
+},
+"Commodore VIC-20": {
+"status": "ok",
+"desc": "1981 home computer by Commodore",
+"final": "VIC-20"
+},
+"Common Algebraic Specification Language": {
+"status": "ok",
+"desc": "",
+"final": "Common Algebraic Specification Language"
+},
+"Common Command Language": {
+"status": "missing"
+},
+"Common Intermediate Language": {
+"status": "ok",
+"desc": "Intermediate representation defined within the CLI specification",
+"final": "Common Intermediate Language"
+},
+"Common Lisp": {
+"status": "ok",
+"desc": "Programming language standard",
+"final": "Common Lisp"
+},
+"Common Lisp Music": {
+"status": "ok",
+"desc": "Audio programming language",
+"final": "Common Lisp Music"
+},
+"Common Lisp Object System": {
+"status": "ok",
+"desc": "Feature in the programming language Lisp",
+"final": "Common Lisp Object System"
+},
+"Common Music": {
+"status": "missing"
+},
+"Common Workflow Language": {
+"status": "ok",
+"desc": "Standard for computational data-analysis workflows",
+"final": "Common Workflow Language"
+},
+"CommonLoops": {
+"status": "ok",
+"desc": "",
+"final": "CommonLoops"
+},
+"Communicating sequential processes": {
+"status": "ok",
+"desc": "Formal model in concurrency theory",
+"final": "Communicating sequential processes"
+},
+"Component Pascal": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Component Pascal"
+},
+"ConTeXt": {
+"status": "ok",
+"desc": "General-purpose document processor, derived from TeX",
+"final": "ConTeXt"
+},
+"Concurrent C": {
+"status": "missing"
+},
+"Concurrent Collections": {
+"status": "ok",
+"desc": "Programming model for software frameworks",
+"final": "Concurrent Collections"
+},
+"Concurrent Euclid": {
+"status": "ok",
+"desc": "",
+"final": "Concurrent Euclid"
+},
+"Concurrent ML": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Concurrent ML"
+},
+"Concurrent Pascal": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Concurrent Pascal"
+},
+"Concurrent Prolog": {
+"status": "missing"
+},
+"Concurrent logic programming": {
+"status": "ok",
+"desc": "Logic programming paradigm",
+"final": "Concurrent logic programming"
+},
+"Connection Machine": {
+"status": "ok",
+"desc": "Supercomputer model (produced 1986\u20131991)",
+"final": "Connection Machine"
+},
+"Conniver": {
+"status": "ok",
+"desc": "American-bred Thoroughbred racehorse",
+"final": "Conniver"
+},
+"Constraint Handling Rules": {
+"status": "ok",
+"desc": "Concurrent constraint logic programming language",
+"final": "Constraint Handling Rules"
+},
+"Context Free (software)": {
+"status": "missing"
+},
+"Context Free Art": {
+"status": "missing"
+},
+"Continuous System Modeling Program": {
+"status": "missing"
+},
+"Continuous System Simulation Language": {
+"status": "missing"
+},
+"Control language": {
+"status": "missing"
+},
+"Converge (programming language)": {
+"status": "missing"
+},
+"Conversational Algebraic Language": {
+"status": "missing"
+},
+"Cook (software)": {
+"status": "missing"
+},
+"Copilot (programming language)": {
+"status": "missing"
+},
+"Copperhead (programming language)": {
+"status": "missing"
+},
+"Coq": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "Coq"
+},
+"Coq (software)": {
+"status": "ok",
+"desc": "Proof assistant",
+"final": "Rocq"
+},
+"Core War": {
+"status": "ok",
+"desc": "1984 video game",
+"final": "Core War"
+},
+"CoreASM": {
+"status": "ok",
+"desc": "",
+"final": "CoreASM"
+},
+"Corman Common Lisp": {
+"status": "ok",
+"desc": "Programming language standard",
+"final": "Common Lisp"
+},
+"Crack (programming language)": {
+"status": "missing"
+},
+"Creation Engine": {
+"status": "ok",
+"desc": "Video game engine",
+"final": "Creation Engine"
+},
+"Creol": {
+"status": "missing"
+},
+"Crestron SIMPL": {
+"status": "missing"
+},
+"Cryptol": {
+"status": "ok",
+"desc": "Programming language for cryptography",
+"final": "Cryptol"
+},
+"Csound": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Csound"
+},
+"Cuis Smalltalk": {
+"status": "missing"
+},
+"Cuneiform (programming language)": {
+"status": "ok",
+"desc": "Open-source workflow language",
+"final": "Cuneiform (programming language)"
+},
+"Curl (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Curl (programming language)"
+},
+"Curly (programming language)": {
+"status": "missing"
+},
+"Curry (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Curry (programming language)"
+},
+"Curv (programming language)": {
+"status": "missing"
+},
+"Cyan (programming language)": {
+"status": "missing"
+},
+"CycL": {
+"status": "ok",
+"desc": "Ontology language",
+"final": "CycL"
+},
+"Cyclone (programming language)": {
+"status": "ok",
+"desc": "Memory-safe dialect of the C programming language",
+"final": "Cyclone (programming language)"
+},
+"Cycript": {
+"status": "missing"
+},
+"Cylindrical algebraic decomposition": {
+"status": "ok",
+"desc": "Decomposing n-space into cells in which each of a set of polynomials has constant sign",
+"final": "Cylindrical algebraic decomposition"
+},
+"Cython": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Cython"
+},
+"C\u00e9u (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "C\u00e9u (programming language)"
+},
+"C\u03c9": {
+"status": "ok",
+"desc": "Microsoft .NET Framework component",
+"final": "Language Integrated Query"
+},
+"C\u2200": {
+"status": "missing"
+},
+"D2 (programming language)": {
+"status": "missing"
+},
+"D4 (programming language)": {
+"status": "ok",
+"desc": "Relational database management system",
+"final": "Dataphor"
+},
+"DAPLEX": {
+"status": "missing"
+},
+"DARSIMCO": {
+"status": "ok",
+"desc": "1950s programming language for mathematical operations",
+"final": "DARSIMCO"
+},
+"DASL": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "DASL"
+},
+"DATR": {
+"status": "ok",
+"desc": "",
+"final": "DATR"
+},
+"DAX": {
+"status": "ok",
+"desc": "Blue chip stock market index",
+"final": "DAX"
+},
+"DBase": {
+"status": "ok",
+"desc": "Database management system",
+"final": "DBase"
+},
+"DCE/RPC": {
+"status": "ok",
+"desc": "Computer communication protocol for internal use",
+"final": "DCE/RPC"
+},
+"DCPU-16": {
+"status": "ok",
+"desc": "Cancelled sandbox science fiction video game",
+"final": "0x10c"
+},
+"DEC Alpha": {
+"status": "ok",
+"desc": "64-bit RISC instruction set architecture",
+"final": "DEC Alpha"
+},
+"DEDAL": {
+"status": "missing"
+},
+"DEUCE (computer)": {
+"status": "missing"
+},
+"DG/L": {
+"status": "ok",
+"desc": "",
+"final": "DG/L"
+},
+"DIBOL": {
+"status": "ok",
+"desc": "",
+"final": "DIBOL"
+},
+"DIESEL (programming language)": {
+"status": "missing"
+},
+"DIGITAL Command Language": {
+"status": "ok",
+"desc": "Command language adopted by several operating systems (OSs)",
+"final": "DIGITAL Command Language"
+},
+"DITRAN": {
+"status": "missing"
+},
+"DIV Games Studio": {
+"status": "missing"
+},
+"DIVINE (software)": {
+"status": "missing"
+},
+"DLV": {
+"status": "ok",
+"desc": "",
+"final": "Disjunctive Datalog"
+},
+"DLX": {
+"status": "ok",
+"desc": "RISC processor architecture",
+"final": "DLX"
+},
+"DM (programming language)": {
+"status": "missing"
+},
+"DOORS eXtension Language": {
+"status": "missing"
+},
+"DOT (graph description language)": {
+"status": "ok",
+"desc": "File format",
+"final": "DOT (graph description language)"
+},
+"DRAKON": {
+"status": "ok",
+"desc": "Algorithm mapping tool",
+"final": "DRAKON"
+},
+"DSSP": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "DSSP"
+},
+"DTrace": {
+"status": "ok",
+"desc": "Dynamic tracing framework for kernel and applications",
+"final": "DTrace"
+},
+"DWIM": {
+"status": "ok",
+"desc": "Software that guesses users' intentions",
+"final": "DWIM"
+},
+"DYNAMO (programming language)": {
+"status": "ok",
+"desc": "Simulation language & graphical notation",
+"final": "DYNAMO (programming language)"
+},
+"Dark (programming language)": {
+"status": "missing"
+},
+"DarkBASIC": {
+"status": "ok",
+"desc": "Software companies of the United Kingdom",
+"final": "The Game Creators"
+},
+"Dartmouth BASIC": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Dartmouth BASIC"
+},
+"Dartmouth Oversimplified Programming Experiment": {
+"status": "ok",
+"desc": "Introductory programming language prior to BASIC (1962)",
+"final": "Dartmouth Oversimplified Programming Experiment"
+},
+"Darwin (programming language)": {
+"status": "ok",
+"desc": "Multi-paradigm programming language",
+"final": "Darwin (programming language)"
+},
+"Dash (shell)": {
+"status": "ok",
+"desc": "Lightweight Unix shell",
+"final": "Almquist shell"
+},
+"Data General BASIC": {
+"status": "missing"
+},
+"Data General Nova": {
+"status": "ok",
+"desc": "16-bit minicomputer series",
+"final": "Data General Nova"
+},
+"Data General SBASIC": {
+"status": "missing"
+},
+"DataEase": {
+"status": "ok",
+"desc": "Relational database management system (RDBMS)",
+"final": "DataEase"
+},
+"DataFlex": {
+"status": "ok",
+"desc": "Object-oriented programming language and IDE",
+"final": "DataFlex"
+},
+"DataWeave": {
+"status": "missing"
+},
+"Datalog": {
+"status": "ok",
+"desc": "Declarative logic programming language",
+"final": "Datalog"
+},
+"Dataphor": {
+"status": "ok",
+"desc": "Relational database management system",
+"final": "Dataphor"
+},
+"Datatrieve": {
+"status": "ok",
+"desc": "Database query and report writer tool",
+"final": "DATATRIEVE"
+},
+"Dc (computer program)": {
+"status": "ok",
+"desc": "Cross-platform reverse-Polish calculator program",
+"final": "Dc (computer program)"
+},
+"Decaf (programming language)": {
+"status": "missing"
+},
+"Decimal BASIC": {
+"status": "missing"
+},
+"Decision Model and Notation": {
+"status": "ok",
+"desc": "Standard published by the Object Management Group",
+"final": "Decision Model and Notation"
+},
+"Declarative networking": {
+"status": "missing"
+},
+"Dedukti": {
+"status": "missing"
+},
+"Deja Vu (programming language)": {
+"status": "missing"
+},
+"Delight (programming language)": {
+"status": "missing"
+},
+"Delphi (software)": {
+"status": "ok",
+"desc": "Programming language and IDE",
+"final": "Delphi (software)"
+},
+"Deluge (programming language)": {
+"status": "missing"
+},
+"Dependent ML": {
+"status": "ok",
+"desc": "Experimental programming language",
+"final": "Dependent ML"
+},
+"Derive (computer algebra system)": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Derive (computer algebra system)"
+},
+"Diderot (programming language)": {
+"status": "missing"
+},
+"Digital Asset Modeling Language": {
+"status": "ok",
+"desc": "American financial technology company",
+"final": "Digital Asset Holdings"
+},
+"Disciplined Disciple Compiler": {
+"status": "missing"
+},
+"Disco (programming language)": {
+"status": "missing"
+},
+"Document Style Semantics and Specification Language": {
+"status": "ok",
+"desc": "Computer language for specifying stylesheets for SGML documents",
+"final": "Document Style Semantics and Specification Language"
+},
+"Documentum": {
+"status": "missing"
+},
+"Dolittle (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Dolittle (programming language)"
+},
+"Dolphin Smalltalk": {
+"status": "ok",
+"desc": "",
+"final": "Dolphin Smalltalk"
+},
+"Draco (programming language)": {
+"status": "ok",
+"desc": "Shareware programming language",
+"final": "Draco (programming language)"
+},
+"Dragon 32/64": {
+"status": "ok",
+"desc": "Home computer model",
+"final": "Dragon 32/64"
+},
+"Duktape": {
+"status": "missing"
+},
+"Dyalog": {
+"status": "ok",
+"desc": "Functional programming language for arrays",
+"final": "APL (programming language)"
+},
+"Dyalog APL": {
+"status": "ok",
+"desc": "Functional programming language for arrays",
+"final": "APL (programming language)"
+},
+"Dylan (programming language)": {
+"status": "ok",
+"desc": "Multi-paradigm programming language",
+"final": "Dylan (programming language)"
+},
+"Dyna (programming language)": {
+"status": "missing"
+},
+"Dynace": {
+"status": "missing"
+},
+"Dynamic C": {
+"status": "ok",
+"desc": "",
+"final": "Rabbit Semiconductor"
+},
+"Dyvil": {
+"status": "missing"
+},
+"D\u00e9j\u00e0 Vu (programming language)": {
+"status": "missing"
+},
+"E (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "E (programming language)"
+},
+"E (verification language)": {
+"status": "ok",
+"desc": "Hardware verification language",
+"final": "E (verification language)"
+},
+"EASE (programming language)": {
+"status": "missing"
+},
+"EC (programming language)": {
+"status": "missing"
+},
+"ECAP (program)": {
+"status": "missing"
+},
+"ECLiPSe": {
+"status": "ok",
+"desc": "Constraint logic programming system",
+"final": "ECLiPSe"
+},
+"ECMAScript": {
+"status": "ok",
+"desc": "Specification for JavaScript and other programming languages",
+"final": "ECMAScript"
+},
+"ECMAScript for XML": {
+"status": "ok",
+"desc": "Retired programming language extension for XML in JavaScript.",
+"final": "ECMAScript for XML"
+},
+"EDSAC": {
+"status": "ok",
+"desc": "1940s\u20131950s British computer",
+"final": "EDSAC"
+},
+"EFL (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "EFL (programming language)"
+},
+"EGL (programming language)": {
+"status": "ok",
+"desc": "Programming language developed by IBM",
+"final": "EGL (programming language)"
+},
+"ELENA (programming language)": {
+"status": "missing"
+},
+"ELI (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "ELI (programming language)"
+},
+"ELLA (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "ELLA (programming language)"
+},
+"EO (programming language)": {
+"status": "missing"
+},
+"EPerl": {
+"status": "missing"
+},
+"ERGOL": {
+"status": "missing"
+},
+"ERuby": {
+"status": "ok",
+"desc": "Template system used with Ruby",
+"final": "ERuby"
+},
+"ESPOL (programming language)": {
+"status": "ok",
+"desc": "Range of mainframe computers in the 1960s and 70s",
+"final": "Burroughs Large Systems"
+},
+"EUMEL": {
+"status": "ok",
+"desc": "Operating system",
+"final": "Eumel"
+},
+"EViews": {
+"status": "ok",
+"desc": "Statistical package",
+"final": "EViews"
+},
+"EXAPT": {
+"status": "ok",
+"desc": "Programming language",
+"final": "EXAPT"
+},
+"EXEC (programming language)": {
+"status": "missing"
+},
+"EXEC 2": {
+"status": "ok",
+"desc": "",
+"final": "EXEC 2"
+},
+"EXEC 8": {
+"status": "ok",
+"desc": "Unisys operating system",
+"final": "OS 2200"
+},
+"EXPRESS (data modeling language)": {
+"status": "ok",
+"desc": "Standard data modeling language for product data",
+"final": "EXPRESS (data modeling language)"
+},
+"Easel (programming language)": {
+"status": "missing"
+},
+"EasyLanguage": {
+"status": "ok",
+"desc": "Proprietary programming language",
+"final": "EasyLanguage"
+},
+"Easytrieve Reporter": {
+"status": "missing"
+},
+"Ecere": {
+"status": "missing"
+},
+"Eden (programming language)": {
+"status": "missing"
+},
+"Edinburgh IMP": {
+"status": "ok",
+"desc": "Systems programming language used in the EMAS operating system",
+"final": "Edinburgh IMP"
+},
+"Edison (programming language)": {
+"status": "ok",
+"desc": "Danish-American computer scientist",
+"final": "Per Brinch Hansen"
+},
+"Eel (programming language)": {
+"status": "missing"
+},
+"Eero (programming language)": {
+"status": "missing"
+},
+"Eff (programming language)": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Eff (programming language)"
+},
+"Ejscript": {
+"status": "missing"
+},
+"El-76": {
+"status": "ok",
+"desc": "Computer language",
+"final": "El-76"
+},
+"Elan (programming language)": {
+"status": "ok",
+"desc": "Educational programming language",
+"final": "ELAN (programming language)"
+},
+"Electrum (model checker)": {
+"status": "missing"
+},
+"Eliom (software)": {
+"status": "missing"
+},
+"Elk (programming language)": {
+"status": "missing"
+},
+"Elliott 503": {
+"status": "ok",
+"desc": "1960's computer",
+"final": "Elliott 503"
+},
+"Elliott 803": {
+"status": "ok",
+"desc": "Small, medium-speed transistor digital computer manufactured in the 1960s",
+"final": "Elliott 803"
+},
+"Emacs Lisp": {
+"status": "ok",
+"desc": "Dialect of Lisp in the Emacs text editor",
+"final": "Emacs Lisp"
+},
+"Embeddable Common Lisp": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "Embeddable Common Lisp"
+},
+"Embedded C++": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Embedded C++"
+},
+"Embedded SQL": {
+"status": "ok",
+"desc": "Computer programming method",
+"final": "Embedded SQL"
+},
+"Embryo (programming language)": {
+"status": "missing"
+},
+"Emerald (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Emerald (programming language)"
+},
+"Encore (programming language)": {
+"status": "missing"
+},
+"Enterprise (computer)": {
+"status": "ok",
+"desc": "Zilog Z80-based home computer",
+"final": "Enterprise (computer)"
+},
+"Enterprise Control Language": {
+"status": "ok",
+"desc": "",
+"final": "ECL (data-centric programming language)"
+},
+"Eolang": {
+"status": "missing"
+},
+"Epigram (programming language)": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Epigram (programming language)"
+},
+"Eqn (software)": {
+"status": "ok",
+"desc": "Preprocessor that formats equations for drawing",
+"final": "Eqn (software)"
+},
+"Erjang": {
+"status": "missing"
+},
+"Es shell": {
+"status": "ok",
+"desc": "Command line interpreter for Version 10 Unix and Plan 9 from Bell Labs operating systems",
+"final": "Rc (Unix shell)"
+},
+"Escher (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Escher (programming language)"
+},
+"Espruino": {
+"status": "ok",
+"desc": "",
+"final": "Espruino"
+},
+"Essence (specification language)": {
+"status": "missing"
+},
+"Estelle (formal description technique)": {
+"status": "missing"
+},
+"Esterel": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Esterel"
+},
+"Etoys": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "EToys"
+},
+"EuLisp": {
+"status": "ok",
+"desc": "Programming language",
+"final": "EuLisp"
+},
+"Euclid (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Euclid (programming language)"
+},
+"Eukleides": {
+"status": "ok",
+"desc": "",
+"final": "List of interactive geometry software"
+},
+"Euler (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Euler (programming language)"
+},
+"EusLisp": {
+"status": "missing"
+},
+"Eve (programming language)": {
+"status": "missing"
+},
+"Event-B": {
+"status": "ok",
+"desc": "Method of software development",
+"final": "B-Method"
+},
+"Executable UML": {
+"status": "ok",
+"desc": "Software development method and a highly abstract software language",
+"final": "Executable UML"
+},
+"Expect": {
+"status": "ok",
+"desc": "Extension to the Tcl scripting language",
+"final": "Expect"
+},
+"Extempore (programming language)": {
+"status": "missing"
+},
+"ExtendScript": {
+"status": "ok",
+"desc": "",
+"final": "ExtendScript"
+},
+"Extended ML": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Extended ML"
+},
+"Extended Pascal": {
+"status": "missing"
+},
+"Extensible Application Markup Language": {
+"status": "ok",
+"desc": "Language Microsoft developed for initializing structured values and objects",
+"final": "Extensible Application Markup Language"
+},
+"Ezhil (programming language)": {
+"status": "ok",
+"desc": "Tamil-based language, for education",
+"final": "Ezhil (programming language)"
+},
+"F (programming language)": {
+"status": "ok",
+"desc": "Programming language: compiled, structured, array language",
+"final": "F (programming language)"
+},
+"F* (programming language)": {
+"status": "ok",
+"desc": "Functional programming language inspired by ML and aimed at program verification",
+"final": "F* (programming language)"
+},
+"F-Script (programming language)": {
+"status": "missing"
+},
+"F-lite": {
+"status": "missing"
+},
+"F-logic": {
+"status": "ok",
+"desc": "Ontology language",
+"final": "F-logic"
+},
+"FACT computer language": {
+"status": "ok",
+"desc": "",
+"final": "FACT (computer language)"
+},
+"FAP (programming language)": {
+"status": "missing"
+},
+"FARGO (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "FARGO (programming language)"
+},
+"FASM": {
+"status": "ok",
+"desc": "Open source assembler for x86 processors",
+"final": "FASM"
+},
+"FAUST (programming language)": {
+"status": "ok",
+"desc": "Audio programming language",
+"final": "FAUST (programming language)"
+},
+"FL (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "FL (programming language)"
+},
+"FLACC": {
+"status": "ok",
+"desc": "",
+"final": "FLACC"
+},
+"FLIP (programming language)": {
+"status": "missing"
+},
+"FLOW-MATIC": {
+"status": "ok",
+"desc": "First English-like data processing language",
+"final": "FLOW-MATIC"
+},
+"FLOWTRAN": {
+"status": "missing"
+},
+"FMSLogo": {
+"status": "ok",
+"desc": "",
+"final": "FMSLogo"
+},
+"FOCAL (programming language)": {
+"status": "ok",
+"desc": "Programming language used on DEC PDP-series machines",
+"final": "FOCAL (programming language)"
+},
+"FOCUS (programming language)": {
+"status": "missing"
+},
+"FORM (symbolic manipulation system)": {
+"status": "ok",
+"desc": "Mathematical software",
+"final": "FORM (symbolic manipulation system)"
+},
+"FORMAC (programming language)": {
+"status": "ok",
+"desc": "Computer algebra system based on FORTRAN",
+"final": "FORMAC"
+},
+"FORTRAN List Processing Language": {
+"status": "missing"
+},
+"FORTRANSIT": {
+"status": "ok",
+"desc": "Version of FORTRAN programming languate for IBM 650",
+"final": "FOR TRANSIT"
+},
+"FP (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "FP (programming language)"
+},
+"FRACTRAN": {
+"status": "ok",
+"desc": "Turing-complete esoteric programming language invented by John Conway",
+"final": "FRACTRAN"
+},
+"FX (programming language)": {
+"status": "missing"
+},
+"Facebook Query Language": {
+"status": "ok",
+"desc": "Query language",
+"final": "Facebook Query Language"
+},
+"Factor (programming language)": {
+"status": "ok",
+"desc": "Stack-oriented programming language",
+"final": "Factor (programming language)"
+},
+"Fail-Safe C": {
+"status": "ok",
+"desc": "Software security techniques",
+"final": "Buffer overflow protection"
+},
+"False (programming language)": {
+"status": "missing"
+},
+"Fancy (programming language)": {
+"status": "missing"
+},
+"Fantom (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Fantom (programming language)"
+},
+"Fay (programming language)": {
+"status": "missing"
+},
+"Fe (programming language)": {
+"status": "missing"
+},
+"Featherweight Java": {
+"status": "missing"
+},
+"Felix (programming language)": {
+"status": "missing"
+},
+"Ferite": {
+"status": "missing"
+},
+"Fermat (computer algebra system)": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Fermat (computer algebra system)"
+},
+"Ferret (Lisp implementation)": {
+"status": "missing"
+},
+"Ficl": {
+"status": "missing"
+},
+"Figaro (programming language)": {
+"status": "missing"
+},
+"Finite state process": {
+"status": "missing"
+},
+"Fish (shell)": {
+"status": "ok",
+"desc": "User-friendly interactive Unix shell",
+"final": "Fish (Unix shell)"
+},
+"Fj\u00f6lnir (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Fj\u00f6lnir (programming language)"
+},
+"Flapjax (programming language)": {
+"status": "missing"
+},
+"Flat Assembler": {
+"status": "ok",
+"desc": "Open source assembler for x86 processors",
+"final": "FASM"
+},
+"FlatBuffers": {
+"status": "ok",
+"desc": "Cross platform serialization software library",
+"final": "FlatBuffers"
+},
+"Flavors (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Flavors (programming language)"
+},
+"Fleng": {
+"status": "missing"
+},
+"Flex (lexical analyser generator)": {
+"status": "ok",
+"desc": "UNIX program for lexical analysis",
+"final": "Flex (lexical analyzer generator)"
+},
+"Flora-2": {
+"status": "ok",
+"desc": "Logic-based programming language",
+"final": "Flora-2"
+},
+"Flow (JavaScript type checker)": {
+"status": "missing"
+},
+"Flow-based programming": {
+"status": "ok",
+"desc": "Data-flow programming paradigm",
+"final": "Flow-based programming"
+},
+"Foma (software)": {
+"status": "ok",
+"desc": "",
+"final": "Foma (software)"
+},
+"Forcal": {
+"status": "missing"
+},
+"FormCalc": {
+"status": "missing"
+},
+"Formura": {
+"status": "missing"
+},
+"Forsythe (programming language)": {
+"status": "ok",
+"desc": "American computer scientist (1935\u20132013)",
+"final": "John C. Reynolds"
+},
+"Forth (programming language)": {
+"status": "ok",
+"desc": "Stack-based programming language",
+"final": "Forth (programming language)"
+},
+"Forth Interest Group": {
+"status": "ok",
+"desc": "Stack-based programming language",
+"final": "Forth (programming language)"
+},
+"Fortran": {
+"status": "ok",
+"desc": "General-purpose programming language",
+"final": "Fortran"
+},
+"Fortran 95 language features": {
+"status": "ok",
+"desc": "1995 edition of the Fortran programming language standard",
+"final": "Fortran 95 language features"
+},
+"Fortress (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Fortress (programming language)"
+},
+"Forum (programming language)": {
+"status": "missing"
+},
+"FoxDot": {
+"status": "missing"
+},
+"FoxPro": {
+"status": "ok",
+"desc": "Programming language",
+"final": "FoxPro"
+},
+"Frama-C": {
+"status": "ok",
+"desc": "Libre OCaml formal C verifier",
+"final": "Frama-C"
+},
+"Franz Lisp": {
+"status": "ok",
+"desc": "Lisp programming language system",
+"final": "Franz Lisp"
+},
+"Free Pascal": {
+"status": "ok",
+"desc": "Free compiler and IDE for Pascal and ObjectPascal",
+"final": "Free Pascal"
+},
+"FreeBASIC": {
+"status": "ok",
+"desc": "BASIC dialect",
+"final": "FreeBASIC"
+},
+"FreeFEM": {
+"status": "ok",
+"desc": "Programming and software language",
+"final": "FreeFem++"
+},
+"FreeFem++": {
+"status": "ok",
+"desc": "Programming and software language",
+"final": "FreeFem++"
+},
+"FreeMarker": {
+"status": "ok",
+"desc": "Java-based template engine",
+"final": "FreeMarker"
+},
+"FreeMat": {
+"status": "ok",
+"desc": "Numerical computing environment",
+"final": "FreeMat"
+},
+"Frege (programming language)": {
+"status": "missing"
+},
+"Frenetic (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Frenetic (programming language)"
+},
+"FreshML": {
+"status": "missing"
+},
+"FriCAS": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "FriCAS"
+},
+"Fril (programming language)": {
+"status": "missing"
+},
+"Function block diagram": {
+"status": "ok",
+"desc": "Graphical language for PLC design",
+"final": "Function block diagram"
+},
+"Functional reactive programming": {
+"status": "ok",
+"desc": "Programming paradigm",
+"final": "Functional reactive programming"
+},
+"FunnelWeb (software)": {
+"status": "missing"
+},
+"FutureBasic": {
+"status": "missing"
+},
+"Fuzuli (programming language)": {
+"status": "missing"
+},
+"G-code": {
+"status": "ok",
+"desc": "Programming language used in CNC and 3D printing",
+"final": "G-code"
+},
+"G2 (programming language)": {
+"status": "missing"
+},
+"GAML": {
+"status": "missing"
+},
+"GAP (computer algebra system)": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "GAP (computer algebra system)"
+},
+"GASP (simulation language)": {
+"status": "ok",
+"desc": "",
+"final": "GASP (simulation language)"
+},
+"GAUSS (programming language)": {
+"status": "ok",
+"desc": "Matrix programming language",
+"final": "GAUSS (software)"
+},
+"GDL (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "GNU Data Language"
+},
+"GDScript": {
+"status": "ok",
+"desc": "Open source game engine",
+"final": "Godot (game engine)"
+},
+"GEDANKEN (programming language)": {
+"status": "missing"
+},
+"GENTLE": {
+"status": "missing"
+},
+"GEORGE (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "GEORGE (programming language)"
+},
+"GFA BASIC": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "GFA BASIC"
+},
+"GIER (computer)": {
+"status": "missing"
+},
+"GLBasic": {
+"status": "ok",
+"desc": "Commercial BASIC programming language",
+"final": "GLBasic"
+},
+"GLIM (software)": {
+"status": "ok",
+"desc": "",
+"final": "GLIM (software)"
+},
+"GNU Assembler": {
+"status": "ok",
+"desc": "Free and open-source assembler",
+"final": "GNU Assembler"
+},
+"GNU Bison": {
+"status": "ok",
+"desc": "Yacc-compatible parser generator program",
+"final": "GNU Bison"
+},
+"GNU Guile": {
+"status": "ok",
+"desc": "Extension language",
+"final": "GNU Guile"
+},
+"GNU Linear Programming Kit": {
+"status": "ok",
+"desc": "Software package",
+"final": "GNU Linear Programming Kit"
+},
+"GNU Octave": {
+"status": "ok",
+"desc": "Numerical analysis programming language",
+"final": "GNU Octave"
+},
+"GNU Pascal": {
+"status": "ok",
+"desc": "Compiler for the Pascal programming language",
+"final": "GNU Pascal"
+},
+"GNU Prolog": {
+"status": "ok",
+"desc": "",
+"final": "GNU Prolog"
+},
+"GNU Smalltalk": {
+"status": "ok",
+"desc": "Programming language implementation",
+"final": "GNU Smalltalk"
+},
+"GNU poke": {
+"status": "missing"
+},
+"GOLD (parser generator)": {
+"status": "missing"
+},
+"GOTRAN": {
+"status": "missing"
+},
+"GPP (software)": {
+"status": "missing"
+},
+"GPSS": {
+"status": "ok",
+"desc": "Simulation system language",
+"final": "GPSS"
+},
+"GQL Graph Query Language": {
+"status": "ok",
+"desc": "Query language for property graphs",
+"final": "Graph Query Language"
+},
+"GRAP": {
+"status": "ok",
+"desc": "Protein-coding gene in humans",
+"final": "GRAP"
+},
+"GRASS (programming language)": {
+"status": "ok",
+"desc": "2D vector animation scripting program",
+"final": "GRASS (programming language)"
+},
+"GReQL": {
+"status": "missing"
+},
+"GT.M": {
+"status": "ok",
+"desc": "High-throughput key\u2013value database",
+"final": "GT.M"
+},
+"GUIDO music notation": {
+"status": "ok",
+"desc": "Computer music notation format",
+"final": "GUIDO music notation"
+},
+"GW-BASIC": {
+"status": "ok",
+"desc": "Dialect of the BASIC programming language",
+"final": "GW-BASIC"
+},
+"Galileo (programming language)": {
+"status": "missing"
+},
+"Gambas": {
+"status": "ok",
+"desc": "Integrated development environment",
+"final": "Gambas"
+},
+"Gambit (Scheme implementation)": {
+"status": "ok",
+"desc": "",
+"final": "Gambit (Scheme implementation)"
+},
+"Gambit (scheme implementation)": {
+"status": "ok",
+"desc": "",
+"final": "Gambit (Scheme implementation)"
+},
+"Game Maker Language": {
+"status": "ok",
+"desc": "Game creation system",
+"final": "GameMaker"
+},
+"Game Oriented Assembly Lisp": {
+"status": "ok",
+"desc": "Video game programming language",
+"final": "Game Oriented Assembly Lisp"
+},
+"GameMaker": {
+"status": "ok",
+"desc": "Game creation system",
+"final": "GameMaker"
+},
+"GameMonkey Script": {
+"status": "ok",
+"desc": "",
+"final": "GameMonkey Script"
+},
+"GameMonkey script": {
+"status": "missing"
+},
+"Gamma (programming language)": {
+"status": "missing"
+},
+"Gauche (programming language)": {
+"status": "missing"
+},
+"Gbeta": {
+"status": "missing"
+},
+"GemStone/S": {
+"status": "ok",
+"desc": "",
+"final": "GemStone/S"
+},
+"Gema (software)": {
+"status": "missing"
+},
+"Gen (probabilistic programming system)": {
+"status": "missing"
+},
+"GeneXus": {
+"status": "ok",
+"desc": "Computer programming tool",
+"final": "GeneXus"
+},
+"General Algebraic Modeling System": {
+"status": "ok",
+"desc": "Mathematical optimization modeling system",
+"final": "General algebraic modeling system"
+},
+"General Purpose Macrogenerator": {
+"status": "ok",
+"desc": "Macro processor that is not tied to a particular language or piece of software",
+"final": "General-purpose macro processor"
+},
+"Generic Java": {
+"status": "ok",
+"desc": "Features of the Java programming language",
+"final": "Generics in Java"
+},
+"Genero (software)": {
+"status": "missing"
+},
+"Genius (mathematics software)": {
+"status": "ok",
+"desc": "Free open-source numerical computing environment and programming language",
+"final": "Genius (mathematics software)"
+},
+"Genshi (templating language)": {
+"status": "ok",
+"desc": "XML-based template engine in Python",
+"final": "Genshi (templating language)"
+},
+"Genstat": {
+"status": "ok",
+"desc": "Statistical software",
+"final": "Genstat"
+},
+"Genyris": {
+"status": "missing"
+},
+"Gforth": {
+"status": "ok",
+"desc": "Free implementation of the Forth programming language",
+"final": "Gforth"
+},
+"Gherkin (programming language)": {
+"status": "missing"
+},
+"Ghidra": {
+"status": "ok",
+"desc": "Free reverse engineering tool developed by the National Security Agency",
+"final": "Ghidra"
+},
+"Giac (software)": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Xcas"
+},
+"Giotto (programming language)": {
+"status": "missing"
+},
+"Glasgow Parallel Haskell": {
+"status": "missing"
+},
+"Glass (programming language)": {
+"status": "missing"
+},
+"Gleam (programming language)": {
+"status": "ok",
+"desc": "Statically typed functional programming language",
+"final": "Gleam (programming language)"
+},
+"Glish": {
+"status": "ok",
+"desc": "French rapper",
+"final": "Franglish (rapper)"
+},
+"Glulx": {
+"status": "ok",
+"desc": "Virtual machine for interactive fiction games",
+"final": "Glulx"
+},
+"Glyph (programming language)": {
+"status": "missing"
+},
+"Gmsh": {
+"status": "ok",
+"desc": "Finite-element mesh generator",
+"final": "Gmsh"
+},
+"GnuCOBOL": {
+"status": "ok",
+"desc": "COBOL compiler",
+"final": "GnuCOBOL"
+},
+"Gnuplot": {
+"status": "ok",
+"desc": "Command-line and GUI plotting program",
+"final": "Gnuplot"
+},
+"Go (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Go (programming language)"
+},
+"Go! (programming language)": {
+"status": "ok",
+"desc": "Multi-paradigm programming language",
+"final": "Go! (programming language)"
+},
+"Gobstones (programming language)": {
+"status": "missing"
+},
+"Gofer (software)": {
+"status": "ok",
+"desc": "Educational programming language",
+"final": "Gofer (programming language)"
+},
+"GolfScript": {
+"status": "ok",
+"desc": "Recreational computer programming competition",
+"final": "Code golf"
+},
+"Golog": {
+"status": "ok",
+"desc": "Autonomous prefectures in Qinghai, Tibet, China",
+"final": "Golog Tibetan Autonomous Prefecture"
+},
+"Goo (programming language)": {
+"status": "missing"
+},
+"Grace (programming language)": {
+"status": "missing"
+},
+"Grace Hopper": {
+"status": "ok",
+"desc": "U.S. naval officer and computer scientist (1906\u20131992)",
+"final": "Grace Hopper"
+},
+"Grails (framework)": {
+"status": "ok",
+"desc": "Open source web application framework",
+"final": "Grails (framework)"
+},
+"Grammatical Framework": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Grammatical Framework (programming language)"
+},
+"GraphQL": {
+"status": "ok",
+"desc": "Data query language developed by Facebook",
+"final": "GraphQL"
+},
+"Greenfoot": {
+"status": "ok",
+"desc": "Integrated development environment for graphical applications",
+"final": "Greenfoot"
+},
+"Gretl": {
+"status": "ok",
+"desc": "Open-source statistical computer software",
+"final": "Gretl"
+},
+"Gri (graphics language)": {
+"status": "missing"
+},
+"Grid Analysis and Display System": {
+"status": "ok",
+"desc": "",
+"final": "GrADS"
+},
+"Gro (programming language)": {
+"status": "missing"
+},
+"Groff (software)": {
+"status": "ok",
+"desc": "Unix typesetting software used for man pages",
+"final": "Groff (software)"
+},
+"Guarded Command Language": {
+"status": "ok",
+"desc": "Dijkstra notation with non-deterministic conditionals",
+"final": "Guarded Command Language"
+},
+"Guarded Horn Clauses": {
+"status": "ok",
+"desc": "Logic programming paradigm",
+"final": "Concurrent logic programming"
+},
+"Guido van Robot": {
+"status": "missing"
+},
+"Guile (software)": {
+"status": "missing"
+},
+"Guru (programming language)": {
+"status": "missing"
+},
+"Gypsy (programming language)": {
+"status": "missing"
+},
+"G\u00f6del (programming language)": {
+"status": "ok",
+"desc": "Declarative, general-purpose programming language",
+"final": "G\u00f6del (programming language)"
+},
+"HAL/S": {
+"status": "ok",
+"desc": "Programming language",
+"final": "HAL/S"
+},
+"HDML": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "HDML"
+},
+"HMSL": {
+"status": "ok",
+"desc": "Music programming language",
+"final": "Hierarchical Music Specification Language"
+},
+"HOL (proof assistant)": {
+"status": "ok",
+"desc": "Interactive theorem proving systems",
+"final": "HOL (proof assistant)"
+},
+"HOL Light": {
+"status": "ok",
+"desc": "Proof assistant program",
+"final": "HOL Light"
+},
+"HP Prime": {
+"status": "ok",
+"desc": "Programmable graphing calculator",
+"final": "HP Prime"
+},
+"HP-GL": {
+"status": "ok",
+"desc": "Page description language created by Hewlett-Packard (HP)",
+"final": "HP-GL"
+},
+"HTML": {
+"status": "ok",
+"desc": "Markup language for documents",
+"final": "HTML"
+},
+"Haggis (programming language)": {
+"status": "ok",
+"desc": "Scottish programming language",
+"final": "Haggis (programming language)"
+},
+"Halide (programming language)": {
+"status": "ok",
+"desc": "Computer programming language designed for digital image processing",
+"final": "Halide (programming language)"
+},
+"Hamilton C shell": {
+"status": "ok",
+"desc": "",
+"final": "Hamilton C shell"
+},
+"Haml": {
+"status": "ok",
+"desc": "Computer code templating system",
+"final": "Haml"
+},
+"Handel-C": {
+"status": "ok",
+"desc": "High-level programming language",
+"final": "Handel-C"
+},
+"Harbour (programming language)": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "Harbour (programming language)"
+},
+"Harbour (software)": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "Harbour (programming language)"
+},
+"Haskell (programming language)": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Haskell"
+},
+"Haystack (MIT project)": {
+"status": "ok",
+"desc": "Software research project",
+"final": "Haystack (MIT project)"
+},
+"Hazel (programming language)": {
+"status": "missing"
+},
+"Hedy (programming language)": {
+"status": "missing"
+},
+"Helium (programming language)": {
+"status": "missing"
+},
+"Hermes (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Hermes (programming language)"
+},
+"Heron (programming language)": {
+"status": "missing"
+},
+"Heterogeneous System Architecture": {
+"status": "ok",
+"desc": "Computing system",
+"final": "Heterogeneous System Architecture"
+},
+"Heterogeneous tool set": {
+"status": "missing"
+},
+"HiLog": {
+"status": "ok",
+"desc": "",
+"final": "HiLog"
+},
+"HiSoft BASIC": {
+"status": "missing"
+},
+"Hibernate (framework)": {
+"status": "ok",
+"desc": "Object\u2013relational mapping tool",
+"final": "Hibernate (framework)"
+},
+"HicEst": {
+"status": "missing"
+},
+"High Level Assembly": {
+"status": "ok",
+"desc": "Programming language",
+"final": "High Level Assembly"
+},
+"High Performance Fortran": {
+"status": "ok",
+"desc": "",
+"final": "High Performance Fortran"
+},
+"High-Level Shading Language": {
+"status": "ok",
+"desc": "Shading language",
+"final": "High-Level Shader Language"
+},
+"High-level assembler": {
+"status": "ok",
+"desc": "",
+"final": "High-level assembler"
+},
+"Hissp": {
+"status": "missing"
+},
+"Hoc (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Hoc (programming language)"
+},
+"Hollywood (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Hollywood (programming language)"
+},
+"Honeywell 800": {
+"status": "ok",
+"desc": "Mainframe computer introduced in 1958",
+"final": "Honeywell 800"
+},
+"Hop programming language": {
+"status": "missing"
+},
+"Hope (programming language)": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Hope (programming language)"
+},
+"Hopscotch (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Hopscotch (programming language)"
+},
+"Hot Soup Processor": {
+"status": "ok",
+"desc": "Japanese programming language",
+"final": "Hot Soup Processor"
+},
+"Hugo (programming language)": {
+"status": "missing"
+},
+"Hugs": {
+"status": "ok",
+"desc": "Form of endearment",
+"final": "Hug"
+},
+"Hume (programming language)": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Hume (programming language)"
+},
+"HyPhy": {
+"status": "missing"
+},
+"HyperCard": {
+"status": "ok",
+"desc": "Hypermedia system for Apple Macintosh and Apple IIGS computers",
+"final": "HyperCard"
+},
+"HyperTalk": {
+"status": "ok",
+"desc": "Programming language",
+"final": "HyperTalk"
+},
+"Hyperscript": {
+"status": "missing"
+},
+"IA-64": {
+"status": "ok",
+"desc": "Microprocessor instruction set architecture",
+"final": "IA-64"
+},
+"IBM 1130": {
+"status": "ok",
+"desc": "16-bit IBM minicomputer introduced in 1965",
+"final": "IBM 1130"
+},
+"IBM 1401": {
+"status": "ok",
+"desc": "1960s decimal computer",
+"final": "IBM 1401"
+},
+"IBM 1620": {
+"status": "ok",
+"desc": "Small IBM scientific computer released in 1959",
+"final": "IBM 1620"
+},
+"IBM 650": {
+"status": "ok",
+"desc": "Vacuum-tube 1950s computer system",
+"final": "IBM 650"
+},
+"IBM 700/7000 series": {
+"status": "ok",
+"desc": "Mainframe computer systems made by IBM through the 1950s and early 1960s",
+"final": "IBM 700/7000 series"
+},
+"IBM 704": {
+"status": "ok",
+"desc": "Vacuum-tube computer system (1954)",
+"final": "IBM 704"
+},
+"IBM 709": {
+"status": "ok",
+"desc": "Vacuum tube computer system, 1959",
+"final": "IBM 709"
+},
+"IBM 7090": {
+"status": "ok",
+"desc": "Mainframe computer, 1960s",
+"final": "IBM 7090"
+},
+"IBM 7094": {
+"status": "ok",
+"desc": "Mainframe computer, 1960s",
+"final": "IBM 7090"
+},
+"IBM BASIC": {
+"status": "ok",
+"desc": "Programming language",
+"final": "IBM BASIC"
+},
+"IBM BASICA": {
+"status": "ok",
+"desc": "Programming language",
+"final": "IBM BASIC"
+},
+"IBM Basic Assembly Language": {
+"status": "missing"
+},
+"IBM Basic Assembly Language and successors": {
+"status": "ok",
+"desc": "Assembly languages for IBM System/360 and successor mainframes",
+"final": "IBM Basic assembly language and successors"
+},
+"IBM Generalized Markup Language": {
+"status": "ok",
+"desc": "Markup language",
+"final": "IBM Generalized Markup Language"
+},
+"IBM Information Management System": {
+"status": "ok",
+"desc": "Joint hierarchical database made by IBM",
+"final": "IBM Information Management System"
+},
+"IBM RPG": {
+"status": "ok",
+"desc": "Report Program Generator programming language by IBM",
+"final": "IBM RPG"
+},
+"IBM System/360": {
+"status": "ok",
+"desc": "IBM computer family (1964\u20131977)",
+"final": "IBM System/360"
+},
+"IBM System/370": {
+"status": "ok",
+"desc": "Family of computers 1970\u20131990",
+"final": "IBM System/370"
+},
+"IBM System/390": {
+"status": "ok",
+"desc": "Line of mainframe computers",
+"final": "IBM System/390"
+},
+"IBM VisualAge": {
+"status": "ok",
+"desc": "Integrated development environment",
+"final": "VisualAge"
+},
+"IBM i Control Language": {
+"status": "ok",
+"desc": "IBM operating system scripting language",
+"final": "Control Language"
+},
+"IBasic": {
+"status": "missing"
+},
+"ICES (programming language)": {
+"status": "missing"
+},
+"ICI (programming language)": {
+"status": "missing"
+},
+"IDEAL (programming language)": {
+"status": "missing"
+},
+"IDL (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "IDL (programming language)"
+},
+"IEC 61131-3": {
+"status": "ok",
+"desc": "Industrial standard for programmable logic controllers",
+"final": "IEC 61131-3"
+},
+"IEML": {
+"status": "ok",
+"desc": "Open source artificial method to represent the semantic content of a linguistic sign",
+"final": "IEML"
+},
+"IF/Prolog": {
+"status": "missing"
+},
+"IFPS": {
+"status": "ok",
+"desc": "",
+"final": "IFPS"
+},
+"IFTRAN": {
+"status": "missing"
+},
+"IITRAN": {
+"status": "ok",
+"desc": "Discontinued programming language",
+"final": "IITRAN"
+},
+"IMP (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "IMP (programming language)"
+},
+"INTERCAL": {
+"status": "ok",
+"desc": "Esoteric programming language",
+"final": "INTERCAL"
+},
+"IPTSCRAE": {
+"status": "ok",
+"desc": "",
+"final": "IPTSCRAE"
+},
+"IPython": {
+"status": "ok",
+"desc": "Advanced interactive shell for Python",
+"final": "IPython"
+},
+"ISBL": {
+"status": "ok",
+"desc": "",
+"final": "ISBL"
+},
+"ISETL": {
+"status": "ok",
+"desc": "Programming language",
+"final": "SETL"
+},
+"ISLISP": {
+"status": "ok",
+"desc": "Programming language in the Lisp family",
+"final": "ISLISP"
+},
+"ISPS (notation)": {
+"status": "missing"
+},
+"ISWIM": {
+"status": "ok",
+"desc": "Programming language",
+"final": "ISWIM"
+},
+"IT (programming language)": {
+"status": "missing"
+},
+"IWIM": {
+"status": "missing"
+},
+"Icon (programming language)": {
+"status": "ok",
+"desc": "Very high-level programming language",
+"final": "Icon (programming language)"
+},
+"Id (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Id (programming language)"
+},
+"Idol (programming language)": {
+"status": "missing"
+},
+"Idris (programming language)": {
+"status": "ok",
+"desc": "Functional programming language created in 2007",
+"final": "Idris (programming language)"
+},
+"Igor Pro": {
+"status": "ok",
+"desc": "Data analysis software",
+"final": "IGOR Pro"
+},
+"Ikarus (Scheme implementation)": {
+"status": "ok",
+"desc": "R6RS Scheme compiler",
+"final": "Ikarus (Scheme implementation)"
+},
+"Imake": {
+"status": "ok",
+"desc": "",
+"final": "Imake"
+},
+"Imandra (software)": {
+"status": "missing"
+},
+"Impromptu (programming environment)": {
+"status": "ok",
+"desc": "Programming environment",
+"final": "Impromptu (programming environment)"
+},
+"Incr Tcl": {
+"status": "ok",
+"desc": "Object-oriented extensions for the Tcl programming language",
+"final": "Incr Tcl"
+},
+"Inductive logic programming": {
+"status": "ok",
+"desc": "Learning logic programs from data",
+"final": "Inductive logic programming"
+},
+"Inform": {
+"status": "ok",
+"desc": "Programming language and design system",
+"final": "Inform"
+},
+"Information Processing Language": {
+"status": "ok",
+"desc": "Early programming language for lists",
+"final": "Information Processing Language"
+},
+"Informix 4GL": {
+"status": "ok",
+"desc": "Fourth generation programming language",
+"final": "Informix-4GL"
+},
+"Informix-4GL": {
+"status": "ok",
+"desc": "Fourth generation programming language",
+"final": "Informix-4GL"
+},
+"Ink (narrative language)": {
+"status": "missing"
+},
+"Inkling (programming language)": {
+"status": "missing"
+},
+"Inko (programming language)": {
+"status": "missing"
+},
+"Inno Setup": {
+"status": "ok",
+"desc": "Installer authoring tool",
+"final": "Inno Setup"
+},
+"Instruction list": {
+"status": "ok",
+"desc": "Deprecated language for programmable logic controllers",
+"final": "Instruction list"
+},
+"Integer BASIC": {
+"status": "ok",
+"desc": "BASIC interpreter of the Apple I and original Apple II computers",
+"final": "Integer BASIC"
+},
+"Integrated Civil Engineering System": {
+"status": "ok",
+"desc": "Civil engineering geometry program",
+"final": "COGO"
+},
+"Intel 4004": {
+"status": "ok",
+"desc": "4-bit microprocessor",
+"final": "Intel 4004"
+},
+"Intel 8008": {
+"status": "ok",
+"desc": "8-bit microprocessor",
+"final": "Intel 8008"
+},
+"Intel 8051": {
+"status": "ok",
+"desc": "Single chip microcontroller series by Intel",
+"final": "Intel MCS-51"
+},
+"Intel 8085": {
+"status": "ok",
+"desc": "8-bit microprocessor",
+"final": "Intel 8085"
+},
+"Intel SPMD Program Compiler": {
+"status": "missing"
+},
+"Interactive C": {
+"status": "ok",
+"desc": "",
+"final": "Interactive C"
+},
+"Interlisp": {
+"status": "ok",
+"desc": "Dialect of the Lisp programming language",
+"final": "Interlisp"
+},
+"Internet Communications Engine": {
+"status": "ok",
+"desc": "Framework for remote procedure calls",
+"final": "Internet Communications Engine"
+},
+"Ioke (programming language)": {
+"status": "missing"
+},
+"Ion (shell)": {
+"status": "missing"
+},
+"Iota and Jot": {
+"status": "ok",
+"desc": "Esoteric programming languages",
+"final": "Iota and Jot"
+},
+"IronPython": {
+"status": "ok",
+"desc": "Python programming language implementation",
+"final": "IronPython"
+},
+"IronRuby": {
+"status": "ok",
+"desc": ".NET implementation of Ruby",
+"final": "IronRuby"
+},
+"Isabelle (proof assistant)": {
+"status": "ok",
+"desc": "Higher-order logic (HOL) automated theorem prover",
+"final": "Isabelle (proof assistant)"
+},
+"Ixi lang": {
+"status": "ok",
+"desc": "Live coding environment",
+"final": "Ixi lang"
+},
+"J (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "J (programming language)"
+},
+"JACAL": {
+"status": "missing"
+},
+"JADE (programming language)": {
+"status": "ok",
+"desc": "Software development and deployment platform",
+"final": "JADE (programming language)"
+},
+"JAL (programming language)": {
+"status": "missing"
+},
+"JASS (programming language)": {
+"status": "missing"
+},
+"JBASE": {
+"status": "missing"
+},
+"JEAN (programming language)": {
+"status": "ok",
+"desc": "Dialect of the JOSS programming language",
+"final": "JEAN"
+},
+"JHDL": {
+"status": "missing"
+},
+"JMESPath": {
+"status": "missing"
+},
+"JMP (statistical software)": {
+"status": "ok",
+"desc": "Suite of computer programs",
+"final": "JMP (statistical software)"
+},
+"JOSS": {
+"status": "ok",
+"desc": "Interactive programming language",
+"final": "JOSS"
+},
+"JOVIAL": {
+"status": "ok",
+"desc": "Programming language",
+"final": "JOVIAL"
+},
+"JR (programming language)": {
+"status": "missing"
+},
+"JRuby": {
+"status": "ok",
+"desc": "Java implementation of Ruby",
+"final": "JRuby"
+},
+"JSFuck": {
+"status": "ok",
+"desc": "Esoteric programming language",
+"final": "JSFuck"
+},
+"JSONPath": {
+"status": "ok",
+"desc": "Standard syntax for querying JSON values",
+"final": "JSONPath"
+},
+"JSONata": {
+"status": "missing"
+},
+"JSONiq": {
+"status": "ok",
+"desc": "Query and functional programming language",
+"final": "JSONiq"
+},
+"JSX (JavaScript)": {
+"status": "ok",
+"desc": "JavaScript syntax extension",
+"final": "JSX (programming)"
+},
+"JScript": {
+"status": "ok",
+"desc": "Implementation of ECMAScript by Microsoft",
+"final": "JScript"
+},
+"JScript .NET": {
+"status": "ok",
+"desc": "Programming language developed by Microsoft",
+"final": "JScript .NET"
+},
+"JTcl": {
+"status": "missing"
+},
+"JX (operating system)": {
+"status": "ok",
+"desc": "Java-based microkernel operating system",
+"final": "JX (operating system)"
+},
+"Jacl": {
+"status": "ok",
+"desc": "Asian-American civil rights charity based in San Francisco, California",
+"final": "Japanese American Citizens League"
+},
+"Jakarta Expression Language": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "Jakarta Expression Language"
+},
+"Jakarta Server Pages": {
+"status": "ok",
+"desc": "Jakarta EE dynamic web page technology",
+"final": "Jakarta Server Pages"
+},
+"Jakt (programming language)": {
+"status": "missing"
+},
+"Jam (software)": {
+"status": "missing"
+},
+"Janus (time-reversible computing programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Janus (reversible computing programming language)"
+},
+"Jaql": {
+"status": "ok",
+"desc": "Functional data processing and query language",
+"final": "Jaql"
+},
+"Jasmin (software)": {
+"status": "missing"
+},
+"Jason (programming language)": {
+"status": "missing"
+},
+"Java (programming language)": {
+"status": "ok",
+"desc": "Object-oriented programming language",
+"final": "Java (programming language)"
+},
+"Java Modeling Language": {
+"status": "ok",
+"desc": "Specification language for Java programs",
+"final": "Java Modeling Language"
+},
+"Java Persistence Query Language": {
+"status": "ok",
+"desc": "",
+"final": "Jakarta Persistence Query Language"
+},
+"JavaFX Script": {
+"status": "ok",
+"desc": "",
+"final": "JavaFX Script"
+},
+"JavaScript": {
+"status": "ok",
+"desc": "High-level programming language",
+"final": "JavaScript"
+},
+"JavaScript Style Sheets": {
+"status": "ok",
+"desc": "Stylesheet language proposed by Netscape",
+"final": "JavaScript Style Sheets"
+},
+"Jeroo": {
+"status": "ok",
+"desc": "Educational tool for learning object-oriented programming",
+"final": "Jeroo"
+},
+"Jess (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Jess (programming language)"
+},
+"Jinja (template engine)": {
+"status": "ok",
+"desc": "Web template engine for Python",
+"final": "Jinja (template engine)"
+},
+"JoCaml": {
+"status": "ok",
+"desc": "",
+"final": "JoCaml"
+},
+"Job Control Language": {
+"status": "ok",
+"desc": "Job control language for IBM mainframes",
+"final": "Job Control Language"
+},
+"Join Java": {
+"status": "ok",
+"desc": "Software design pattern for parallel computing",
+"final": "Join-pattern"
+},
+"Joule (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Joule (programming language)"
+},
+"Joxa (programming language)": {
+"status": "missing"
+},
+"Joy (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Joy (programming language)"
+},
+"Joyce (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Joyce (programming language)"
+},
+"Just BASIC": {
+"status": "missing"
+},
+"Just another Gibbs sampler": {
+"status": "ok",
+"desc": "Statistical simulation software",
+"final": "Just another Gibbs sampler"
+},
+"Jython": {
+"status": "ok",
+"desc": "Java implementation of Python",
+"final": "Jython"
+},
+"K (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "K (programming language)"
+},
+"K virtual machine": {
+"status": "ok",
+"desc": "",
+"final": "K virtual machine"
+},
+"KANT (computer algebra system)": {
+"status": "missing"
+},
+"KBasic": {
+"status": "ok",
+"desc": "Integrated development environment",
+"final": "Gambas"
+},
+"KC 85": {
+"status": "ok",
+"desc": "Microcomputers made in East Germany, 1984\u20131990",
+"final": "KC 85"
+},
+"KL0": {
+"status": "ok",
+"desc": "",
+"final": "KL0"
+},
+"KL1": {
+"status": "ok",
+"desc": "",
+"final": "KL1"
+},
+"KPL (programming language)": {
+"status": "missing"
+},
+"KUKA Robot Language": {
+"status": "ok",
+"desc": "",
+"final": "KUKA Robot Language"
+},
+"KVIrc": {
+"status": "ok",
+"desc": "IRC Client",
+"final": "KVIrc"
+},
+"Kaitai Struct": {
+"status": "missing"
+},
+"Kappa (programming language)": {
+"status": "missing"
+},
+"Karel (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Karel (programming language)"
+},
+"Kawa (Scheme implementation)": {
+"status": "ok",
+"desc": "",
+"final": "Kawa (Scheme implementation)"
+},
+"Kaya (programming language)": {
+"status": "missing"
+},
+"Kdb+": {
+"status": "ok",
+"desc": "High-speed database",
+"final": "Kdb+"
+},
+"Kent Recursive Calculator": {
+"status": "ok",
+"desc": "",
+"final": "Kent Recursive Calculator"
+},
+"KerboScript": {
+"status": "missing"
+},
+"Kermeta": {
+"status": "ok",
+"desc": "Modeling and programming language",
+"final": "Kermeta"
+},
+"Kevo (programming language)": {
+"status": "missing"
+},
+"Keykit": {
+"status": "ok",
+"desc": "",
+"final": "Keykit"
+},
+"KiXtart": {
+"status": "ok",
+"desc": "Scripting language for Windows",
+"final": "KiXtart"
+},
+"Kinetic Rule Language": {
+"status": "ok",
+"desc": "",
+"final": "Kinetic Rule Language"
+},
+"KiriKiri": {
+"status": "ok",
+"desc": "",
+"final": "List of visual novel engines"
+},
+"Kite (programming language)": {
+"status": "missing"
+},
+"Klara (programming language)": {
+"status": "missing"
+},
+"Klerer-May System": {
+"status": "ok",
+"desc": "Programming language oriented to numerical scientific programming",
+"final": "Klerer\u2013May System"
+},
+"Knowledge Interchange Format": {
+"status": "ok",
+"desc": "",
+"final": "Knowledge Interchange Format"
+},
+"Knowledge Query and Manipulation Language": {
+"status": "ok",
+"desc": "Computer language and protocol",
+"final": "Knowledge Query and Manipulation Language"
+},
+"Kodu Game Lab": {
+"status": "ok",
+"desc": "Visual programming tool to teach coding",
+"final": "Kodu Game Lab"
+},
+"Kogut (programming language)": {
+"status": "missing"
+},
+"Kojo (learning environment)": {
+"status": "ok",
+"desc": "",
+"final": "Kojo (learning environment)"
+},
+"KornShell": {
+"status": "ok",
+"desc": "Bourne shell backward compatible Unix shell created by David Korn",
+"final": "KornShell"
+},
+"Kotlin": {
+"status": "ok",
+"desc": "General-purpose programming language",
+"final": "Kotlin"
+},
+"Kusto Query Language": {
+"status": "missing"
+},
+"Kyma (sound design language)": {
+"status": "ok",
+"desc": "Visual programming language",
+"final": "Kyma (sound design language)"
+},
+"L (programming language)": {
+"status": "missing"
+},
+"L.in.oleum": {
+"status": "missing"
+},
+"L6 (programming language)": {
+"status": "missing"
+},
+"LANSA (development environment)": {
+"status": "ok",
+"desc": "",
+"final": "LANSA (development environment)"
+},
+"LC-3": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "LC3"
+},
+"LEAP (programming language)": {
+"status": "ok",
+"desc": "Member of the ALGOL family of computer programming languages",
+"final": "ALGOL 60"
+},
+"LFE (programming language)": {
+"status": "ok",
+"desc": "Coding language, extension for Erlang",
+"final": "LFE (programming language)"
+},
+"LIFE (programming language)": {
+"status": "missing"
+},
+"LIMDEP": {
+"status": "ok",
+"desc": "",
+"final": "LIMDEP"
+},
+"LINC": {
+"status": "ok",
+"desc": "Computer made at MIT in 1962",
+"final": "LINC"
+},
+"LISP 2": {
+"status": "ok",
+"desc": "Abandoned 1960s programming language proposal",
+"final": "LISP 2"
+},
+"LISP/360": {
+"status": "missing"
+},
+"LLVM": {
+"status": "ok",
+"desc": "Compiler backend for multiple programming languages",
+"final": "LLVM"
+},
+"LML (programming language)": {
+"status": "missing"
+},
+"LMNtal": {
+"status": "missing"
+},
+"LOOP (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "LOOP (programming language)"
+},
+"LOTOS (programming language)": {
+"status": "missing"
+},
+"LPC (programming language)": {
+"status": "ok",
+"desc": "MUD server software",
+"final": "LPMud"
+},
+"LRLTRAN": {
+"status": "missing"
+},
+"LScript": {
+"status": "missing"
+},
+"LYaPAS": {
+"status": "ok",
+"desc": "Programming language",
+"final": "LYaPAS"
+},
+"LaTeX": {
+"status": "ok",
+"desc": "Typesetting system based on TeX",
+"final": "LaTeX"
+},
+"LabVIEW": {
+"status": "ok",
+"desc": "System-design platform and development environment",
+"final": "LabVIEW"
+},
+"Lace (programming language)": {
+"status": "missing"
+},
+"Ladder logic": {
+"status": "ok",
+"desc": "Programming language for industrial controllers",
+"final": "Ladder logic"
+},
+"Lagoona (programming language)": {
+"status": "missing"
+},
+"Lambda Prolog": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "\u039bProlog"
+},
+"Language Integrated Query": {
+"status": "ok",
+"desc": "Microsoft .NET Framework component",
+"final": "Language Integrated Query"
+},
+"Laning and Zierler system": {
+"status": "ok",
+"desc": "",
+"final": "Laning and Zierler system"
+},
+"Larceny (Scheme implementation)": {
+"status": "missing"
+},
+"Larch family": {
+"status": "ok",
+"desc": "",
+"final": "Larch family"
+},
+"Lasso (programming language)": {
+"status": "ok",
+"desc": "Cross-platform software created in 1995",
+"final": "Lasso (programming language)"
+},
+"Latte (programming language)": {
+"status": "missing"
+},
+"Lava (programming language)": {
+"status": "missing"
+},
+"Lazy ML": {
+"status": "ok",
+"desc": "Swedish computer scientist",
+"final": "Lennart Augustsson"
+},
+"Le Lisp": {
+"status": "ok",
+"desc": "Dialect of Lisp developed in France",
+"final": "Le Lisp"
+},
+"Lean (proof assistant)": {
+"status": "ok",
+"desc": "Proof assistant and programming language",
+"final": "Lean (proof assistant)"
+},
+"Leda (programming language)": {
+"status": "missing"
+},
+"LegalRuleML": {
+"status": "missing"
+},
+"Lego (proof assistant)": {
+"status": "ok",
+"desc": "Proof assistant",
+"final": "LEGO (proof assistant)"
+},
+"Less (stylesheet language)": {
+"status": "ok",
+"desc": "Dynamic stylesheet language",
+"final": "Less (style sheet language)"
+},
+"Lex (software)": {
+"status": "ok",
+"desc": "Lexical analyzer generator",
+"final": "Lex (software)"
+},
+"Lexon (programming language)": {
+"status": "missing"
+},
+"Liberty BASIC": {
+"status": "ok",
+"desc": "Commercial computer programming language and integrated development environment (IDE)",
+"final": "Liberty BASIC"
+},
+"LibreOffice Basic": {
+"status": "ok",
+"desc": "Programming language",
+"final": "OpenOffice Basic"
+},
+"Lily (programming language)": {
+"status": "missing"
+},
+"LilyPond": {
+"status": "ok",
+"desc": "Music notation software",
+"final": "LilyPond"
+},
+"Limbo (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Limbo (programming language)"
+},
+"Lime (programming language)": {
+"status": "missing"
+},
+"Linda (coordination language)": {
+"status": "ok",
+"desc": "Type of programming language",
+"final": "Linda (coordination language)"
+},
+"Linden Scripting Language": {
+"status": "ok",
+"desc": "2003 online virtual world platform",
+"final": "Second Life"
+},
+"Lingo (programming language)": {
+"status": "ok",
+"desc": "Scripting language",
+"final": "Lingo (programming language)"
+},
+"Lingua Franca (programming language)": {
+"status": "missing"
+},
+"Links (programming language)": {
+"status": "missing"
+},
+"Linoleum (programming language)": {
+"status": "missing"
+},
+"Linotte (programming language)": {
+"status": "missing"
+},
+"Liquid (template language)": {
+"status": "missing"
+},
+"Liquid Haskell": {
+"status": "ok",
+"desc": "",
+"final": "Liquid Haskell"
+},
+"LiquidHaskell": {
+"status": "missing"
+},
+"Liquidsoap": {
+"status": "ok",
+"desc": "Programming language for stream generation",
+"final": "Liquidsoap"
+},
+"Lisaac": {
+"status": "missing"
+},
+"Lisp (programming language)": {
+"status": "ok",
+"desc": "Programming language family",
+"final": "Lisp (programming language)"
+},
+"Lisp Machine Lisp": {
+"status": "ok",
+"desc": "Programming language, dialect of Lisp",
+"final": "Lisp Machine Lisp"
+},
+"LispWorks": {
+"status": "ok",
+"desc": "Software",
+"final": "LispWorks"
+},
+"Lispkit Lisp": {
+"status": "ok",
+"desc": "",
+"final": "Lispkit Lisp"
+},
+"Lite-C": {
+"status": "missing"
+},
+"Lithe (programming language)": {
+"status": "ok",
+"desc": "Experimental programming language",
+"final": "Lithe"
+},
+"Little Computer 3": {
+"status": "ok",
+"desc": "Educational computer assembly language",
+"final": "Little Computer 3"
+},
+"Little Smalltalk": {
+"status": "ok",
+"desc": "Object-oriented programming language",
+"final": "Smalltalk"
+},
+"Little b (programming language)": {
+"status": "ok",
+"desc": "Domain specific programming language",
+"final": "Little b (programming language)"
+},
+"Little man computer": {
+"status": "ok",
+"desc": "Instructional model of a computer",
+"final": "Little Man Computer"
+},
+"LiveCode": {
+"status": "ok",
+"desc": "Cross-platform rapid application development runtime environment inspired by HyperCard",
+"final": "LiveCode"
+},
+"Locomotive BASIC": {
+"status": "ok",
+"desc": "",
+"final": "Locomotive BASIC"
+},
+"Logic for Computable Functions": {
+"status": "ok",
+"desc": "1970s automated theorem prover",
+"final": "Logic for Computable Functions"
+},
+"LogicBlox": {
+"status": "ok",
+"desc": "Logic programming language",
+"final": "LogicBlox"
+},
+"Logica (programming language)": {
+"status": "missing"
+},
+"Logical framework": {
+"status": "ok",
+"desc": "",
+"final": "Logical framework"
+},
+"Loglan": {
+"status": "ok",
+"desc": "Constructed language",
+"final": "Loglan"
+},
+"Logo (programming language)": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "Logo (programming language)"
+},
+"Logtalk": {
+"status": "ok",
+"desc": "",
+"final": "Logtalk"
+},
+"Lola (hardware description language)": {
+"status": "ok",
+"desc": "Hardware description language",
+"final": "Lola (computing)"
+},
+"Lolli": {
+"status": "ok",
+"desc": "Surname list",
+"final": "Lolli"
+},
+"Lorel (query language)": {
+"status": "missing"
+},
+"LotusScript": {
+"status": "ok",
+"desc": "Object-oriented programming language",
+"final": "LotusScript"
+},
+"Lout (software)": {
+"status": "missing"
+},
+"LuaJIT": {
+"status": "ok",
+"desc": "Just-in-time compiler for the Lua programming language",
+"final": "LuaJIT"
+},
+"Luau (programming language)": {
+"status": "ok",
+"desc": "Gradually typed dialect of Lua",
+"final": "Luau (programming language)"
+},
+"Lucee": {
+"status": "ok",
+"desc": "Programming language implementation",
+"final": "Lucee"
+},
+"Lucid (programming language)": {
+"status": "ok",
+"desc": "Dataflow programming language",
+"final": "Lucid (programming language)"
+},
+"Lucifer (programming language)": {
+"status": "missing"
+},
+"Luna (programming language)": {
+"status": "missing"
+},
+"Lush (programming language)": {
+"status": "missing"
+},
+"Lustre (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Lustre (programming language)"
+},
+"Lygon (programming language)": {
+"status": "missing"
+},
+"Lynx (programming language)": {
+"status": "ok",
+"desc": "Programming language for large distributed networks",
+"final": "Lynx (programming language)"
+},
+"M2000 (programming language)": {
+"status": "missing"
+},
+"M4 (computer language)": {
+"status": "ok",
+"desc": "General-purpose macro processor",
+"final": "M4 (computer language)"
+},
+"MACRO-10": {
+"status": "ok",
+"desc": "Assembly language",
+"final": "MACRO-10"
+},
+"MACRO-11": {
+"status": "ok",
+"desc": "Assembly language with macro facilities",
+"final": "MACRO-11"
+},
+"MAD (programming language)": {
+"status": "ok",
+"desc": "Historical programming language",
+"final": "MAD (programming language)"
+},
+"MADCAP (software)": {
+"status": "missing"
+},
+"MAINSAIL": {
+"status": "missing"
+},
+"MANIAC I": {
+"status": "ok",
+"desc": "Computer built in 1952 for Los Alamos Scientific Lab",
+"final": "MANIAC I"
+},
+"MANTIS (programming language)": {
+"status": "missing"
+},
+"MAPPER": {
+"status": "ok",
+"desc": "Fourth-generation programming language from Sperry Univac",
+"final": "MAPPER"
+},
+"MARIE (machine)": {
+"status": "missing"
+},
+"MARK-IV (software)": {
+"status": "missing"
+},
+"MATH-MATIC": {
+"status": "ok",
+"desc": "Programming language for UNIVAC I and II",
+"final": "MATH-MATIC"
+},
+"MATHLAB": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "MATHLAB"
+},
+"MAXScript": {
+"status": "ok",
+"desc": "3D computer graphics program",
+"final": "Autodesk 3ds Max"
+},
+"MCRL": {
+"status": "missing"
+},
+"MCRL2": {
+"status": "ok",
+"desc": "Formal specification language",
+"final": "MCRL2"
+},
+"MDL (programming language)": {
+"status": "ok",
+"desc": "Lisp-like programming language",
+"final": "MDL (programming language)"
+},
+"MENTOR (programming language)": {
+"status": "missing"
+},
+"META II": {
+"status": "ok",
+"desc": "Programming language",
+"final": "META II"
+},
+"MHEG-5": {
+"status": "ok",
+"desc": "Set of international standards",
+"final": "MHEG-5"
+},
+"MIDAS (assembler)": {
+"status": "missing"
+},
+"MIMIC (programming language)": {
+"status": "missing"
+},
+"MINOL": {
+"status": "ok",
+"desc": "",
+"final": "Minol"
+},
+"MIPS architecture": {
+"status": "ok",
+"desc": "Instruction set architecture",
+"final": "MIPS architecture"
+},
+"MIRC scripting language": {
+"status": "ok",
+"desc": "Scripting language embedded in mIRC",
+"final": "MIRC scripting language"
+},
+"MIT App Inventor": {
+"status": "ok",
+"desc": "Web application development environment",
+"final": "MIT App Inventor"
+},
+"MIT/GNU Scheme": {
+"status": "ok",
+"desc": "Dialect of Lisp, a programming language",
+"final": "MIT/GNU Scheme"
+},
+"MIX": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "Mix"
+},
+"MIX (computer)": {
+"status": "missing"
+},
+"ML (programming language)": {
+"status": "ok",
+"desc": "General purpose functional programming language",
+"final": "ML (programming language)"
+},
+"ML/I": {
+"status": "ok",
+"desc": "",
+"final": "ML/I"
+},
+"ML5 (programming language)": {
+"status": "missing"
+},
+"MLISP": {
+"status": "ok",
+"desc": "Programming language",
+"final": "MLisp"
+},
+"MLj": {
+"status": "missing"
+},
+"MLton": {
+"status": "ok",
+"desc": "",
+"final": "MLton"
+},
+"MMIX": {
+"status": "ok",
+"desc": "64 bit RISC architecture by Donald Knuth",
+"final": "MMIX"
+},
+"MODSIM": {
+"status": "missing"
+},
+"MOO (programming language)": {
+"status": "ok",
+"desc": "Text-based online virtual reality system",
+"final": "MOO"
+},
+"MOS Technology 6502": {
+"status": "ok",
+"desc": "8-bit microprocessor from 1975",
+"final": "MOS Technology 6502"
+},
+"MPD (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "MPD (programming language)"
+},
+"MPL (programming language)": {
+"status": "missing"
+},
+"MProlog": {
+"status": "missing"
+},
+"MQL4": {
+"status": "missing"
+},
+"MRQL": {
+"status": "missing"
+},
+"MSP430": {
+"status": "ok",
+"desc": "Mixed-signal microcontroller family",
+"final": "TI MSP430"
+},
+"MSWLogo": {
+"status": "ok",
+"desc": "Programming language",
+"final": "MSWLogo"
+},
+"MSX BASIC": {
+"status": "ok",
+"desc": "Programming language dialect",
+"final": "MSX BASIC"
+},
+"MUF (programming language)": {
+"status": "ok",
+"desc": "Type of online text-based role-playing game",
+"final": "TinyMUCK"
+},
+"MUMPS": {
+"status": "ok",
+"desc": "Programming language",
+"final": "MUMPS"
+},
+"MUSE (music software)": {
+"status": "missing"
+},
+"MUSH": {
+"status": "ok",
+"desc": "Text-based online social medium",
+"final": "MUSH"
+},
+"MUSIC-N": {
+"status": "ok",
+"desc": "Audio programming language",
+"final": "MUSIC-N"
+},
+"MXML": {
+"status": "missing"
+},
+"Macaulay2": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Macaulay2"
+},
+"Macintosh Common Lisp": {
+"status": "ok",
+"desc": "",
+"final": "Macintosh Common Lisp"
+},
+"Maclisp": {
+"status": "ok",
+"desc": "Dialect of Lisp programming language",
+"final": "Maclisp"
+},
+"Macsyma": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Macsyma"
+},
+"Magic (programming)": {
+"status": "ok",
+"desc": "Term for abstraction in computer programming",
+"final": "Magic (programming)"
+},
+"Magik (programming language)": {
+"status": "ok",
+"desc": "Object-oriented programming language",
+"final": "Magik (programming language)"
+},
+"Magma (computer algebra system)": {
+"status": "ok",
+"desc": "Computer system for solving algebra problems",
+"final": "Magma (computer algebra system)"
+},
+"Make (software)": {
+"status": "ok",
+"desc": "Software build automation tool",
+"final": "Make (software)"
+},
+"Mako (template engine)": {
+"status": "ok",
+"desc": "Python template library",
+"final": "Mako (template engine)"
+},
+"Malbolge": {
+"status": "ok",
+"desc": "1998 esoteric programming language",
+"final": "Malbolge"
+},
+"Mallard BASIC": {
+"status": "ok",
+"desc": "",
+"final": "Mallard BASIC"
+},
+"Manchester Baby": {
+"status": "ok",
+"desc": "First electronic stored-programme computer, 1948",
+"final": "Manchester Baby"
+},
+"Manifold (programming language)": {
+"status": "missing"
+},
+"MapBasic": {
+"status": "ok",
+"desc": "Programming language",
+"final": "MapBasic"
+},
+"Maple (software)": {
+"status": "ok",
+"desc": "Mathematical computing environment",
+"final": "Maple (software)"
+},
+"Marko (JavaScript library)": {
+"status": "missing"
+},
+"Markov algorithm": {
+"status": "ok",
+"desc": "Algorithm operating on grammar-like rules",
+"final": "Markov algorithm"
+},
+"Marlowe (programming language)": {
+"status": "missing"
+},
+"Mary (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Mary (programming language)"
+},
+"Mason (Perl)": {
+"status": "missing"
+},
+"Matita": {
+"status": "ok",
+"desc": "Proof assistant",
+"final": "Matita"
+},
+"Maude system": {
+"status": "ok",
+"desc": "Implementation of rewriting logic",
+"final": "Maude system"
+},
+"Max (software)": {
+"status": "ok",
+"desc": "Visual programming language",
+"final": "Max (software)"
+},
+"Maxima (software)": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Maxima (software)"
+},
+"Maya Embedded Language": {
+"status": "ok",
+"desc": "",
+"final": "Maya Embedded Language"
+},
+"MegaZeux": {
+"status": "missing"
+},
+"Meld (programming language)": {
+"status": "missing"
+},
+"Mentat (programming language)": {
+"status": "missing"
+},
+"Mercury Autocode": {
+"status": "ok",
+"desc": "Early computer programming languages",
+"final": "Autocode"
+},
+"Merd (programming language)": {
+"status": "missing"
+},
+"Mermaid (software)": {
+"status": "ok",
+"desc": "Diagramming and charting software",
+"final": "Mermaid (software)"
+},
+"Mesa (programming language)": {
+"status": "ok",
+"desc": "Programming language created in 1976",
+"final": "Mesa (programming language)"
+},
+"Meson (software)": {
+"status": "ok",
+"desc": "Build automation tool",
+"final": "Meson (software)"
+},
+"MetaCard": {
+"status": "ok",
+"desc": "",
+"final": "MetaCard"
+},
+"MetaML": {
+"status": "missing"
+},
+"MetaPost": {
+"status": "ok",
+"desc": "Programming language",
+"final": "MetaPost"
+},
+"MetaQuotes Language": {
+"status": "missing"
+},
+"Metafont": {
+"status": "ok",
+"desc": "Description language used to define rastertype fonts",
+"final": "Metafont"
+},
+"Metal (API)": {
+"status": "ok",
+"desc": "iOS, macOS, and tvOS graphics rendering API",
+"final": "Metal (API)"
+},
+"Metal Shading Language": {
+"status": "ok",
+"desc": "iOS, macOS, and tvOS graphics rendering API",
+"final": "Metal (API)"
+},
+"Metalua": {
+"status": "missing"
+},
+"Metamath": {
+"status": "ok",
+"desc": "Formal language and associated computer program",
+"final": "Metamath"
+},
+"Mezzo (programming language)": {
+"status": "missing"
+},
+"Michelson (programming language)": {
+"status": "missing"
+},
+"Micro-Prolog": {
+"status": "missing"
+},
+"MicroPython": {
+"status": "ok",
+"desc": "Microcontroller software based on Python",
+"final": "MicroPython"
+},
+"Microsoft BASIC": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Microsoft BASIC"
+},
+"Microsoft Interface Definition Language": {
+"status": "ok",
+"desc": "",
+"final": "Microsoft Interface Definition Language"
+},
+"Microsoft Macro Assembler": {
+"status": "ok",
+"desc": "Assembler for Intel microprocessors",
+"final": "Microsoft Macro Assembler"
+},
+"Microsoft Power Fx": {
+"status": "ok",
+"desc": "General purpose programming language",
+"final": "Microsoft Power Fx"
+},
+"Microsoft Small Basic": {
+"status": "ok",
+"desc": "Programming language dialect and development environment",
+"final": "Microsoft Small Basic"
+},
+"Milawa (theorem prover)": {
+"status": "missing"
+},
+"Miller (software)": {
+"status": "missing"
+},
+"MiniJava": {
+"status": "missing"
+},
+"MiniKanren": {
+"status": "ok",
+"desc": "Family of computer programming languages",
+"final": "MiniKanren"
+},
+"MiniML": {
+"status": "missing"
+},
+"Minion (solver)": {
+"status": "ok",
+"desc": "Software for solving constraint satisfaction problems",
+"final": "Minion (solver)"
+},
+"Mirah (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Mirah (programming language)"
+},
+"Miranda (programming language)": {
+"status": "ok",
+"desc": "Programming language by David Turner",
+"final": "Miranda (programming language)"
+},
+"Mitrion-C": {
+"status": "missing"
+},
+"Miva Script": {
+"status": "missing"
+},
+"Mizar system": {
+"status": "ok",
+"desc": "Proof assistant program",
+"final": "Mizar system"
+},
+"Mobl": {
+"status": "missing"
+},
+"Moby (programming language)": {
+"status": "missing"
+},
+"Mocklisp": {
+"status": "ok",
+"desc": "Emacs implementation by James Gosling",
+"final": "Gosling Emacs"
+},
+"Model 204": {
+"status": "ok",
+"desc": "Database management system for IBM mainframes",
+"final": "Model 204"
+},
+"Modelica": {
+"status": "ok",
+"desc": "Computer Language for System Modeling",
+"final": "Modelica"
+},
+"Modula": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Modula"
+},
+"Modula-2": {
+"status": "ok",
+"desc": "1970s-80s computer programming language",
+"final": "Modula-2"
+},
+"Modula-2+": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Modula-2+"
+},
+"Modula-3": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Modula-3"
+},
+"Molecular Operating Environment": {
+"status": "ok",
+"desc": "",
+"final": "Molecular Operating Environment"
+},
+"Mondrian (programming language)": {
+"status": "missing"
+},
+"Monkey C": {
+"status": "missing"
+},
+"Monkey X": {
+"status": "ok",
+"desc": "New Zealand software company",
+"final": "Blitz Research"
+},
+"Morfik": {
+"status": "ok",
+"desc": "Australian software company",
+"final": "Morfik"
+},
+"Morte (programming language)": {
+"status": "missing"
+},
+"Mortran": {
+"status": "ok",
+"desc": "",
+"final": "Mortran"
+},
+"Mosel (programming language)": {
+"status": "ok",
+"desc": "Suite of mathematical modeling and optimization tools",
+"final": "FICO Xpress"
+},
+"Motoko (programming language)": {
+"status": "missing"
+},
+"Motorola 6800": {
+"status": "ok",
+"desc": "8-bit microprocessor",
+"final": "Motorola 6800"
+},
+"Motorola 68000": {
+"status": "ok",
+"desc": "Microprocessor",
+"final": "Motorola 68000"
+},
+"Motorola 6809": {
+"status": "ok",
+"desc": "8-bit microprocessor",
+"final": "Motorola 6809"
+},
+"Motorola 68HC11": {
+"status": "ok",
+"desc": "8-bit microcontroller family",
+"final": "Motorola 68HC11"
+},
+"Mouse (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Mouse (programming language)"
+},
+"Move (programming language)": {
+"status": "ok",
+"desc": "Cryptocurrency project",
+"final": "Diem (digital currency)"
+},
+"Movitz": {
+"status": "ok",
+"desc": "Book of songs by Carl Michael Bellman",
+"final": "Fredmans epistlar"
+},
+"Mozart (programming system)": {
+"status": "missing"
+},
+"Mruby": {
+"status": "ok",
+"desc": "Lightweight Ruby language implementation",
+"final": "Mruby"
+},
+"Mu-Prolog": {
+"status": "missing"
+},
+"MuLISP": {
+"status": "ok",
+"desc": "Programming language family",
+"final": "Lisp (programming language)"
+},
+"MuMATH": {
+"status": "ok",
+"desc": "Computer Algebra Program",
+"final": "MuMATH"
+},
+"MuPAD": {
+"status": "ok",
+"desc": "Computer algebra system (CAS)",
+"final": "MuPAD"
+},
+"MultiJava": {
+"status": "missing"
+},
+"MultiLisp": {
+"status": "ok",
+"desc": "",
+"final": "MultiLisp"
+},
+"Multics": {
+"status": "ok",
+"desc": "Time-sharing operating system",
+"final": "Multics"
+},
+"Multidimensional Expressions": {
+"status": "ok",
+"desc": "OLAP query language",
+"final": "MultiDimensional eXpressions"
+},
+"Mun (programming language)": {
+"status": "missing"
+},
+"Mur\u03c6": {
+"status": "ok",
+"desc": "",
+"final": "Mur\u03c6"
+},
+"Music Macro Language": {
+"status": "ok",
+"desc": "Programming language for generating computerized music",
+"final": "Music Macro Language"
+},
+"Mustache (template system)": {
+"status": "ok",
+"desc": "Template system for web pages",
+"final": "Mustache (template system)"
+},
+"MyHDL": {
+"status": "ok",
+"desc": "",
+"final": "MyHDL"
+},
+"Mythryl": {
+"status": "missing"
+},
+"N-Prolog": {
+"status": "missing"
+},
+"N1QL": {
+"status": "ok",
+"desc": "Open-source NoSQL database",
+"final": "Couchbase Server"
+},
+"NAPSS": {
+"status": "ok",
+"desc": "",
+"final": "National Association for the Promotion of Social Science"
+},
+"NARS2000": {
+"status": "ok",
+"desc": "Functional programming language for arrays",
+"final": "APL (programming language)"
+},
+"NAT (programming language)": {
+"status": "missing"
+},
+"NATJ": {
+"status": "missing"
+},
+"NCAR Command Language": {
+"status": "ok",
+"desc": "US federally funded research and development center",
+"final": "National Center for Atmospheric Research"
+},
+"NELIAC": {
+"status": "ok",
+"desc": "",
+"final": "NELIAC"
+},
+"NEWP": {
+"status": "ok",
+"desc": "Range of mainframe computers in the 1960s and 70s",
+"final": "Burroughs Large Systems"
+},
+"NIL (programming language)": {
+"status": "ok",
+"desc": "Dialect of Lisp",
+"final": "NIL (programming language)"
+},
+"NODAL": {
+"status": "ok",
+"desc": "Mammalian protein found in Homo sapiens",
+"final": "Nodal homolog"
+},
+"NOMAD (programming language)": {
+"status": "missing"
+},
+"NONMEM": {
+"status": "ok",
+"desc": "Software for population pharmacokinetic modeling",
+"final": "NONMEM"
+},
+"NPL (programming language)": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "NPL (programming language)"
+},
+"NS Basic": {
+"status": "ok",
+"desc": "Software development tools",
+"final": "NS Basic"
+},
+"NSIS": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "NSIS"
+},
+"NScripter": {
+"status": "ok",
+"desc": "",
+"final": "List of visual novel engines"
+},
+"NTCC": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "NTCC"
+},
+"NU-Prolog": {
+"status": "missing"
+},
+"NWScript": {
+"status": "ok",
+"desc": "Dungeons & Dragons video game",
+"final": "Neverwinter Nights (2002 video game)"
+},
+"NXT-G": {
+"status": "ok",
+"desc": "Programmable robotics kit",
+"final": "Lego Mindstorms NXT"
+},
+"Nadeshiko (programming language)": {
+"status": "missing"
+},
+"Nand to Tetris": {
+"status": "missing"
+},
+"Nand2tetris": {
+"status": "ok",
+"desc": "Theoretical computer used for teaching",
+"final": "Hack computer"
+},
+"Napier88": {
+"status": "ok",
+"desc": "",
+"final": "Napier88"
+},
+"Nasal (programming language)": {
+"status": "missing"
+},
+"Nascom": {
+"status": "ok",
+"desc": "British single-board computer kit",
+"final": "Nascom"
+},
+"Nastran": {
+"status": "ok",
+"desc": "Finite element analysis software",
+"final": "Nastran"
+},
+"Natural (programming language)": {
+"status": "missing"
+},
+"Nessus Attack Scripting Language": {
+"status": "ok",
+"desc": "Automation tool for computer vulnerability scanners",
+"final": "Nessus Attack Scripting Language"
+},
+"Nested Context Language": {
+"status": "ok",
+"desc": "Declarative authoring language for hypermedia documents",
+"final": "Nested Context Language"
+},
+"NetLogo": {
+"status": "ok",
+"desc": "Programming language",
+"final": "NetLogo"
+},
+"NetRexx": {
+"status": "ok",
+"desc": "",
+"final": "NetRexx"
+},
+"Netwide Assembler": {
+"status": "ok",
+"desc": "Assembler for the Intel x86 architecture",
+"final": "Netwide Assembler"
+},
+"NewLISP": {
+"status": "ok",
+"desc": "Dialect of Lisp programming language",
+"final": "NewLISP"
+},
+"Newspeak (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Newspeak (programming language)"
+},
+"Newsqueak": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Newsqueak"
+},
+"NewtonScript": {
+"status": "ok",
+"desc": "Prototype-based programming language for the Apple Newton platform",
+"final": "NewtonScript"
+},
+"Next Scripting Framework": {
+"status": "missing"
+},
+"Nextflow": {
+"status": "ok",
+"desc": "Open-Source Workflow Management Platform",
+"final": "Nextflow"
+},
+"Nial (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Nial"
+},
+"Nice (programming language)": {
+"status": "missing"
+},
+"Nickle (programming language)": {
+"status": "ok",
+"desc": "American software developer (born 1963)",
+"final": "Keith Packard"
+},
+"Nim (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Nim (programming language)"
+},
+"Nix (package manager)": {
+"status": "ok",
+"desc": "Purely functional package manager",
+"final": "Nix (package manager)"
+},
+"NoFlo": {
+"status": "missing"
+},
+"NodeBox": {
+"status": "missing"
+},
+"NorduGrid": {
+"status": "ok",
+"desc": "Grid computing project",
+"final": "NorduGrid"
+},
+"Not Quite C": {
+"status": "ok",
+"desc": "Hardware and software platform by Lego",
+"final": "Lego Mindstorms"
+},
+"Not eXactly C": {
+"status": "ok",
+"desc": "Programmable robotics kit",
+"final": "Lego Mindstorms NXT"
+},
+"Notation3": {
+"status": "ok",
+"desc": "Compact non-XML format for RDF models",
+"final": "Notation3"
+},
+"Noweb": {
+"status": "ok",
+"desc": "Literate programming tool",
+"final": "Noweb"
+},
+"Nqthm": {
+"status": "ok",
+"desc": "Software system",
+"final": "Nqthm"
+},
+"Nroff": {
+"status": "ok",
+"desc": "Typesetting language",
+"final": "Nroff"
+},
+"NuSMV": {
+"status": "ok",
+"desc": "Reimplementation and extension of SMV model checker",
+"final": "NuSMV"
+},
+"Nuprl": {
+"status": "ok",
+"desc": "Proof development system",
+"final": "Nuprl"
+},
+"Nymph (programming language)": {
+"status": "missing"
+},
+"Nyquist (programming language)": {
+"status": "ok",
+"desc": "Programming language for music synthesis",
+"final": "Nyquist (programming language)"
+},
+"OBJ (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "OBJ (programming language)"
+},
+"OCaml": {
+"status": "ok",
+"desc": "Programming language",
+"final": "OCaml"
+},
+"OMG Interface Definition Language": {
+"status": "missing"
+},
+"OMNITAB": {
+"status": "missing"
+},
+"OMNeT++": {
+"status": "ok",
+"desc": "",
+"final": "OMNeT++"
+},
+"OMeta": {
+"status": "ok",
+"desc": "",
+"final": "OMeta"
+},
+"OPS5": {
+"status": "ok",
+"desc": "Rule-based or production system computer language",
+"final": "OPS5"
+},
+"ORCA/C": {
+"status": "missing"
+},
+"ORCA/M": {
+"status": "missing"
+},
+"Oaklisp": {
+"status": "ok",
+"desc": "Portable object-oriented Scheme",
+"final": "Oaklisp"
+},
+"Oberon (programming language)": {
+"status": "ok",
+"desc": "General-purpose programming language",
+"final": "Oberon (programming language)"
+},
+"Oberon-2": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Oberon-2"
+},
+"Obix": {
+"status": "missing"
+},
+"ObjVlisp": {
+"status": "ok",
+"desc": "",
+"final": "ObjVlisp"
+},
+"Objeck programming language": {
+"status": "missing"
+},
+"Object Constraint Language": {
+"status": "ok",
+"desc": "Declarative language",
+"final": "Object Constraint Language"
+},
+"Object Pascal": {
+"status": "ok",
+"desc": "Branch of object-oriented derivatives of Pascal programming language",
+"final": "Object Pascal"
+},
+"Object Query Language": {
+"status": "ok",
+"desc": "Query language for object-oriented databases",
+"final": "Object Query Language"
+},
+"Object REXX": {
+"status": "ok",
+"desc": "Extension of Rexx programming language with support for object-oriented programming",
+"final": "Object REXX"
+},
+"Object-Oriented Turing": {
+"status": "ok",
+"desc": "High-level computer programming language",
+"final": "Turing (programming language)"
+},
+"Object-Z": {
+"status": "ok",
+"desc": "",
+"final": "Object-Z"
+},
+"ObjectPAL": {
+"status": "ok",
+"desc": "",
+"final": "ObjectPAL"
+},
+"Objective-C": {
+"status": "ok",
+"desc": "General-purpose, object-oriented programming language",
+"final": "Objective-C"
+},
+"Objective-J": {
+"status": "missing"
+},
+"Obliq": {
+"status": "ok",
+"desc": "",
+"final": "Obliq"
+},
+"Oblivion Script": {
+"status": "missing"
+},
+"Oblix": {
+"status": "ok",
+"desc": "",
+"final": "List of acquisitions by Oracle"
+},
+"Oblong Industries": {
+"status": "missing"
+},
+"Occam (programming language)": {
+"status": "ok",
+"desc": "Concurrent programming language",
+"final": "Occam (programming language)"
+},
+"Occam-\u03c0": {
+"status": "ok",
+"desc": "Variant of the programming language occam",
+"final": "Occam-\u03c0"
+},
+"Oil (programming language)": {
+"status": "missing"
+},
+"Omega (programming language)": {
+"status": "missing"
+},
+"OmniMark": {
+"status": "ok",
+"desc": "Fourth-generation programming language",
+"final": "OmniMark"
+},
+"Omnis Studio": {
+"status": "ok",
+"desc": "Rapid application development tool",
+"final": "Omnis Studio"
+},
+"One-instruction set computer": {
+"status": "ok",
+"desc": "Abstract machine that uses only one instruction",
+"final": "One-instruction set computer"
+},
+"Onyx (programming language)": {
+"status": "missing"
+},
+"Ooc (programming language)": {
+"status": "missing"
+},
+"Ook!": {
+"status": "missing"
+},
+"Opal (programming language)": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Opal (programming language)"
+},
+"Open Dylan": {
+"status": "ok",
+"desc": "Multi-paradigm programming language",
+"final": "Dylan (programming language)"
+},
+"Open Programming Language": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Open Programming Language"
+},
+"Open Shading Language": {
+"status": "ok",
+"desc": "Programming language for rendering images",
+"final": "Open Shading Language"
+},
+"Open Vulnerability and Assessment Language": {
+"status": "ok",
+"desc": "International information security community standard",
+"final": "Open Vulnerability and Assessment Language"
+},
+"OpenACC": {
+"status": "ok",
+"desc": "Programming standard for parallel computing",
+"final": "OpenACC"
+},
+"OpenAxiom": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Axiom (computer algebra system)"
+},
+"OpenCL": {
+"status": "ok",
+"desc": "Open standard for programming heterogenous computing systems, such as CPUs or GPUs",
+"final": "OpenCL"
+},
+"OpenCog": {
+"status": "ok",
+"desc": "Project for an open source artificial intelligence framework",
+"final": "OpenCog"
+},
+"OpenEdge Advanced Business Language": {
+"status": "ok",
+"desc": "Business application development language",
+"final": "OpenEdge Advanced Business Language"
+},
+"OpenGL Shading Language": {
+"status": "ok",
+"desc": "High-level shading language",
+"final": "OpenGL Shading Language"
+},
+"OpenLaszlo": {
+"status": "ok",
+"desc": "Discontinued open-source platform",
+"final": "OpenLaszlo"
+},
+"OpenLogo": {
+"status": "missing"
+},
+"OpenQASM": {
+"status": "ok",
+"desc": "Intermediate representation for quantum instructions",
+"final": "OpenQASM"
+},
+"OpenRISC": {
+"status": "ok",
+"desc": "Microprocessor development project",
+"final": "OpenRISC"
+},
+"OpenROAD": {
+"status": "ok",
+"desc": "Fourth-generation programming language",
+"final": "OpenROAD"
+},
+"OpenVera": {
+"status": "missing"
+},
+"OptimJ": {
+"status": "ok",
+"desc": "",
+"final": "OptimJ"
+},
+"Orc (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Orc (programming language)"
+},
+"Oric (computer)": {
+"status": "ok",
+"desc": "UK-manufactured 8-bit computer",
+"final": "Oric (computer)"
+},
+"Oriel (scripting language)": {
+"status": "ok",
+"desc": "",
+"final": "Oriel (scripting language)"
+},
+"Orwell (programming language)": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Orwell (programming language)"
+},
+"Overlog": {
+"status": "missing"
+},
+"Ovid Technologies": {
+"status": "ok",
+"desc": "Vendor of journal full text, book full text, and bibliographic databases",
+"final": "Ovid Technologies"
+},
+"Ox (programming language)": {
+"status": "ok",
+"desc": "Object-oriented programming language",
+"final": "Ox (programming language)"
+},
+"Oxygen Basic": {
+"status": "missing"
+},
+"Oxygene (programming language)": {
+"status": "ok",
+"desc": "Object Pascal-based programming language",
+"final": "Oxygene (programming language)"
+},
+"Oz (programming language)": {
+"status": "ok",
+"desc": "Multiparadigm programming language",
+"final": "Oz (programming language)"
+},
+"P (programming language)": {
+"status": "ok",
+"desc": "Event-driven programming language",
+"final": "P (programming language)"
+},
+"P4 (programming language)": {
+"status": "ok",
+"desc": "Language for controlling network data forwarding",
+"final": "P4 (programming language)"
+},
+"PA-RISC": {
+"status": "ok",
+"desc": "Instruction set architecture by Hewlett-Packard",
+"final": "PA-RISC"
+},
+"PACT I": {
+"status": "ok",
+"desc": "Series of IBM compilers",
+"final": "PACT (compiler)"
+},
+"PARI/GP": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "PARI/GP"
+},
+"PCASTL": {
+"status": "ok",
+"desc": "High-level programming language",
+"final": "PCASTL"
+},
+"PDP-10": {
+"status": "ok",
+"desc": "36-bit computer by Digital (1966\u20131983)",
+"final": "PDP-10"
+},
+"PDP-11": {
+"status": "ok",
+"desc": "Series of 16-bit minicomputers",
+"final": "PDP-11"
+},
+"PDP-11 architecture": {
+"status": "ok",
+"desc": "Instruction set architecture developed by Digital Equipment Corporation",
+"final": "PDP-11 architecture"
+},
+"PDP-12": {
+"status": "ok",
+"desc": "Historical scientific computer",
+"final": "PDP-12"
+},
+"PDP-15": {
+"status": "ok",
+"desc": "18-bit computer by Digital, 1970\u201379",
+"final": "PDP-15"
+},
+"PDP-4": {
+"status": "ok",
+"desc": "1962 computer made by Digital Equipment Corporation",
+"final": "PDP-4"
+},
+"PDP-5": {
+"status": "ok",
+"desc": "12-bit computer from Digital",
+"final": "PDP-5"
+},
+"PDP-6": {
+"status": "ok",
+"desc": "36-bit mainframe computer (1964\u20131966)",
+"final": "PDP-6"
+},
+"PDP-7": {
+"status": "ok",
+"desc": "Minicomputer introduced in 1964",
+"final": "PDP-7"
+},
+"PDP-8": {
+"status": "ok",
+"desc": "Minicomputer product line",
+"final": "PDP-8"
+},
+"PDP-9": {
+"status": "ok",
+"desc": "18-bit computer from Digital, 1966",
+"final": "PDP-9"
+},
+"PEARL (programming language)": {
+"status": "ok",
+"desc": "High-level language",
+"final": "PEARL (programming language)"
+},
+"PEPA": {
+"status": "ok",
+"desc": "Process calculus",
+"final": "PEPA"
+},
+"PF (firewall)": {
+"status": "ok",
+"desc": "Packet filter software",
+"final": "PF (firewall)"
+},
+"PForth": {
+"status": "ok",
+"desc": "",
+"final": "PForth"
+},
+"PGF/TikZ": {
+"status": "ok",
+"desc": "Graphics languages",
+"final": "PGF/TikZ"
+},
+"PH (programming language)": {
+"status": "missing"
+},
+"PIC instruction listings": {
+"status": "ok",
+"desc": "List of computer processor instructions",
+"final": "PIC instruction listings"
+},
+"PIC microcontrollers": {
+"status": "ok",
+"desc": "Line of single-chip microprocessors from Microchip Technology",
+"final": "PIC microcontrollers"
+},
+"PICAXE": {
+"status": "ok",
+"desc": "",
+"final": "PICAXE"
+},
+"PILOT (programming language)": {
+"status": "missing"
+},
+"PL-11": {
+"status": "ok",
+"desc": "Programming language for the PDP-11",
+"final": "PL-11"
+},
+"PL/0": {
+"status": "ok",
+"desc": "Programming language",
+"final": "PL/0"
+},
+"PL/360": {
+"status": "ok",
+"desc": "",
+"final": "PL360"
+},
+"PL/A": {
+"status": "missing"
+},
+"PL/B": {
+"status": "ok",
+"desc": "",
+"final": "Programming Language for Business"
+},
+"PL/C": {
+"status": "ok",
+"desc": "Programming language developed at Cornell University",
+"final": "PL/C"
+},
+"PL/I": {
+"status": "ok",
+"desc": "Procedural, imperative computer programming language",
+"final": "PL/I"
+},
+"PL/M": {
+"status": "ok",
+"desc": "Programming language for microcomputers based on PL/1 and XPL",
+"final": "PL/M"
+},
+"PL/P": {
+"status": "ok",
+"desc": "Operating system",
+"final": "PRIMOS"
+},
+"PL/S": {
+"status": "ok",
+"desc": "Proprietary IBM systems programming language",
+"final": "IBM PL/S"
+},
+"PL/SQL": {
+"status": "ok",
+"desc": "Procedural extension for SQL and the Oracle relational database",
+"final": "PL/SQL"
+},
+"PL/X": {
+"status": "ok",
+"desc": "Proprietary IBM systems programming language",
+"final": "IBM PL/S"
+},
+"PL/Z": {
+"status": "missing"
+},
+"PL/pgSQL": {
+"status": "ok",
+"desc": "Procedural programming language",
+"final": "PL/pgSQL"
+},
+"PL516": {
+"status": "missing"
+},
+"PLAN (programming language)": {
+"status": "missing"
+},
+"PLANC": {
+"status": "ok",
+"desc": "",
+"final": "PLANC"
+},
+"PLANIT (programming language)": {
+"status": "missing"
+},
+"PLATO (computer system)": {
+"status": "ok",
+"desc": "Mainframe computer system",
+"final": "PLATO (computer system)"
+},
+"PLEX (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "PLEX (programming language)"
+},
+"PLEXIL": {
+"status": "ok",
+"desc": "",
+"final": "PLEXIL"
+},
+"PLUS (programming language)": {
+"status": "missing"
+},
+"PLZ (programming language)": {
+"status": "missing"
+},
+"PMX (notation program)": {
+"status": "missing"
+},
+"POLYMATH": {
+"status": "missing"
+},
+"POOL (programming language)": {
+"status": "missing"
+},
+"POP-2": {
+"status": "ok",
+"desc": "Programming language",
+"final": "POP-2"
+},
+"POPLER": {
+"status": "missing"
+},
+"POV-Ray": {
+"status": "ok",
+"desc": "Text-based ray-tracing program",
+"final": "POV-Ray"
+},
+"PRINT (programming language)": {
+"status": "missing"
+},
+"PRISM model checker": {
+"status": "ok",
+"desc": "",
+"final": "PRISM model checker"
+},
+"PROIV": {
+"status": "ok",
+"desc": "",
+"final": "PROIV"
+},
+"PROMAL": {
+"status": "ok",
+"desc": "",
+"final": "PROMAL"
+},
+"PROSE modeling language": {
+"status": "ok",
+"desc": "",
+"final": "PROSE modeling language"
+},
+"PROTEL": {
+"status": "missing"
+},
+"PRQL": {
+"status": "missing"
+},
+"PS-algol": {
+"status": "ok",
+"desc": "Orthogonally persistent programming language",
+"final": "PS-algol"
+},
+"PSF (process algebra)": {
+"status": "missing"
+},
+"PV-WAVE": {
+"status": "ok",
+"desc": "",
+"final": "PV-Wave"
+},
+"PVS (software)": {
+"status": "missing"
+},
+"PacketC": {
+"status": "missing"
+},
+"Pact (programming language)": {
+"status": "missing"
+},
+"Pan (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Pan (programming language)"
+},
+"Panini (programming language)": {
+"status": "missing"
+},
+"Panorama (database)": {
+"status": "missing"
+},
+"ParaSail (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "ParaSail (programming language)"
+},
+"Parallel Thread Execution": {
+"status": "ok",
+"desc": "Low-level parallel thread execution virtual machine and instruction set architecture",
+"final": "Parallel Thread Execution"
+},
+"Parenscript": {
+"status": "missing"
+},
+"Parlog": {
+"status": "ok",
+"desc": "",
+"final": "Parlog"
+},
+"Parrot (software)": {
+"status": "missing"
+},
+"Parrot virtual machine": {
+"status": "ok",
+"desc": "Software to run programming languages",
+"final": "Parrot virtual machine"
+},
+"PartiQL": {
+"status": "missing"
+},
+"Pascal (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Pascal (programming language)"
+},
+"Pascal-SC": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Pascal (programming language)"
+},
+"PascalABC.NET": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "PascalABC.NET"
+},
+"PascalScript": {
+"status": "missing"
+},
+"Pawn (programming language)": {
+"status": "missing"
+},
+"Pawn (scripting language)": {
+"status": "missing"
+},
+"Pencil Code (programming environment)": {
+"status": "missing"
+},
+"PeopleCode": {
+"status": "ok",
+"desc": "Proprietary programming language",
+"final": "PeopleCode"
+},
+"Pep (computing)": {
+"status": "missing"
+},
+"Pep/10": {
+"status": "missing"
+},
+"Pep/7": {
+"status": "missing"
+},
+"Pep/8": {
+"status": "missing"
+},
+"Pep/9": {
+"status": "missing"
+},
+"Per Brinch Hansen": {
+"status": "ok",
+"desc": "Danish-American computer scientist",
+"final": "Per Brinch Hansen"
+},
+"Perl Data Language": {
+"status": "ok",
+"desc": "Array programming library for Perl",
+"final": "Perl Data Language"
+},
+"PerlScript": {
+"status": "ok",
+"desc": "Windows port of perl by ActiveState",
+"final": "ActivePerl"
+},
+"Phalanger (compiler)": {
+"status": "ok",
+"desc": "PHP compiler",
+"final": "Phalanger (compiler)"
+},
+"Phrogram": {
+"status": "missing"
+},
+"Pic (software)": {
+"status": "ok",
+"desc": "Typesetting language and program for drawing",
+"final": "PIC (markup language)"
+},
+"PicBasic": {
+"status": "missing"
+},
+"Picat": {
+"status": "missing"
+},
+"Pick operating system": {
+"status": "ok",
+"desc": "Operating system released in 1965",
+"final": "Pick operating system"
+},
+"Pico (programming language)": {
+"status": "missing"
+},
+"PicoBlaze": {
+"status": "ok",
+"desc": "",
+"final": "PicoBlaze"
+},
+"Pict (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Pict (programming language)"
+},
+"Pike (programming language)": {
+"status": "ok",
+"desc": "General purpose programming language",
+"final": "Pike (programming language)"
+},
+"Pine Script": {
+"status": "missing"
+},
+"Pixel Bender": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Adobe Pixel Bender"
+},
+"Pizza (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Pizza (programming language)"
+},
+"Plaid (programming language)": {
+"status": "missing"
+},
+"Plan 9 from Bell Labs": {
+"status": "ok",
+"desc": "Research distributed operating system",
+"final": "Plan 9 from Bell Labs"
+},
+"Plankalk\u00fcl": {
+"status": "ok",
+"desc": "Programming language designed 1942 to 1945",
+"final": "Plankalk\u00fcl"
+},
+"Planner (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Planner (programming language)"
+},
+"Planning Domain Definition Language": {
+"status": "ok",
+"desc": "Planning programming language",
+"final": "Planning Domain Definition Language"
+},
+"Plant Simulation": {
+"status": "ok",
+"desc": "",
+"final": "Plant Simulation"
+},
+"PlayBasic": {
+"status": "missing"
+},
+"Pliant (programming language)": {
+"status": "missing"
+},
+"Pnuts": {
+"status": "ok",
+"desc": "",
+"final": "Pnuts"
+},
+"PogoScript": {
+"status": "missing"
+},
+"Pollen (markup language)": {
+"status": "missing"
+},
+"Poly/ML": {
+"status": "ok",
+"desc": "General-purpose functional programming language",
+"final": "Standard ML"
+},
+"Polymorphic Programming Language": {
+"status": "ok",
+"desc": "Interactive, extensible programming language type",
+"final": "Polymorphic Programming Language"
+},
+"Ponder (policy language)": {
+"status": "missing"
+},
+"Pop-11": {
+"status": "missing"
+},
+"Poplog": {
+"status": "ok",
+"desc": "Software development environment",
+"final": "Poplog"
+},
+"PortablE": {
+"status": "missing"
+},
+"Portable Game Notation": {
+"status": "ok",
+"desc": "Computer format for recording chess games",
+"final": "Portable Game Notation"
+},
+"Portable Standard Lisp": {
+"status": "ok",
+"desc": "",
+"final": "Portable Standard Lisp"
+},
+"PostScript": {
+"status": "ok",
+"desc": "File format and programming language",
+"final": "PostScript"
+},
+"Potion (programming language)": {
+"status": "missing"
+},
+"Power Query": {
+"status": "ok",
+"desc": "ETL tool developed by Microsoft",
+"final": "Power Query"
+},
+"PowerBASIC": {
+"status": "ok",
+"desc": "Software compiler",
+"final": "PowerBASIC"
+},
+"PowerBuilder": {
+"status": "ok",
+"desc": "Software development tool",
+"final": "PowerBuilder"
+},
+"PowerPC": {
+"status": "ok",
+"desc": "RISC instruction set architecture by AIM alliance",
+"final": "PowerPC"
+},
+"Powerhouse (programming language)": {
+"status": "ok",
+"desc": "Fourth-generation programming language",
+"final": "PowerHouse (programming language)"
+},
+"Praat": {
+"status": "ok",
+"desc": "Open source speech analysis software",
+"final": "Praat"
+},
+"Printer Job Language": {
+"status": "ok",
+"desc": "",
+"final": "Printer Job Language"
+},
+"ProComm": {
+"status": "ok",
+"desc": "Company that made computer communications software",
+"final": "Datastorm Technologies"
+},
+"ProbLog": {
+"status": "ok",
+"desc": "Probabilistic logic programming language",
+"final": "ProbLog"
+},
+"Profan\u00b2": {
+"status": "missing"
+},
+"Program Composition Notation": {
+"status": "ok",
+"desc": "",
+"final": "Program Composition Notation"
+},
+"Programming Computable Functions": {
+"status": "ok",
+"desc": "Typed functional language",
+"final": "Programming Computable Functions"
+},
+"Prograph": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Prograph"
+},
+"Progress 4GL": {
+"status": "ok",
+"desc": "Business application development language",
+"final": "OpenEdge Advanced Business Language"
+},
+"Prolog": {
+"status": "ok",
+"desc": "Programming language that uses first order logic",
+"final": "Prolog"
+},
+"Prolog++": {
+"status": "ok",
+"desc": "",
+"final": "Prolog++"
+},
+"Promela": {
+"status": "ok",
+"desc": "Verification modeling language",
+"final": "Promela"
+},
+"Prometheus (software)": {
+"status": "ok",
+"desc": "Free application for event monitoring and alerting",
+"final": "Prometheus (software)"
+},
+"Property Specification Language": {
+"status": "ok",
+"desc": "Temporal logic",
+"final": "Property Specification Language"
+},
+"Protocol Buffers": {
+"status": "ok",
+"desc": "Data serialization format",
+"final": "Protocol Buffers"
+},
+"ProvideX": {
+"status": "missing"
+},
+"PseInt": {
+"status": "missing"
+},
+"Ptolemy (programming language)": {
+"status": "missing"
+},
+"Ptolemy Project": {
+"status": "ok",
+"desc": "",
+"final": "Ptolemy Project"
+},
+"Pug (template engine)": {
+"status": "missing"
+},
+"Puppet (software)": {
+"status": "ok",
+"desc": "Open source configuration management software",
+"final": "Puppet (software)"
+},
+"Pure (programming language)": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Pure (programming language)"
+},
+"Pure Data": {
+"status": "ok",
+"desc": "Visual programming language",
+"final": "Pure Data"
+},
+"PyPy": {
+"status": "ok",
+"desc": "Alternative implementation of the Python programming language",
+"final": "PyPy"
+},
+"Pyrex (programming language)": {
+"status": "ok",
+"desc": "Programming language to aid in creating Python modules",
+"final": "Pyrex (programming language)"
+},
+"Pythran": {
+"status": "missing"
+},
+"Q (programming language from Kx Systems)": {
+"status": "ok",
+"desc": "Proprietary array programming language",
+"final": "Q (programming language from Kx Systems)"
+},
+"Q Sharp (programming language)": {
+"status": "missing"
+},
+"QA-4": {
+"status": "missing"
+},
+"QA4": {
+"status": "missing"
+},
+"QB64": {
+"status": "ok",
+"desc": "IDE for the BASIC programming language",
+"final": "QB64"
+},
+"QBasic": {
+"status": "ok",
+"desc": "IDE for the BASIC programming language",
+"final": "QBasic"
+},
+"QCL (programming language)": {
+"status": "missing"
+},
+"QED (text editor)": {
+"status": "ok",
+"desc": "Line-oriented text editor for the SDS 940",
+"final": "QED (text editor)"
+},
+"QML": {
+"status": "ok",
+"desc": "User interface markup language",
+"final": "QML"
+},
+"QPL (programming language)": {
+"status": "missing"
+},
+"QUEL query languages": {
+"status": "ok",
+"desc": "Relational database access language",
+"final": "QUEL query languages"
+},
+"QUIKTRAN": {
+"status": "ok",
+"desc": "",
+"final": "QUIKTRAN"
+},
+"QVT": {
+"status": "ok",
+"desc": "Standard set of languages for model transformation",
+"final": "QVT"
+},
+"Qalb (programming language)": {
+"status": "ok",
+"desc": "Programming language with Arabic keywords",
+"final": "Qalb (programming language)"
+},
+"Qi (programming language)": {
+"status": "missing"
+},
+"Qmake": {
+"status": "ok",
+"desc": "Object-oriented framework for software development",
+"final": "Qt (software)"
+},
+"Qore (programming language)": {
+"status": "ok",
+"desc": "Dynamic programming language",
+"final": "Qore (programming language)"
+},
+"Qu-Prolog": {
+"status": "missing"
+},
+"QuakeC": {
+"status": "ok",
+"desc": "Compiled language",
+"final": "QuakeC"
+},
+"Qualcomm Kalimba": {
+"status": "missing"
+},
+"Quantum programming": {
+"status": "ok",
+"desc": "Computer programming for quantum computers",
+"final": "Quantum programming"
+},
+"Query by Example": {
+"status": "ok",
+"desc": "Database query language",
+"final": "Query by Example"
+},
+"Quest (software)": {
+"status": "missing"
+},
+"QuickBASIC": {
+"status": "ok",
+"desc": "IDE for the BASIC programming language",
+"final": "QuickBASIC"
+},
+"QuickJS": {
+"status": "ok",
+"desc": "",
+"final": "List of JavaScript engines"
+},
+"Quil (instruction set architecture)": {
+"status": "ok",
+"desc": "Quantum instruction set architecture",
+"final": "Quil (instruction set architecture)"
+},
+"Quipper (programming language)": {
+"status": "ok",
+"desc": "Computer programming for quantum computers",
+"final": "Quantum programming"
+},
+"Quirrel (programming language)": {
+"status": "missing"
+},
+"Quorum (programming language)": {
+"status": "missing"
+},
+"R (programming language)": {
+"status": "ok",
+"desc": "Programming language for statistics",
+"final": "R (programming language)"
+},
+"R:BASE": {
+"status": "ok",
+"desc": "Computer software program",
+"final": "R:Base"
+},
+"RAISE": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "Raise"
+},
+"RAISE Specification Language": {
+"status": "ok",
+"desc": "1990s software development tools",
+"final": "Rigorous Approach to Industrial Software Engineering"
+},
+"RAMIS": {
+"status": "ok",
+"desc": "Fourth-generation programming language (4GL)",
+"final": "RAMIS (software)"
+},
+"RAPID": {
+"status": "ok",
+"desc": "High-level programming language used to control ABB industrial robots",
+"final": "RAPID"
+},
+"RATS (software)": {
+"status": "ok",
+"desc": "Statistical package for time-series analysis",
+"final": "RATS (software)"
+},
+"RCA 1802": {
+"status": "ok",
+"desc": "Early microprocessor",
+"final": "RCA 1802"
+},
+"RDF Schema": {
+"status": "ok",
+"desc": "Schema for knowledge representation",
+"final": "RDF Schema"
+},
+"RDML": {
+"status": "ok",
+"desc": "",
+"final": "LANSA (development environment)"
+},
+"RDQL": {
+"status": "ok",
+"desc": "Resource Description Framework query language, a W3C recommendation",
+"final": "RDF query language"
+},
+"REXX": {
+"status": "ok",
+"desc": "High-level programming language",
+"final": "Rexx"
+},
+"RISC-V": {
+"status": "ok",
+"desc": "Open-source CPU instruction set architecture",
+"final": "RISC-V"
+},
+"RLISP": {
+"status": "missing"
+},
+"ROSCOE (Time-Sharing System)": {
+"status": "missing"
+},
+"RPAL": {
+"status": "missing"
+},
+"RPG Maker": {
+"status": "ok",
+"desc": "Video game creation system software series",
+"final": "RPG Maker"
+},
+"RPL (programming language)": {
+"status": "ok",
+"desc": "Handheld calculator operating system",
+"final": "RPL (programming language)"
+},
+"RTL/2": {
+"status": "ok",
+"desc": "Programming language",
+"final": "RTL/2"
+},
+"RUNOFF": {
+"status": "ok",
+"desc": "Early typesetting programs",
+"final": "TYPSET and RUNOFF"
+},
+"Racket (programming language)": {
+"status": "ok",
+"desc": "Lisp dialect",
+"final": "Racket (programming language)"
+},
+"Ragel": {
+"status": "ok",
+"desc": "Finite state machine compiler",
+"final": "Ragel"
+},
+"Rail (programming language)": {
+"status": "missing"
+},
+"Raku (programming language)": {
+"status": "ok",
+"desc": "Programming language derived from Perl",
+"final": "Raku (programming language)"
+},
+"RapidBATCH": {
+"status": "missing"
+},
+"RapidQ": {
+"status": "ok",
+"desc": "BASIC programming language dialect",
+"final": "RapidQ"
+},
+"Rapira": {
+"status": "ok",
+"desc": "Procedural programming language",
+"final": "Rapira"
+},
+"Rascal (programming language)": {
+"status": "missing"
+},
+"Ratfor": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Ratfor"
+},
+"Raven (programming language)": {
+"status": "missing"
+},
+"Rc shell": {
+"status": "ok",
+"desc": "Command line interpreter for Version 10 Unix and Plan 9 from Bell Labs operating systems",
+"final": "Rc (Unix shell)"
+},
+"Reach (programming language)": {
+"status": "missing"
+},
+"Real Virtuality (game engine)": {
+"status": "ok",
+"desc": "",
+"final": "List of game engines"
+},
+"Real-time Cmix": {
+"status": "ok",
+"desc": "Audio programming language",
+"final": "Real-time Cmix"
+},
+"Real-time object-oriented modelling": {
+"status": "missing"
+},
+"Reason (programming language)": {
+"status": "ok",
+"desc": "Syntax extension and toolchain for OCaml",
+"final": "Reason (programming language)"
+},
+"Rebeca (language)": {
+"status": "missing"
+},
+"Rebol": {
+"status": "ok",
+"desc": "Programming language designed by Carl Sassenrath",
+"final": "Rebol"
+},
+"Recital (software)": {
+"status": "missing"
+},
+"Red (programming language)": {
+"status": "ok",
+"desc": "Computer programming language released in 2011",
+"final": "Red (programming language)"
+},
+"Redcode": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "Redcode"
+},
+"Reduce (software)": {
+"status": "missing"
+},
+"Refal": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Refal"
+},
+"Regent (programming language)": {
+"status": "missing"
+},
+"Reia (programming language)": {
+"status": "ok",
+"desc": "Programming language running on the Erlang virtual machine",
+"final": "Elixir (programming language)"
+},
+"Ren'Py": {
+"status": "ok",
+"desc": "Game engine for the creation of visual novels",
+"final": "Ren'Py"
+},
+"RenderMan Shading Language": {
+"status": "ok",
+"desc": "",
+"final": "RenderMan Shading Language"
+},
+"RenderScript": {
+"status": "ok",
+"desc": "Android operating system API",
+"final": "RenderScript"
+},
+"Renderscript": {
+"status": "ok",
+"desc": "Android operating system API",
+"final": "RenderScript"
+},
+"Retro (programming language)": {
+"status": "missing"
+},
+"RevBayes": {
+"status": "missing"
+},
+"Rexx": {
+"status": "ok",
+"desc": "High-level programming language",
+"final": "Rexx"
+},
+"Rez (programming language)": {
+"status": "missing"
+},
+"Ring (programming language)": {
+"status": "missing"
+},
+"Risa/Asir": {
+"status": "missing"
+},
+"RiveScript": {
+"status": "missing"
+},
+"Rlab": {
+"status": "missing"
+},
+"RoboMind": {
+"status": "ok",
+"desc": "Educational programming environment",
+"final": "RoboMind"
+},
+"Robot Framework": {
+"status": "ok",
+"desc": "Type of test automation framework",
+"final": "Robot Framework"
+},
+"RobotC": {
+"status": "missing"
+},
+"Rockstar (programming language)": {
+"status": "missing"
+},
+"Roff (software)": {
+"status": "ok",
+"desc": "Text typesetting markup software",
+"final": "Roff (software)"
+},
+"Routing Policy Specification Language": {
+"status": "ok",
+"desc": "Domain-specific language used by Internet service providers",
+"final": "Routing Policy Specification Language"
+},
+"Roy (programming language)": {
+"status": "missing"
+},
+"Rubinius": {
+"status": "ok",
+"desc": "Alternative Ruby implementation",
+"final": "Rubinius"
+},
+"Ruby (programming language)": {
+"status": "ok",
+"desc": "General-purpose programming language",
+"final": "Ruby (programming language)"
+},
+"RuleML": {
+"status": "ok",
+"desc": "",
+"final": "RuleML"
+},
+"Run BASIC": {
+"status": "missing"
+},
+"Russell (programming language)": {
+"status": "missing"
+},
+"S (programming language)": {
+"status": "ok",
+"desc": "Statistical programming language",
+"final": "S (programming language)"
+},
+"S-1 Lisp": {
+"status": "ok",
+"desc": "",
+"final": "S-1 Lisp"
+},
+"S-BASIC": {
+"status": "ok",
+"desc": "Programming language",
+"final": "S-BASIC"
+},
+"S-PLUS": {
+"status": "ok",
+"desc": "Implementation of the S programming language",
+"final": "S-PLUS"
+},
+"S-algol": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "S-algol"
+},
+"S/SL programming language": {
+"status": "ok",
+"desc": "Programming language",
+"final": "S/SL programming language"
+},
+"SA-C (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "SA-C (programming language)"
+},
+"SABR (programming language)": {
+"status": "missing"
+},
+"SAIL (programming language)": {
+"status": "ok",
+"desc": "Dialect of the ALGOL-60 for systems programming",
+"final": "SAIL (programming language)"
+},
+"SAL (programming language)": {
+"status": "missing"
+},
+"SAOL": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "SAOL"
+},
+"SARL (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "SARL (programming language)"
+},
+"SAS (programming language)": {
+"status": "ok",
+"desc": "Statistical software",
+"final": "SAS (software)"
+},
+"SASL (programming language)": {
+"status": "ok",
+"desc": "Purely functional programming language",
+"final": "SASL (programming language)"
+},
+"SCADE": {
+"status": "missing"
+},
+"SCAMP (programming language)": {
+"status": "missing"
+},
+"SCELBAL": {
+"status": "ok",
+"desc": "1976 programming language",
+"final": "SCELBAL"
+},
+"SCELBI": {
+"status": "ok",
+"desc": "",
+"final": "SCELBI"
+},
+"SCEPTRE (software)": {
+"status": "missing"
+},
+"SCHOONSHIP": {
+"status": "ok",
+"desc": "",
+"final": "Schoonschip"
+},
+"SCM (Scheme implementation)": {
+"status": "ok",
+"desc": "Implementation of the Scheme programming language",
+"final": "SCM (Scheme implementation)"
+},
+"SCOOP (software)": {
+"status": "ok",
+"desc": "",
+"final": "SCOOP (software)"
+},
+"SCRIPT (markup)": {
+"status": "ok",
+"desc": "Markup language for IBM computers",
+"final": "SCRIPT (markup)"
+},
+"SEQUEL": {
+"status": "ok",
+"desc": "Relational database programming language",
+"final": "SQL"
+},
+"SETL": {
+"status": "ok",
+"desc": "Programming language",
+"final": "SETL"
+},
+"SFTRAN": {
+"status": "missing"
+},
+"SHACL": {
+"status": "ok",
+"desc": "World Wide Web Consortium standard",
+"final": "SHACL"
+},
+"SHAKESPEARE (programming language)": {
+"status": "missing"
+},
+"SHARE Assembly Program": {
+"status": "missing"
+},
+"SHAZAM (software)": {
+"status": "ok",
+"desc": "Econometrics and statistics package",
+"final": "Shazam (econometrics software)"
+},
+"SICStus Prolog": {
+"status": "ok",
+"desc": "Prolog implementation",
+"final": "SICStus Prolog"
+},
+"SIL (programming language)": {
+"status": "missing"
+},
+"SILE (typesetting system)": {
+"status": "missing"
+},
+"SIMAN": {
+"status": "ok",
+"desc": "Salvadoran department store chain",
+"final": "SIM\u00c1N"
+},
+"SIMPOL": {
+"status": "missing"
+},
+"SIMSCRIPT": {
+"status": "ok",
+"desc": "Simulation language",
+"final": "SIMSCRIPT"
+},
+"SIOD": {
+"status": "ok",
+"desc": "Programming language, dialect of Lisp",
+"final": "SIOD"
+},
+"SISAL": {
+"status": "ok",
+"desc": "",
+"final": "SISAL"
+},
+"SISC": {
+"status": "ok",
+"desc": "List of programming software",
+"final": "List of JVM languages"
+},
+"SLAM (programming language)": {
+"status": "missing"
+},
+"SLEUTH (programming language)": {
+"status": "missing"
+},
+"SLIP (programming language)": {
+"status": "ok",
+"desc": "List processing programming language",
+"final": "SLIP (programming language)"
+},
+"SMP (computer algebra system)": {
+"status": "ok",
+"desc": "Predecessor of computer algebra program Mathematica",
+"final": "SMP (computer algebra system)"
+},
+"SMT-LIB": {
+"status": "ok",
+"desc": "Logical problem studied in computer science",
+"final": "Satisfiability modulo theories"
+},
+"SMV (symbolic model checker)": {
+"status": "missing"
+},
+"SNAP (programming language)": {
+"status": "ok",
+"desc": "Education programming language from 1960s",
+"final": "SNAP (programming language)"
+},
+"SNOBOL": {
+"status": "ok",
+"desc": "Text-string-oriented programming language",
+"final": "SNOBOL"
+},
+"SNUSP": {
+"status": "missing"
+},
+"SOAP (software)": {
+"status": "missing"
+},
+"SOL (Simulation Oriented Language)": {
+"status": "missing"
+},
+"SP/k": {
+"status": "ok",
+"desc": "Programming language",
+"final": "SP/k"
+},
+"SPARC": {
+"status": "ok",
+"desc": "RISC instruction set architecture",
+"final": "SPARC"
+},
+"SPARK (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "SPARK (programming language)"
+},
+"SPARQL": {
+"status": "ok",
+"desc": "RDF query language",
+"final": "SPARQL"
+},
+"SPICE": {
+"status": "ok",
+"desc": "Open source analog electronic circuit simulator",
+"final": "SPICE"
+},
+"SPITBOL": {
+"status": "ok",
+"desc": "Implementation of the SNOBOL4 programming language",
+"final": "SPITBOL"
+},
+"SPL (programming language)": {
+"status": "missing"
+},
+"SPOOL (programming language)": {
+"status": "missing"
+},
+"SPSS": {
+"status": "ok",
+"desc": "Statistical analysis software",
+"final": "SPSS"
+},
+"SPSS Statistics": {
+"status": "missing"
+},
+"SQL": {
+"status": "ok",
+"desc": "Relational database programming language",
+"final": "SQL"
+},
+"SQL PL": {
+"status": "ok",
+"desc": "Procedural language for SQL",
+"final": "SQL PL"
+},
+"SQL/PSM": {
+"status": "ok",
+"desc": "SQL extension",
+"final": "SQL/PSM"
+},
+"SQLJ": {
+"status": "ok",
+"desc": "Combination of SQL and Java within programs",
+"final": "SQLJ"
+},
+"SQR (programming language)": {
+"status": "missing"
+},
+"SR (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "SR (programming language)"
+},
+"STELLA (programming language)": {
+"status": "ok",
+"desc": "Visual programming language for system dynamics modeling",
+"final": "STELLA (programming language)"
+},
+"STOIC (programming language)": {
+"status": "missing"
+},
+"STRESS (programming language)": {
+"status": "missing"
+},
+"STRIPS": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "Strip"
+},
+"STklos": {
+"status": "ok",
+"desc": "",
+"final": "STklos"
+},
+"SWEET16": {
+"status": "ok",
+"desc": "Interpreted byte-code instruction set",
+"final": "SWEET16"
+},
+"SWI-Prolog": {
+"status": "ok",
+"desc": "Implementation of the programming language Prolog",
+"final": "SWI-Prolog"
+},
+"SWIG": {
+"status": "ok",
+"desc": "Open-source programming tool",
+"final": "SWIG"
+},
+"SXML": {
+"status": "ok",
+"desc": "Markup language; alternative syntax for writing XML data as S-expressions",
+"final": "SXML"
+},
+"SYCL": {
+"status": "ok",
+"desc": "Higher-level programming standard for heterogeneous computing",
+"final": "SYCL"
+},
+"SYMBAL": {
+"status": "missing"
+},
+"SYMPL": {
+"status": "ok",
+"desc": "",
+"final": "SYMPL"
+},
+"SaC programming language": {
+"status": "missing"
+},
+"SableCC": {
+"status": "ok",
+"desc": "",
+"final": "SableCC"
+},
+"SageMath": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "SageMath"
+},
+"Salmon (programming language)": {
+"status": "missing"
+},
+"Salsa (programming language)": {
+"status": "missing"
+},
+"Samuel Kamin": {
+"status": "missing"
+},
+"Sather": {
+"status": "ok",
+"desc": "Object-oriented programming language similar to Eiffel",
+"final": "Sather"
+},
+"Sauerbraten (game)": {
+"status": "ok",
+"desc": "2004 video game",
+"final": "Cube 2: Sauerbraten"
+},
+"Sawzall (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Sawzall (programming language)"
+},
+"Scala (programming language)": {
+"status": "ok",
+"desc": "General-purpose programming language",
+"final": "Scala (programming language)"
+},
+"Scenic (programming language)": {
+"status": "missing"
+},
+"Schematron": {
+"status": "ok",
+"desc": "Rule-based validation language for XML",
+"final": "Schematron"
+},
+"Scheme (programming language)": {
+"status": "ok",
+"desc": "Dialect of Lisp",
+"final": "Scheme (programming language)"
+},
+"Scheme 48": {
+"status": "ok",
+"desc": "Dialect of the Scheme programming language",
+"final": "Scheme 48"
+},
+"Schoonschip": {
+"status": "ok",
+"desc": "",
+"final": "Schoonschip"
+},
+"Scilab": {
+"status": "ok",
+"desc": "Open-source numerical computation software",
+"final": "Scilab"
+},
+"Scilla (programming language)": {
+"status": "missing"
+},
+"Scratchpad II": {
+"status": "missing"
+},
+"Scribe (markup language)": {
+"status": "ok",
+"desc": "Markup language and word processing system",
+"final": "Scribe (markup language)"
+},
+"ScriptBasic": {
+"status": "missing"
+},
+"Scriptol": {
+"status": "ok",
+"desc": "",
+"final": "Scriptol"
+},
+"Scsh": {
+"status": "ok",
+"desc": "Unix shell",
+"final": "Scsh"
+},
+"Sed": {
+"status": "ok",
+"desc": "Utility for transforming text",
+"final": "Sed"
+},
+"Seed7": {
+"status": "ok",
+"desc": "Multi-platform general-purpose programming language designed by Thomas Mertez in 2005",
+"final": "Seed7"
+},
+"Self (programming language)": {
+"status": "ok",
+"desc": "Prototype-based programming language",
+"final": "Self (programming language)"
+},
+"Semantic Web Rule Language": {
+"status": "ok",
+"desc": "Language to express rules and logic with semantic web",
+"final": "Semantic Web Rule Language"
+},
+"SenseTalk": {
+"status": "ok",
+"desc": "",
+"final": "SenseTalk"
+},
+"Seq (programming language)": {
+"status": "missing"
+},
+"SequenceL": {
+"status": "ok",
+"desc": "",
+"final": "SequenceL"
+},
+"Sequential function chart": {
+"status": "ok",
+"desc": "Graphical programming language",
+"final": "Sequential function chart"
+},
+"Sequoia (programming language)": {
+"status": "missing"
+},
+"Serpent (programming language)": {
+"status": "ok",
+"desc": "Open-source blockchain computing platform",
+"final": "Ethereum"
+},
+"Server Side Includes": {
+"status": "ok",
+"desc": "Interpreted server-side scripting language",
+"final": "Server Side Includes"
+},
+"Setanta (programming language)": {
+"status": "missing"
+},
+"Setun": {
+"status": "ok",
+"desc": "Soviet ternary computer",
+"final": "Setun"
+},
+"ShEx": {
+"status": "ok",
+"desc": "Language for validating, describing or transforming RDF graphs",
+"final": "ShEx"
+},
+"Shakespeare programming language": {
+"status": "ok",
+"desc": "Esoteric programming language",
+"final": "Shakespeare Programming Language"
+},
+"Sharp APL": {
+"status": "missing"
+},
+"Sharp PC-1500": {
+"status": "ok",
+"desc": "Pocket computer",
+"final": "Sharp PC-1500"
+},
+"Shed Skin": {
+"status": "ok",
+"desc": "Python to C++ compiler",
+"final": "Shed Skin"
+},
+"SheerPower 4GL": {
+"status": "missing"
+},
+"Shell script": {
+"status": "ok",
+"desc": "Script written for an operating system shell",
+"final": "Shell script"
+},
+"Short Code (computer language)": {
+"status": "ok",
+"desc": "Early higher-level language for electronic computers",
+"final": "Short Code (computer language)"
+},
+"Sidef": {
+"status": "missing"
+},
+"Sieve (mail filtering language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Sieve (mail filtering language)"
+},
+"Signal programming language": {
+"status": "missing"
+},
+"SilkTest": {
+"status": "ok",
+"desc": "Software test automation",
+"final": "Silk Test"
+},
+"Simkin (scripting language)": {
+"status": "missing"
+},
+"Simple Machine Assembly Language": {
+"status": "missing"
+},
+"Simplicity (programming language)": {
+"status": "missing"
+},
+"Simula": {
+"status": "ok",
+"desc": "Early object-oriented programming language",
+"final": "Simula"
+},
+"Simulink": {
+"status": "ok",
+"desc": "Programming environment",
+"final": "Simulink"
+},
+"Sinclair BASIC": {
+"status": "ok",
+"desc": "Dialect of the programming language BASIC",
+"final": "Sinclair BASIC"
+},
+"Sing": {
+"status": "ok",
+"desc": "Act of producing musical sounds with the voice",
+"final": "Singing"
+},
+"Single assignment C": {
+"status": "missing"
+},
+"Singular (software)": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Singular (software)"
+},
+"Sketch (programming language)": {
+"status": "missing"
+},
+"Skip (programming language)": {
+"status": "missing"
+},
+"Skribe (programming language)": {
+"status": "missing"
+},
+"Slate (programming language)": {
+"status": "missing"
+},
+"Sleep (programming language)": {
+"status": "missing"
+},
+"Smali": {
+"status": "missing"
+},
+"Small-C": {
+"status": "ok",
+"desc": "Subset of a programming language",
+"final": "Small-C"
+},
+"SmallBASIC": {
+"status": "ok",
+"desc": "BASIC programming language dialect",
+"final": "SmallBASIC"
+},
+"Smalltalk": {
+"status": "ok",
+"desc": "Object-oriented programming language",
+"final": "Smalltalk"
+},
+"Smalltalk/X": {
+"status": "ok",
+"desc": "Object-oriented programming language",
+"final": "Smalltalk"
+},
+"Smarty (template engine)": {
+"status": "ok",
+"desc": "Web template system",
+"final": "Smarty (template engine)"
+},
+"SmileBASIC": {
+"status": "ok",
+"desc": "2011 video game",
+"final": "Petit Computer"
+},
+"Snakemake": {
+"status": "missing"
+},
+"Snap! (programming language)": {
+"status": "ok",
+"desc": "Block-based programming language",
+"final": "Snap! (programming language)"
+},
+"Snowball programming language": {
+"status": "ok",
+"desc": "String processing programming language",
+"final": "Snowball (programming language)"
+},
+"Soar (cognitive architecture)": {
+"status": "ok",
+"desc": "Symbolic cognitive architecture",
+"final": "Soar (cognitive architecture)"
+},
+"Sonic Pi": {
+"status": "ok",
+"desc": "Live coding environment",
+"final": "Sonic Pi"
+},
+"Souffl\u00e9 (programming language)": {
+"status": "ok",
+"desc": "Parallel logic programming language",
+"final": "Souffl\u00e9 (programming language)"
+},
+"Source Academy": {
+"status": "missing"
+},
+"SourcePawn": {
+"status": "missing"
+},
+"Speakeasy (computational environment)": {
+"status": "ok",
+"desc": "Computer software environment with own programming language",
+"final": "Speakeasy (computational environment)"
+},
+"Spec Sharp": {
+"status": "missing"
+},
+"SpecC": {
+"status": "ok",
+"desc": "System description language for embedded systems",
+"final": "SpecC"
+},
+"Specification and Description Language": {
+"status": "ok",
+"desc": "Standardized language for real-time and embedded systems",
+"final": "Specification and Description Language"
+},
+"Specware": {
+"status": "missing"
+},
+"Speech Synthesis Markup Language": {
+"status": "ok",
+"desc": "XML-based markup language",
+"final": "Speech Synthesis Markup Language"
+},
+"Speedcoding": {
+"status": "ok",
+"desc": "High-level programming language",
+"final": "Speedcoding"
+},
+"Spice Lisp": {
+"status": "ok",
+"desc": "",
+"final": "Spice Lisp"
+},
+"Spin (programming language)": {
+"status": "ok",
+"desc": "Multi-core microcontroller",
+"final": "Parallax Propeller"
+},
+"Split-C": {
+"status": "ok",
+"desc": "",
+"final": "Split-C"
+},
+"Squeak": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "Squeak"
+},
+"Stalin (Scheme implementation)": {
+"status": "ok",
+"desc": "Scheme programming language",
+"final": "Stalin (Scheme implementation)"
+},
+"Stan (software)": {
+"status": "ok",
+"desc": "Probabilistic programming language for Bayesian inference",
+"final": "Stan (software)"
+},
+"Standard Generalized Markup Language": {
+"status": "ok",
+"desc": "Markup language",
+"final": "Standard Generalized Markup Language"
+},
+"Standard Lisp": {
+"status": "ok",
+"desc": "",
+"final": "Portable Standard Lisp"
+},
+"Standard ML": {
+"status": "ok",
+"desc": "General-purpose functional programming language",
+"final": "Standard ML"
+},
+"Standard Portable Intermediate Representation": {
+"status": "ok",
+"desc": "Internal code for computer graphics",
+"final": "Standard Portable Intermediate Representation"
+},
+"StarLisp": {
+"status": "ok",
+"desc": "Programming language",
+"final": "*Lisp"
+},
+"StarLogo": {
+"status": "ok",
+"desc": "Agent-based simulation language",
+"final": "StarLogo"
+},
+"StarOffice Basic": {
+"status": "ok",
+"desc": "Programming language",
+"final": "OpenOffice Basic"
+},
+"Starlark (programming language)": {
+"status": "missing"
+},
+"Stata": {
+"status": "ok",
+"desc": "Statistical software package",
+"final": "Stata"
+},
+"Steel Bank Common Lisp": {
+"status": "ok",
+"desc": "Free Common Lisp implementation",
+"final": "Steel Bank Common Lisp"
+},
+"Stochastic pi-calculus": {
+"status": "missing"
+},
+"Strand (programming language)": {
+"status": "ok",
+"desc": "High-level language for parallel computing",
+"final": "Strand (programming language)"
+},
+"Stratego/XT": {
+"status": "missing"
+},
+"StreamIt": {
+"status": "missing"
+},
+"Strongtalk": {
+"status": "ok",
+"desc": "Smalltalk environment",
+"final": "Strongtalk"
+},
+"Structured text": {
+"status": "ok",
+"desc": "Programming language for programmable logic controllers",
+"final": "Structured text"
+},
+"Stylus (stylesheet language)": {
+"status": "ok",
+"desc": "Stylesheet preprocessor language",
+"final": "Stylus (style sheet language)"
+},
+"SubC": {
+"status": "missing"
+},
+"Subtext (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Subtext (programming language)"
+},
+"Suneido": {
+"status": "missing"
+},
+"SuperBASIC": {
+"status": "ok",
+"desc": "Sinclair QL variant of the BASIC programming language",
+"final": "SuperBASIC"
+},
+"SuperCard": {
+"status": "ok",
+"desc": "Programming software",
+"final": "SuperCard"
+},
+"SuperCollider": {
+"status": "ok",
+"desc": "Audio programming language",
+"final": "SuperCollider"
+},
+"SuperPascal": {
+"status": "ok",
+"desc": "Programming language",
+"final": "SuperPascal"
+},
+"SuperTalk": {
+"status": "ok",
+"desc": "",
+"final": "SuperTalk"
+},
+"Superbase (database)": {
+"status": "ok",
+"desc": "End-user desktop database program",
+"final": "Superbase (database)"
+},
+"Superplan": {
+"status": "ok",
+"desc": "Programming language with strong abstraction from details of hardware",
+"final": "Superplan"
+},
+"Svelte": {
+"status": "ok",
+"desc": "JavaScript framework",
+"final": "Svelte"
+},
+"Symbolic Programming System": {
+"status": "ok",
+"desc": "",
+"final": "IBM 1401 Symbolic Programming System"
+},
+"Synchronized Multimedia Integration Language": {
+"status": "ok",
+"desc": "XML-based markup language for multimedia presentations",
+"final": "Synchronized Multimedia Integration Language"
+},
+"Syntax Definition Formalism": {
+"status": "ok",
+"desc": "",
+"final": "Syntax Definition Formalism"
+},
+"System F": {
+"status": "ok",
+"desc": "Typed lambda calculus",
+"final": "System F"
+},
+"SystemC": {
+"status": "ok",
+"desc": "C++ extensions for simulating embedded systems",
+"final": "SystemC"
+},
+"SystemTap": {
+"status": "ok",
+"desc": "Scripting language and tool",
+"final": "SystemTap"
+},
+"SystemVerilog": {
+"status": "ok",
+"desc": "Hardware description and hardware verification language",
+"final": "SystemVerilog"
+},
+"T (programming language)": {
+"status": "ok",
+"desc": "Dialect of the Scheme programming language",
+"final": "T (programming language)"
+},
+"TACL (programming language)": {
+"status": "ok",
+"desc": "Scripting programming language",
+"final": "TACL (programming language)"
+},
+"TACPOL": {
+"status": "missing"
+},
+"TECO (text editor)": {
+"status": "ok",
+"desc": "Programmable text editor",
+"final": "TECO (text editor)"
+},
+"TELCOMP": {
+"status": "ok",
+"desc": "Interactive programming language for time-sharing computer systems (1964-74)",
+"final": "TELCOMP"
+},
+"TERSE": {
+"status": "missing"
+},
+"TI BASIC (TI 99/4A)": {
+"status": "ok",
+"desc": "Programming language for TI-99 home computers",
+"final": "TI BASIC (TI 99/4A)"
+},
+"TI-BASIC": {
+"status": "ok",
+"desc": "Programming language used in Texas Instruments calculators",
+"final": "TI-BASIC"
+},
+"TK Solver": {
+"status": "ok",
+"desc": "Mathematical modeling software",
+"final": "TK Solver"
+},
+"TL-Verilog": {
+"status": "missing"
+},
+"TLA+": {
+"status": "ok",
+"desc": "Formal specification language",
+"final": "TLA+"
+},
+"TMG (language)": {
+"status": "ok",
+"desc": "Compiler-compiler",
+"final": "TMG (language)"
+},
+"TNSDL": {
+"status": "ok",
+"desc": "",
+"final": "TNSDL"
+},
+"TNT Basic": {
+"status": "missing"
+},
+"TOL (programming language)": {
+"status": "missing"
+},
+"TOM (object-oriented programming language)": {
+"status": "missing"
+},
+"TOPS-20": {
+"status": "ok",
+"desc": "Operating system by Digital Equipment Corporation",
+"final": "TOPS-20"
+},
+"TOSCA (standard)": {
+"status": "missing"
+},
+"TRAC (programming language)": {
+"status": "ok",
+"desc": "Programming language (1964)",
+"final": "TRAC (programming language)"
+},
+"TROLL (programming language)": {
+"status": "missing"
+},
+"TRS-80": {
+"status": "ok",
+"desc": "1977 microcomputer by Tandy Corporation",
+"final": "TRS-80"
+},
+"TRS-80 Color Computer": {
+"status": "ok",
+"desc": "Line of home computers",
+"final": "TRS-80 Color Computer"
+},
+"TSP (econometrics software)": {
+"status": "ok",
+"desc": "",
+"final": "TSP (econometrics software)"
+},
+"TTCN": {
+"status": "ok",
+"desc": "",
+"final": "TTCN"
+},
+"TTCN-3": {
+"status": "ok",
+"desc": "Testing language for telecommunication systems",
+"final": "TTCN-3"
+},
+"TTM (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "TTM (programming language)"
+},
+"TUSCRIPT": {
+"status": "missing"
+},
+"TUTOR": {
+"status": "ok",
+"desc": "Programming language",
+"final": "TUTOR"
+},
+"TX-0": {
+"status": "ok",
+"desc": "Early transistorized computer",
+"final": "TX-0"
+},
+"TX-2": {
+"status": "ok",
+"desc": "Early transistorized computer",
+"final": "TX-2"
+},
+"Taichi (programming language)": {
+"status": "missing"
+},
+"Tao3D": {
+"status": "missing"
+},
+"Tcsh": {
+"status": "ok",
+"desc": "Unix shell based on and compatible with the C shell",
+"final": "Tcsh"
+},
+"TeX": {
+"status": "ok",
+"desc": "Typesetting system",
+"final": "TeX"
+},
+"Tea (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Tea (programming language)"
+},
+"Telescript (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Telescript (programming language)"
+},
+"Template Toolkit": {
+"status": "ok",
+"desc": "",
+"final": "Template Toolkit"
+},
+"TempleOS": {
+"status": "ok",
+"desc": "Biblically-themed operating system",
+"final": "TempleOS"
+},
+"Terra (programming language)": {
+"status": "missing"
+},
+"Texas Instruments TMS320": {
+"status": "ok",
+"desc": "Series of Digital Signal Processor chips",
+"final": "TMS320"
+},
+"Texinfo": {
+"status": "ok",
+"desc": "Markup language for documentation",
+"final": "Texinfo"
+},
+"Text Processing Utility": {
+"status": "ok",
+"desc": "",
+"final": "DEC Text Processing Utility"
+},
+"Text Template Transformation Toolkit": {
+"status": "ok",
+"desc": "Open-source template-based text generation framework",
+"final": "Text Template Transformation Toolkit"
+},
+"Theta (programming language)": {
+"status": "missing"
+},
+"ThinBasic": {
+"status": "missing"
+},
+"Thorn (programming language)": {
+"status": "missing"
+},
+"Thousands of Problems for Theorem Provers": {
+"status": "ok",
+"desc": "Collection of problems for Automated Theorem Proving",
+"final": "Thousands of Problems for Theorem Provers"
+},
+"Thue (programming language)": {
+"status": "missing"
+},
+"TidalCycles": {
+"status": "ok",
+"desc": "Live coding environment",
+"final": "TidalCycles"
+},
+"Tiger (programming language)": {
+"status": "missing"
+},
+"Timber (programming language)": {
+"status": "missing"
+},
+"Timed Text Markup Language": {
+"status": "ok",
+"desc": "XML-based file format",
+"final": "Timed Text Markup Language"
+},
+"Tiny BASIC": {
+"status": "ok",
+"desc": "BASIC programming languages designed for under 4 KB",
+"final": "Tiny BASIC"
+},
+"Tiny C Compiler": {
+"status": "ok",
+"desc": "Compiler for the C programming language",
+"final": "Tiny C Compiler"
+},
+"Titanium (programming language)": {
+"status": "missing"
+},
+"Tk (software)": {
+"status": "ok",
+"desc": "GUI toolkit or framework",
+"final": "Tk (software)"
+},
+"Toit (programming language)": {
+"status": "missing"
+},
+"ToolBook": {
+"status": "ok",
+"desc": "",
+"final": "ToolBook"
+},
+"ToonTalk": {
+"status": "ok",
+"desc": "Computer programming system intended to be programmed by children",
+"final": "ToonTalk"
+},
+"TorqueScript": {
+"status": "ok",
+"desc": "3D computer game engine",
+"final": "Torque (game engine)"
+},
+"TouchDevelop": {
+"status": "missing"
+},
+"Toy (programming language)": {
+"status": "missing"
+},
+"Transact-SQL": {
+"status": "ok",
+"desc": "SQL dialect used by Microsoft SQL Server and SAP ASE",
+"final": "Transact-SQL"
+},
+"Transaction Application Language": {
+"status": "ok",
+"desc": "Procedural computer language also known as TAL",
+"final": "Transaction Application Language"
+},
+"Tree meta": {
+"status": "missing"
+},
+"TreeBASIC": {
+"status": "missing"
+},
+"Treelang": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Treelang"
+},
+"Trivial Graph Format": {
+"status": "ok",
+"desc": "",
+"final": "Trivial Graph Format"
+},
+"Troff": {
+"status": "ok",
+"desc": "Typesetting language",
+"final": "Troff"
+},
+"True BASIC": {
+"status": "ok",
+"desc": "Programming language",
+"final": "True BASIC"
+},
+"TuProlog": {
+"status": "missing"
+},
+"Turbo Assembler": {
+"status": "ok",
+"desc": "Computer assembler developed by Borland",
+"final": "Turbo Assembler"
+},
+"Turbo Pascal": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "Turbo Pascal"
+},
+"Turbo Prolog": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Visual Prolog"
+},
+"Turbo-BASIC XL": {
+"status": "ok",
+"desc": "",
+"final": "Turbo-BASIC XL"
+},
+"Turing (programming language)": {
+"status": "ok",
+"desc": "High-level computer programming language",
+"final": "Turing (programming language)"
+},
+"Turing Plus": {
+"status": "ok",
+"desc": "High-level computer programming language",
+"final": "Turing (programming language)"
+},
+"Turing machine": {
+"status": "ok",
+"desc": "Computation model defining an abstract machine",
+"final": "Turing machine"
+},
+"Turtle graphics": {
+"status": "ok",
+"desc": "Vector graphics using a relative cursor on a Cartesian plane",
+"final": "Turtle graphics"
+},
+"Tutorial D": {
+"status": "missing"
+},
+"Tweak (programming environment)": {
+"status": "ok",
+"desc": "Graphical user interface layer for the Squeak development environment",
+"final": "Tweak programming environment"
+},
+"Twelf": {
+"status": "ok",
+"desc": "Logic programming language",
+"final": "Twelf"
+},
+"Twig (template engine)": {
+"status": "ok",
+"desc": "Template engine",
+"final": "Twig (template engine)"
+},
+"Twine (software)": {
+"status": "ok",
+"desc": "Free and open-source tool for making interactive fiction in the form of web pages",
+"final": "Twine (software)"
+},
+"Tycoon (programming language)": {
+"status": "missing"
+},
+"Typed Lua": {
+"status": "missing"
+},
+"Typst": {
+"status": "ok",
+"desc": "Open-source typesetting system",
+"final": "Typst"
+},
+"U-SQL": {
+"status": "missing"
+},
+"UBASIC": {
+"status": "ok",
+"desc": "BASIC interpreter program",
+"final": "UBASIC"
+},
+"UC++": {
+"status": "missing"
+},
+"UCI Lisp": {
+"status": "missing"
+},
+"UCSD Pascal": {
+"status": "ok",
+"desc": "1977 programming language implementation",
+"final": "UCSD Pascal"
+},
+"UNCOL": {
+"status": "ok",
+"desc": "",
+"final": "UNCOL"
+},
+"UNITY (programming language)": {
+"status": "ok",
+"desc": "Theoretical programming language for describing concurrent computations",
+"final": "UNITY (programming language)"
+},
+"UPPAAL": {
+"status": "ok",
+"desc": "Integrated tool environment",
+"final": "Uppaal Model Checker"
+},
+"UWSC": {
+"status": "missing"
+},
+"Umple": {
+"status": "ok",
+"desc": "Object-oriented programming and modelling language",
+"final": "Umple"
+},
+"UniVerse": {
+"status": "ok",
+"desc": "Database management system",
+"final": "Rocket U2"
+},
+"Unicon (programming language)": {
+"status": "ok",
+"desc": "Programming language descended from Icon",
+"final": "Unicon (programming language)"
+},
+"Uniface (programming language)": {
+"status": "ok",
+"desc": "Low-code development platform",
+"final": "Uniface (programming language)"
+},
+"Unified Parallel C": {
+"status": "ok",
+"desc": "Extension of the C programming language",
+"final": "Unified Parallel C"
+},
+"Unlambda": {
+"status": "ok",
+"desc": "Functional programming language",
+"final": "Unlambda"
+},
+"UnrealScript": {
+"status": "ok",
+"desc": "Video game engine developed by Epic Games",
+"final": "Unreal Engine"
+},
+"Ur (programming language)": {
+"status": "ok",
+"desc": "Web development programming language",
+"final": "Ur (programming language)"
+},
+"Urbi": {
+"status": "ok",
+"desc": "Home development firm",
+"final": "Urbi"
+},
+"Urbiscript": {
+"status": "ok",
+"desc": "Programming language for robotics",
+"final": "Urbiscript"
+},
+"Urbit": {
+"status": "ok",
+"desc": "Decentralized personal server platform",
+"final": "Urbit"
+},
+"Ursala (programming language)": {
+"status": "missing"
+},
+"Urweb": {
+"status": "missing"
+},
+"UserTalk": {
+"status": "ok",
+"desc": "U.S. software company",
+"final": "UserLand Software"
+},
+"Uxn": {
+"status": "ok",
+"desc": "Two-person art collective",
+"final": "Hundred Rabbits"
+},
+"V (programming language)": {
+"status": "ok",
+"desc": "General-purpose programming language",
+"final": "V (programming language)"
+},
+"VAL (programming language)": {
+"status": "missing"
+},
+"VAX": {
+"status": "ok",
+"desc": "Line of computers sold by Digital Equipment Corporation",
+"final": "VAX"
+},
+"VAX BASIC": {
+"status": "missing"
+},
+"VAX MACRO": {
+"status": "ok",
+"desc": "Computer assembly language",
+"final": "VAX MACRO"
+},
+"VAX assembly language": {
+"status": "missing"
+},
+"VBScript": {
+"status": "ok",
+"desc": "COM-based Visual Basic scripting language",
+"final": "VBScript"
+},
+"VEX (language)": {
+"status": "missing"
+},
+"VHDL": {
+"status": "ok",
+"desc": "Hardware description language",
+"final": "VHDL"
+},
+"VHDL-AMS": {
+"status": "ok",
+"desc": "Hardware description language",
+"final": "VHDL-AMS"
+},
+"VRML": {
+"status": "ok",
+"desc": "File format for representing 3D interactive vector graphics",
+"final": "VRML"
+},
+"VTL-2": {
+"status": "missing"
+},
+"Vala (programming language)": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Vala (programming language)"
+},
+"Vampire (theorem prover)": {
+"status": "ok",
+"desc": "",
+"final": "Vampire (theorem prover)"
+},
+"Var'aq": {
+"status": "missing"
+},
+"Vault (programming language)": {
+"status": "missing"
+},
+"Vector Pascal": {
+"status": "ok",
+"desc": "Open source Pascal compiler",
+"final": "Vector Pascal"
+},
+"Vega (visualization language)": {
+"status": "missing"
+},
+"Vensim": {
+"status": "ok",
+"desc": "Simulation software developed by Ventana Systems",
+"final": "Vensim"
+},
+"Vera (programming language)": {
+"status": "missing"
+},
+"Verilog": {
+"status": "ok",
+"desc": "Hardware description language",
+"final": "Verilog"
+},
+"Verilog-A": {
+"status": "ok",
+"desc": "Modeling language for analog circuits",
+"final": "Verilog-A"
+},
+"Verilog-AMS": {
+"status": "ok",
+"desc": "Hardware description language building on Verilog for mixed-signal integrated circuit",
+"final": "Verilog-AMS"
+},
+"Verse (programming language)": {
+"status": "ok",
+"desc": "Video game engine developed by Epic Games",
+"final": "Unreal Engine"
+},
+"Vesta (configuration language)": {
+"status": "missing"
+},
+"Vicare Scheme": {
+"status": "missing"
+},
+"Vienna Development Method": {
+"status": "ok",
+"desc": "Formal method for the development of computer-based systems",
+"final": "Vienna Development Method"
+},
+"Vienna Fortran": {
+"status": "missing"
+},
+"Vim script": {
+"status": "ok",
+"desc": "Improved version of the vi text editor",
+"final": "Vim (text editor)"
+},
+"ViolaWWW": {
+"status": "ok",
+"desc": "Popular web browser in the early 1990s",
+"final": "ViolaWWW"
+},
+"Viper (programming language)": {
+"status": "missing"
+},
+"Virtual Pascal": {
+"status": "ok",
+"desc": "Free 32-bit Pascal compiler, IDE, and debugger for OS/2 and Microsoft Windows",
+"final": "Virtual Pascal"
+},
+"Visual Basic (.NET)": {
+"status": "ok",
+"desc": "Object-oriented computer programming language",
+"final": "Visual Basic (.NET)"
+},
+"Visual Basic (classic)": {
+"status": "ok",
+"desc": "Microsoft's programming language based on BASIC and COM",
+"final": "Visual Basic (classic)"
+},
+"Visual Basic .NET": {
+"status": "ok",
+"desc": "Object-oriented computer programming language",
+"final": "Visual Basic (.NET)"
+},
+"Visual Basic for Applications": {
+"status": "ok",
+"desc": "Implementation of Microsoft's event-driven programming language Visual Basic 6",
+"final": "Visual Basic for Applications"
+},
+"Visual DataFlex": {
+"status": "ok",
+"desc": "Object-oriented programming language and IDE",
+"final": "DataFlex"
+},
+"Visual DialogScript": {
+"status": "ok",
+"desc": "Interpreted programming language",
+"final": "Visual DialogScript"
+},
+"Visual FoxPro": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Visual FoxPro"
+},
+"Visual J Sharp": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Visual J Sharp"
+},
+"Visual J++": {
+"status": "ok",
+"desc": "Defunct Java implementation",
+"final": "Visual J++"
+},
+"Visual LISP": {
+"status": "ok",
+"desc": "LISP computer programming language variant",
+"final": "AutoLISP"
+},
+"Visual Objects": {
+"status": "ok",
+"desc": "",
+"final": "Visual Objects"
+},
+"Visual Prolog": {
+"status": "ok",
+"desc": "Programming language",
+"final": "Visual Prolog"
+},
+"VisualAge": {
+"status": "ok",
+"desc": "Integrated development environment",
+"final": "VisualAge"
+},
+"VisualWorks": {
+"status": "ok",
+"desc": "Implementation of the Smalltalk programming language",
+"final": "VisualWorks"
+},
+"Volt (programming language)": {
+"status": "missing"
+},
+"Vortex (programming language)": {
+"status": "missing"
+},
+"Vulcan.NET": {
+"status": "missing"
+},
+"Vvvv": {
+"status": "ok",
+"desc": "General purpose toolkit for video",
+"final": "Vvvv"
+},
+"Vyper (programming language)": {
+"status": "missing"
+},
+"WATBOL": {
+"status": "ok",
+"desc": "Teaching compiler for COBOL",
+"final": "WATBOL"
+},
+"WATFIV": {
+"status": "ok",
+"desc": "Implementation of the Fortran computer programming language",
+"final": "WATFIV"
+},
+"WATFOR": {
+"status": "ok",
+"desc": "Implementation of the Fortran computer programming language",
+"final": "WATFIV"
+},
+"WDC 65C816": {
+"status": "ok",
+"desc": "8/16-bit microprocessor",
+"final": "WDC 65C816"
+},
+"WEB": {
+"status": "ok",
+"desc": "Macro-based programming language",
+"final": "Web (programming system)"
+},
+"WINDEV": {
+"status": "missing"
+},
+"WMLScript": {
+"status": "ok",
+"desc": "Programming language",
+"final": "WMLScript"
+},
+"Wang 2200": {
+"status": "ok",
+"desc": "1973 minicomputer from Wang Laboratories",
+"final": "Wang 2200"
+},
+"Waterloo BASIC": {
+"status": "missing"
+},
+"Watfor": {
+"status": "ok",
+"desc": "Implementation of the Fortran computer programming language",
+"final": "WATFIV"
+},
+"Web IDL": {
+"status": "ok",
+"desc": "Language used for web documents",
+"final": "Web IDL"
+},
+"Web Ontology Language": {
+"status": "ok",
+"desc": "Family of knowledge representation languages",
+"final": "Web Ontology Language"
+},
+"Web Services Flow Language": {
+"status": "ok",
+"desc": "",
+"final": "Web Services Flow Language"
+},
+"Web Services Modeling Language": {
+"status": "ok",
+"desc": "",
+"final": "Web Services Modeling Language"
+},
+"WebAssembly": {
+"status": "ok",
+"desc": "Assembly language and bytecode for web browsers",
+"final": "WebAssembly"
+},
+"WebDNA": {
+"status": "missing"
+},
+"WebDSL": {
+"status": "missing"
+},
+"WebL": {
+"status": "missing"
+},
+"Whenever (programming language)": {
+"status": "missing"
+},
+"Whiley": {
+"status": "ok",
+"desc": "Surname list",
+"final": "Whiley"
+},
+"Whirl (programming language)": {
+"status": "missing"
+},
+"Whirlwind I": {
+"status": "ok",
+"desc": "Vacuum tube computer developed by the MIT Servomechanisms Laboratory",
+"final": "Whirlwind I"
+},
+"Whitespace (programming language)": {
+"status": "ok",
+"desc": "Esoteric programming language",
+"final": "Whitespace (programming language)"
+},
+"Why3": {
+"status": "missing"
+},
+"WinBUGS": {
+"status": "ok",
+"desc": "Statistical software for Bayesian analysis",
+"final": "WinBUGS"
+},
+"WinBatch": {
+"status": "ok",
+"desc": "List of programming languages types and the languages that meet its description",
+"final": "List of programming languages by type"
+},
+"WinDev": {
+"status": "missing"
+},
+"Windows Management Instrumentation": {
+"status": "ok",
+"desc": "Windows interface for monitoring and notification",
+"final": "Windows Management Instrumentation"
+},
+"Wireless Markup Language": {
+"status": "ok",
+"desc": "Markup language for WAP pages",
+"final": "Wireless Markup Language"
+},
+"Wiring (development platform)": {
+"status": "ok",
+"desc": "Open-source prototyping platform",
+"final": "Wiring (software)"
+},
+"Wolfram Language": {
+"status": "ok",
+"desc": "Programming language and environment developed by Wolfram Research",
+"final": "Wolfram Language"
+},
+"Wolfram Mathematica": {
+"status": "ok",
+"desc": "Computational software program",
+"final": "Wolfram Mathematica"
+},
+"Wollok": {
+"status": "missing"
+},
+"Work Flow Language": {
+"status": "ok",
+"desc": "",
+"final": "Work Flow Language"
+},
+"WxBasic": {
+"status": "ok",
+"desc": "Open-source BASIC interpretation software",
+"final": "WxBasic"
+},
+"X++": {
+"status": "ok",
+"desc": "Microsoft software",
+"final": "Microsoft Dynamics 365"
+},
+"X10 (programming language)": {
+"status": "ok",
+"desc": "Programming language by IBM",
+"final": "X10 (programming language)"
+},
+"X11-Basic": {
+"status": "missing"
+},
+"X86 assembly language": {
+"status": "ok",
+"desc": "Family of backward-compatible assembly languages",
+"final": "X86 assembly language"
+},
+"X86-64": {
+"status": "ok",
+"desc": "64-bit extension of x86 architecture",
+"final": "X86-64"
+},
+"XBase": {
+"status": "ok",
+"desc": "Programming language and database format",
+"final": "XBase"
+},
+"XBasic": {
+"status": "ok",
+"desc": "Variant of the BASIC programming language",
+"final": "XBasic"
+},
+"XC (programming language)": {
+"status": "ok",
+"desc": "British fabless semiconductor company",
+"final": "XMOS"
+},
+"XCOMpiler": {
+"status": "missing"
+},
+"XDuce": {
+"status": "ok",
+"desc": "Type of programming language",
+"final": "XML transformation language"
+},
+"XGMML": {
+"status": "ok",
+"desc": "Graph markup language",
+"final": "XGMML"
+},
+"XHP": {
+"status": "ok",
+"desc": "",
+"final": "XHP"
+},
+"XHarbour": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "Harbour (programming language)"
+},
+"XL (programming language)": {
+"status": "ok",
+"desc": "French computer scientist",
+"final": "Christophe de Dinechin"
+},
+"XLISP": {
+"status": "ok",
+"desc": "Programming language implementations",
+"final": "XLISP"
+},
+"XLISP-STAT": {
+"status": "ok",
+"desc": "Statistical software package",
+"final": "XLispStat"
+},
+"XLogo": {
+"status": "missing"
+},
+"XOD": {
+"status": "ok",
+"desc": "Racing yacht class",
+"final": "XOD"
+},
+"XOTcl": {
+"status": "ok",
+"desc": "",
+"final": "XOTcl"
+},
+"XPCE": {
+"status": "ok",
+"desc": "Implementation of the programming language Prolog",
+"final": "SWI-Prolog"
+},
+"XPL": {
+"status": "ok",
+"desc": "Dialect of the PL/I programming language",
+"final": "XPL"
+},
+"XPL0": {
+"status": "ok",
+"desc": "Computer programming language",
+"final": "XPL0"
+},
+"XPROFAN": {
+"status": "missing"
+},
+"XPath": {
+"status": "ok",
+"desc": "Expression language for XML documents",
+"final": "XPath"
+},
+"XProc": {
+"status": "ok",
+"desc": "",
+"final": "XProc"
+},
+"XQuery": {
+"status": "ok",
+"desc": "Functional programming and query language for XML",
+"final": "XQuery"
+},
+"XSB": {
+"status": "ok",
+"desc": "",
+"final": "XSB"
+},
+"XSLT": {
+"status": "ok",
+"desc": "Language for transforming XML documents",
+"final": "XSLT"
+},
+"XScheme": {
+"status": "missing"
+},
+"XSharp": {
+"status": "missing"
+},
+"XTalk": {
+"status": "ok",
+"desc": "Programming language",
+"final": "HyperTalk"
+},
+"XUL": {
+"status": "ok",
+"desc": "User interface markup language",
+"final": "XUL"
+},
+"Xbase++": {
+"status": "missing"
+},
+"Xcerpt": {
+"status": "missing"
+},
+"XeTeX": {
+"status": "ok",
+"desc": "TeX typesetting engine",
+"final": "XeTeX"
+},
+"Xojo": {
+"status": "ok",
+"desc": "Programming environment and programming language",
+"final": "Xojo"
+},
+"Xonsh": {
+"status": "missing"
+},
+"XploRe": {
+"status": "ok",
+"desc": "Statistics software",
+"final": "XploRe"
+},
+"Xplor": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "Xplor"
+},
+"YAML": {
+"status": "ok",
+"desc": "Human-readable data serialization language",
+"final": "YAML"
+},
+"YANG": {
+"status": "ok",
+"desc": "Data modeling language",
+"final": "YANG"
+},
+"YAP (Prolog)": {
+"status": "ok",
+"desc": "Programming language implementation",
+"final": "YAP (Prolog)"
+},
+"YARA (software)": {
+"status": "missing"
+},
+"YAWL": {
+"status": "ok",
+"desc": "",
+"final": "YAWL"
+},
+"Yabasic": {
+"status": "ok",
+"desc": "Interpreter for BASIC software",
+"final": "Yabasic"
+},
+"Yacas": {
+"status": "ok",
+"desc": "Computer algebra system",
+"final": "Yacas"
+},
+"Yacc": {
+"status": "ok",
+"desc": "Parser generator",
+"final": "Yacc"
+},
+"Yahoo! Query Language": {
+"status": "ok",
+"desc": "SQL-like query language",
+"final": "Yahoo Query Language"
+},
+"Yash (Unix shell)": {
+"status": "missing"
+},
+"Yasm": {
+"status": "missing"
+},
+"Yeti (programming language)": {
+"status": "missing"
+},
+"Ynot": {
+"status": "missing"
+},
+"Yoix": {
+"status": "missing"
+},
+"Yorick (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Yorick (programming language)"
+},
+"YottaDB": {
+"status": "missing"
+},
+"Z notation": {
+"status": "ok",
+"desc": "Formal specification language used for describing and modelling computing systems",
+"final": "Z notation"
+},
+"Z shell": {
+"status": "ok",
+"desc": "Unix shell",
+"final": "Z shell"
+},
+"ZBASIC": {
+"status": "missing"
+},
+"ZIL (programming language)": {
+"status": "missing"
+},
+"ZPAQ": {
+"status": "ok",
+"desc": "Open source command line archiver for Windows and Linux",
+"final": "ZPAQ"
+},
+"ZPL (programming language)": {
+"status": "ok",
+"desc": "",
+"final": "Z-level programming language"
+},
+"ZX80": {
+"status": "ok",
+"desc": "1980 cheap home computer by Sinclair",
+"final": "ZX80"
+},
+"ZX81": {
+"status": "ok",
+"desc": "1981 home computer",
+"final": "ZX81"
+},
+"ZZT": {
+"status": "ok",
+"desc": "1991 video game",
+"final": "ZZT"
+},
+"Zebra Programming Language": {
+"status": "ok",
+"desc": "Specialized computer programming language",
+"final": "Zebra Programming Language"
+},
+"Zeek (programming language)": {
+"status": "missing"
+},
+"Zeek (software)": {
+"status": "missing"
+},
+"Zeno (programming language)": {
+"status": "missing"
+},
+"Zephir": {
+"status": "disambiguation",
+"desc": "Topics referred to by the same term",
+"final": "Zephir"
+},
+"Zephyr (programming language)": {
+"status": "missing"
+},
+"Zephyr Abstract Syntax Description Language": {
+"status": "missing"
+},
+"Zilog Z80": {
+"status": "ok",
+"desc": "8-bit microprocessor",
+"final": "Zilog Z80"
+},
+"Zilog Z8000": {
+"status": "ok",
+"desc": "16-bit microprocessor",
+"final": "Zilog Z8000"
+},
+"Zinc (programming language)": {
+"status": "missing"
+},
+"Zing (programming language)": {
+"status": "missing"
+},
+"Zonnon": {
+"status": "ok",
+"desc": "",
+"final": "Zonnon"
+},
+"nesC": {
+"status": "ok",
+"desc": "",
+"final": "NesC"
+},
+"\u00c6ternity (blockchain platform)": {
+"status": "missing"
+},
+"\u03a9mega": {
+"status": "ok",
+"desc": "",
+"final": "Omega interpreter"
+}
+}

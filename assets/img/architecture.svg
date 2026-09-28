@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" font-family="'Latin Modern Sans', 'LM Sans 10', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="ar-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#5a5a6a"/>
+    </marker>
+    <marker id="ar-arrY" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#a87700"/>
+    </marker>
+    <marker id="ar-arrB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1f5fa6"/>
+    </marker>
+  </defs>
+
+  <!-- Column headers -->
+  <text x="170" y="26" fill="#5a5a6a" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="2">ABOVE THE CODE</text>
+  <text x="600" y="26" fill="#5a5a6a" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="2">CROSS-SOURCE</text>
+  <text x="1030" y="26" fill="#5a5a6a" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="2">THE CODE ITSELF</text>
+
+  <!-- Left: perspectives -->
+  <g font-size="17">
+    <rect x="20" y="44" width="300" height="66" rx="12" fill="#f4f4f8" stroke="#8c8ca6"/>
+    <text x="36" y="72" fill="#111111" font-weight="700">HOPL <tspan fill="#a87700">8,509</tspan></text>
+    <text x="36" y="96" fill="#444450" font-size="14.5">lineage · papers · frozen ~2005</text>
+
+    <rect x="20" y="124" width="300" height="66" rx="12" fill="#f4f4f8" stroke="#8c8ca6"/>
+    <text x="36" y="152" fill="#111111" font-weight="700">PL-ultimate <tspan fill="#a87700">12,608</tspan></text>
+    <text x="36" y="176" fill="#444450" font-size="14.5">PLDB · Esolang · Linguist · Pygments…</text>
+
+    <rect x="20" y="204" width="300" height="66" rx="12" fill="#f4f4f8" stroke="#8c8ca6"/>
+    <text x="36" y="232" fill="#111111" font-weight="700">PL-ultimate-llm <tspan fill="#a87700">3,862</tspan></text>
+    <text x="36" y="256" fill="#444450" font-size="14.5">LLM-proposed + LLM programs</text>
+
+    <rect x="20" y="284" width="300" height="66" rx="12" fill="#f4f4f8" stroke="#8c8ca6"/>
+    <text x="36" y="312" fill="#111111" font-weight="700">Wikipedia · Wikidata</text>
+    <text x="36" y="336" fill="#444450" font-size="14.5">infoboxes: designers, dates, influences</text>
+  </g>
+
+  <!-- Arrows left -> middle -->
+  <g stroke="#5a5a6a" stroke-width="2" fill="none" marker-end="url(#ar-arr)">
+    <path d="M322,77 C380,77 380,150 426,160"/>
+    <path d="M322,157 C375,157 380,180 426,185"/>
+    <path d="M322,237 C375,237 380,215 426,212"/>
+    <path d="M322,317 C380,317 380,245 426,238"/>
+  </g>
+
+  <!-- Middle: taxonomy -->
+  <rect x="430" y="110" width="340" height="170" rx="14" fill="#fbf3dc" stroke="#a87700" stroke-width="2"/>
+  <text x="600" y="142" fill="#a87700" font-size="20" font-weight="800" text-anchor="middle">Taxonomy with provenance</text>
+  <g font-size="15.5" fill="#222222">
+    <text x="450" y="174">• <tspan font-weight="700">pl</tspan> identity + aliases</text>
+    <text x="450" y="201">• <tspan font-weight="700">ext_claim</tspan> (source, strength)</text>
+    <text x="450" y="228">• <tspan font-weight="700">heuristics</tspan>: 377 runnable rules</text>
+    <text x="450" y="255">• content classifiers, LLM judges</text>
+  </g>
+
+  <!-- Right: SWH + CodeCommons -->
+  <rect x="880" y="44" width="300" height="140" rx="12" fill="#e6eef8" stroke="#1f5fa6" stroke-width="2"/>
+  <text x="1030" y="74" fill="#1f5fa6" font-size="19" font-weight="800" text-anchor="middle">Software Heritage</text>
+  <g font-size="15" fill="#222222">
+    <text x="898" y="104">• billions of archived files</text>
+    <text x="898" y="130">• 2.96 M extensions, per year</text>
+    <text x="898" y="156">• graph: content → origin</text>
+  </g>
+
+  <rect x="880" y="204" width="300" height="146" rx="12" fill="#e6eef8" stroke="#1f5fa6" stroke-width="2"/>
+  <text x="1030" y="234" fill="#1f5fa6" font-size="19" font-weight="800" text-anchor="middle">CodeCommons</text>
+  <g font-size="15" fill="#222222">
+    <text x="898" y="264">• analysis at archive scale</text>
+    <text x="898" y="290">• usage stats, evolution in time</text>
+    <text x="898" y="316">• traces in scientific papers</text>
+  </g>
+
+  <!-- Middle <-> right -->
+  <path d="M774,170 L876,130" stroke="#1f5fa6" stroke-width="2.5" fill="none" marker-end="url(#ar-arrB)"/>
+  <text x="826" y="136" fill="#1f5fa6" font-size="13" text-anchor="middle" transform="rotate(-21 826 136)">mine by ext.</text>
+  <path d="M876,262 L774,232" stroke="#1f5fa6" stroke-width="2.5" fill="none" marker-end="url(#ar-arrB)"/>
+  <text x="826" y="266" fill="#1f5fa6" font-size="13" text-anchor="middle" transform="rotate(16 826 266)">bytes + origin</text>
+
+  <!-- Down to evidence card -->
+  <path d="M600,282 L600,392" stroke="#a87700" stroke-width="3" fill="none" marker-end="url(#ar-arrY)"/>
+
+  <!-- Evidence card -->
+  <rect x="330" y="396" width="540" height="102" rx="16" fill="#e8f3e8" stroke="#007a00" stroke-width="2.5"/>
+  <text x="600" y="428" fill="#007a00" font-size="21" font-weight="800" text-anchor="middle">An evidence card for every language</text>
+  <text x="600" y="458" fill="#222222" font-size="16" text-anchor="middle">✓ real programs: qualified SWHID + <tspan font-style="italic">why</tspan> attributed</text>
+  <text x="600" y="484" fill="#222222" font-size="16" text-anchor="middle">∅ or a reasoned <tspan font-weight="700">evidence of absence</tspan></text>
+
+  <!-- Living loop -->
+  <path d="M328,470 C160,480 110,440 150,358" stroke="#c65d00" stroke-width="2.5" stroke-dasharray="7 6" fill="none" marker-end="url(#ar-arrY)"/>
+  <path d="M872,470 C1040,480 1090,430 1050,356" stroke="#c65d00" stroke-width="2.5" stroke-dasharray="7 6" fill="none" marker-end="url(#ar-arrY)"/>
+  <text x="600" y="540" fill="#c65d00" font-size="18" font-weight="700" text-anchor="middle">Living: humans · AIs · automatic procedures add, correct, validate</text>
+</svg>

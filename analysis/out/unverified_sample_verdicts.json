@@ -1,0 +1,242 @@
+[
+ {
+  "name": "Gringo",
+  "verdict": "exists-renamed",
+  "url": "https://arxiv.org/abs/1312.6149",
+  "note": "gringo is the Potassco ASP grounder (now inside clingo, potassco.org/clingo); its input language is well documented ('On the Semantics of Gringo', 'On the Input Language of ASP Grounder Gringo'). The LLM's URL potassco.org/gringo/ is 404."
+ },
+ {
+  "name": "Cell BE Assembly",
+  "verdict": "exists-renamed",
+  "url": "https://support.scinet.utoronto.ca/Manuals/Cell/SPU_Assembly_Language_Specification_1.7.pdf",
+  "note": "The name is descriptive, not a real title. The actual language is the SPU assembly language (IBM's 'SPU Assembly Language Specification' for the Cell BE SPUs)."
+ },
+ {
+  "name": "JHDL",
+  "verdict": "exists",
+  "url": "https://www.arl.wustl.edu/projects/fpx/related-papers/reconfigurable/FCCM98-JHDL.pdf",
+  "note": "Java-based HDL from BYU (Bellows & Hutchings, FCCM 1998). There is no Wikipedia page, which is why the LLM's URL is 404, and the old site jhdl.ee.byu.edu is gone."
+ },
+ {
+  "name": "Porth",
+  "verdict": "exists",
+  "url": "https://gitlab.com/tsoding/porth",
+  "note": "Tsoding's Forth-like concatenative language. The LLM's repository URL github.com/wrp1039/porth is 404."
+ },
+ {
+  "name": "Alpha Assembly",
+  "verdict": "exists-renamed",
+  "url": "https://www.cs.cmu.edu/afs/cs/academic/class/15213-f98/doc/alpha-guide.pdf",
+  "note": "The DEC Alpha assembly language ('Alpha Assembly Language Guide', Bryant/CMU; Digital UNIX Assembly Language Programmer's Guide)."
+ },
+ {
+  "name": "B-Method",
+  "verdict": "exists-renamed",
+  "url": "https://en.wikipedia.org/wiki/B-Method",
+  "note": "The B-Method is a formal method. Its language is B / Abstract Machine Notation (AMN), so 'B-Method' names the method, not the language."
+ },
+ {
+  "name": "UserRPL",
+  "verdict": "exists",
+  "url": "https://en.wikipedia.org/wiki/RPL_(programming_language)",
+  "note": "'User RPL' is listed as a dialect of HP's RPL, alongside System RPL, on the RPL Wikipedia page."
+ },
+ {
+  "name": "NATJ",
+  "verdict": "not-a-language",
+  "url": "https://github.com/multi-os-engine/moe-natj",
+  "note": "Nat/J is the Java-to-native (C/Objective-C/C++) binding library of Multi-OS Engine. The LLM's sample is plain Java that imports natj.*, its Wikipedia URL does not exist, and its sample origin github.com/yourusername/natj-example is a placeholder (404)."
+ },
+ {
+  "name": "BennuGD",
+  "verdict": "exists",
+  "url": "https://en.wikipedia.org/wiki/BennuGD",
+  "note": "Open-source game development suite with its own DIV/Fenix-derived language. The Wikipedia page exists and is in the 'Scripting languages' category."
+ },
+ {
+  "name": "IBM 704 Assembly",
+  "verdict": "exists-renamed",
+  "url": "https://en.wikipedia.org/wiki/IBM_704",
+  "note": "The 704 assembly language is SAP (Symbolic Assembly Program, later the SHARE Assembly Program), which the IBM 704 page mentions."
+ },
+ {
+  "name": "Oxygen Basic",
+  "verdict": "exists",
+  "url": "https://github.com/Charles-Pegge/OxygenBasic",
+  "note": "BASIC dialect and compiler (O2) by Charles Pegge. Rosetta Code has Category:OxygenBasic. There is no Wikipedia page."
+ },
+ {
+  "name": "Arena",
+  "verdict": "exists",
+  "url": "https://www.freshports.org/lang/arena/",
+  "note": "Arena scripting language: C-like syntax and library with automatic memory management (minimalinux.org/arena, FreeBSD port lang/arena, arena(1) man page). There is no Wikipedia page."
+ },
+ {
+  "name": "MLj",
+  "verdict": "exists-renamed",
+  "url": "https://www.dcs.ed.ac.uk/home/mlj/doc/index.html",
+  "note": "MLj is a Standard ML '97 to Java bytecode compiler (Benton, Kennedy, Russell, ICFP'98) with Java-interop language extensions. The language is essentially SML plus those extensions."
+ },
+ {
+  "name": "Disciple",
+  "verdict": "exists",
+  "url": "http://www.discus-lang.org/release/ddc-0.5.1.html",
+  "note": "Disciple is Ben Lippmeier's strict Haskell dialect with effect typing, implemented by the Disciplined Disciple Compiler (DDC) and later evolved into Discus."
+ },
+ {
+  "name": "Agal",
+  "verdict": "exists",
+  "url": "https://en.wikipedia.org/wiki/Adobe_Graphics_Assembly_Language",
+  "note": "Adobe Graphics Assembly Language, used for Stage3D shaders. The Wikipedia title redirects to Stage3D, which has an AGAL section."
+ },
+ {
+  "name": "BASIC-D",
+  "verdict": "not-found",
+  "url": null,
+  "note": "Three searches found no BASIC dialect named 'BASIC-D'. Data General's BASICs are called 'Extended BASIC' and 'Business Basic'. The LLM's evidence URL (Data_General_BASIC) is 404, and its sample is generic Dartmouth-style BASIC from a non-existent origin (github.com/rosettacode-lang/basic, 404). Likely fabricated."
+ },
+ {
+  "name": "KVIrc Script",
+  "verdict": "exists-renamed",
+  "url": "https://en.wikipedia.org/wiki/KVIrc",
+  "note": "KVIrc's built-in scripting language is called KVS (documented at kvirc.net/doc)."
+ },
+ {
+  "name": "kBasic",
+  "verdict": "exists",
+  "url": "https://www.kbasic.org/",
+  "note": "KBasic is a VB6/QBasic-compatible BASIC dialect by Bernd Noetscher. The Wikipedia title redirects to Gambas, which mentions it."
+ },
+ {
+  "name": "Axe",
+  "verdict": "exists",
+  "url": "https://rosettacode.org/wiki/Category:Axe",
+  "note": "Axe (the Axe Parser language) for TI-83+/84+ calculators, by Kevin Horowitz."
+ },
+ {
+  "name": "Electrum",
+  "verdict": "exists",
+  "url": "http://haslab.github.io/Electrum/",
+  "note": "Electrum is a temporal extension of the Alloy specification language plus its analyzer (INESC TEC/ONERA, ASE 2018). It is a specification language rather than a programming language."
+ },
+ {
+  "name": "Bedwyr",
+  "verdict": "exists",
+  "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/cade2007.pdf",
+  "note": "Bedwyr is a logic-programming-based model-checking system (Baelde, Gacek, Miller, Nadathur, Tiu, CADE 2007) with its own lambda-Prolog-like definition language. The LLM's slimmer.gforge.inria.fr URL is dead."
+ },
+ {
+  "name": "Obix",
+  "verdict": "exists",
+  "url": "https://www.wikidata.org/wiki/Q7074990",
+  "note": "OO language by Christian Neumanns that compiles to Java (official site rps-obix.com, github.com/Obix). Wikidata classes it as a programming language. The English Wikipedia article is gone, which is why the URL is 404."
+ },
+ {
+  "name": "Koord",
+  "verdict": "exists",
+  "url": "https://github.com/cyphyhouse/KoordLanguage",
+  "note": "DSL for distributed robotics (Ghosh et al., OOPSLA 2020, CyPhyHouse). The LLM's repository name 'Koord-Lang' is wrong; the real repository is KoordLanguage."
+ },
+ {
+  "name": "Argile",
+  "verdict": "exists",
+  "url": "https://www.nongnu.org/argile/",
+  "note": "Compiled, polymorphism-oriented language that generates C (Savannah nongnu). Rosetta Code has Category:Argile. There is no Wikipedia page."
+ },
+ {
+  "name": "VA Smalltalk",
+  "verdict": "exists",
+  "url": "https://en.wikipedia.org/wiki/VisualAge",
+  "note": "Instantiations' VA Smalltalk (now the VAST Platform) succeeds IBM VisualAge Smalltalk. It is a Smalltalk implementation/dialect, and the VisualAge page mentions it explicitly."
+ },
+ {
+  "name": "OpenAxiom",
+  "verdict": "exists-renamed",
+  "url": "https://rosettacode.org/wiki/Category:SPAD",
+  "note": "OpenAxiom is a computer algebra system (a 2007 Axiom fork). Its programming language is SPAD, the Axiom language. The Wikipedia title redirects to Axiom."
+ },
+ {
+  "name": "Brython",
+  "verdict": "not-a-language",
+  "url": "https://brython.info/",
+  "note": "Real project, but it describes itself as 'a Python 3 implementation for client-side web programming', not a distinct language. Wikipedia 'Brython' is about the Celtic Britons."
+ },
+ {
+  "name": "DSSP",
+  "verdict": "exists",
+  "url": "https://concatenative.org/wiki/view/DSSP",
+  "note": "Dialog System for Structured Programming: a Forth-like language from Moscow State University (Brusentsov, Setun-70). It is listed on the Wikipedia 'DSSP' disambiguation page, and the libreDSSP interpreter is on GitHub."
+ },
+ {
+  "name": "Pilog",
+  "verdict": "exists",
+  "url": "https://software-lab.de/doc/ref.html",
+  "note": "Pilog (PicoLisp Prolog) is Prolog embedded in PicoLisp and is documented in the PicoLisp Reference. The LLM's picolisp.com wiki URL is 404."
+ },
+ {
+  "name": "PicBasic",
+  "verdict": "exists",
+  "url": "https://www.melabs.com/products/pbp.htm",
+  "note": "microEngineering Labs' PICBASIC / PICBASIC PRO BASIC compilers for PIC microcontrollers (a BASIC dialect). There is no Wikipedia page."
+ },
+ {
+  "name": "ARIBAS",
+  "verdict": "exists",
+  "url": "https://www.mathematik.uni-muenchen.de/~forster/sw/aribas.html",
+  "note": "Otto Forster's interactive interpreter and language for big-integer and multi-precision arithmetic. There is no Wikipedia page."
+ },
+ {
+  "name": "OVAL",
+  "verdict": "exists",
+  "url": "https://en.wikipedia.org/wiki/Open_Vulnerability_and_Assessment_Language",
+  "note": "MITRE/CIS Open Vulnerability and Assessment Language: a declarative XML-based security-content language, not a general-purpose programming language."
+ },
+ {
+  "name": "Oxymoron",
+  "verdict": "not-found",
+  "url": null,
+  "note": "No esolangs.org page (the claimed URL is 404, and the esolangs search API and Language list have 0 hits). The only same-named thing is github.com/huiannie/Oxymoron, a compiler for Gaddis textbook pseudocode, which does not match the LLM's claimed esolang or its sample syntax ('output input ... exit execute'). The claimed esolang looks fabricated."
+ },
+ {
+  "name": "Jim Tcl",
+  "verdict": "exists",
+  "url": "https://github.com/msteveb/jimtcl",
+  "note": "Small-footprint Tcl implementation/dialect (Salvatore Sanfilippo; maintained by Steve Bennett). The LLM's jim.tcl.tk is dead; the current site is jim.tcl-lang.org."
+ },
+ {
+  "name": "Andl",
+  "verdict": "exists",
+  "url": "https://github.com/david-pfx/Andl",
+  "note": "'Andl is A New Database Language' by David M. Bennett: a Third-Manifesto relational language (andl.org, Lambda the Ultimate node 5307). There is no Wikipedia page."
+ },
+ {
+  "name": "DQL",
+  "verdict": "exists",
+  "url": "http://www.jouvinio.net/wiki/images/a/a9/Documentum_Content_Server_6.5_SP2_DQL_Reference_Manual.pdf",
+  "note": "Documentum Query Language: the SQL-derived query language of EMC/OpenText Documentum, with official DQL Reference Manuals."
+ },
+ {
+  "name": "Alore",
+  "verdict": "exists",
+  "url": "https://github.com/JukkaL/alore",
+  "note": "Jukka Lehtosalo's Python-like language with optional static typing (a precursor of mypy). alorelang.org is dead."
+ },
+ {
+  "name": "Oblivion Script",
+  "verdict": "exists-renamed",
+  "url": "https://cs.uesp.net/wiki/Scripting_Tutorial:_Basic_Scripting_Knowledge",
+  "note": "The scripting language of the TES IV: Oblivion Construction Set (often called ObScript). There is no Wikipedia page, so the URL is 404."
+ },
+ {
+  "name": "WebDSL",
+  "verdict": "exists",
+  "url": "https://www.webdsl.org/",
+  "note": "Domain-specific language for web applications (TU Delft; the compiler is at github.com/webdsl/webdsl). There is no Wikipedia page."
+ },
+ {
+  "name": "Cakelisp",
+  "verdict": "exists",
+  "url": "https://macoy.me/code/macoy/cakelisp",
+  "note": "Macoy Madson's performance-oriented Lisp-like language that generates C/C++. The GitHub repository (macoy/makuto) is now 404 because it moved to macoy.me."
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "name": "Gringo",
+  "evidence_url": "https://potassco.org/gringo/",
+  "model": "claude-sonnet-4-6",
+  "ev": "broken",
+  "slug": "gringo-098c4c15"
+ },
+ {
+  "name": "Cell BE Assembly",
+  "evidence_url": "https://en.wikipedia.org/wiki/Cell_(processor)",
+  "model": "sonnet",
+  "ev": "unrelated",
+  "slug": "cell-be-assembly-33aadb43"
+ },
+ {
+  "name": "JHDL",
+  "evidence_url": "https://en.wikipedia.org/wiki/JHDL",
+  "model": "claude-sonnet-4-6",
+  "ev": "broken",
+  "slug": "jhdl-102ef45b"
+ },
+ {
+  "name": "Porth",
+  "evidence_url": "https://github.com/wrp1039/porth",
+  "model": "x-ai/grok-4-fast",
+  "ev": "broken",
+  "slug": "porth-36222304"
+ },
+ {
+  "name": "Alpha Assembly",
+  "evidence_url": "https://en.wikipedia.org/wiki/DEC_Alpha",
+  "model": "sonnet",
+  "ev": "unrelated",
+  "slug": "alpha-assembly-9c9a8efe"
+ },
+ {
+  "name": "B-Method",
+  "evidence_url": "https://en.wikipedia.org/wiki/B-Method",
+  "model": "google/gemini-2.5-pro",
+  "ev": "unrelated",
+  "slug": "b-method-7ad75345"
+ },
+ {
+  "name": "UserRPL",
+  "evidence_url": "https://en.wikipedia.org/wiki/RPL_(programming_language)",
+  "model": "claude-sonnet-4-6",
+  "ev": "unrelated",
+  "slug": "userrpl-86fe7e86"
+ },
+ {
+  "name": "NATJ",
+  "evidence_url": "https://en.wikipedia.org/wiki/NATJ",
+  "model": "openai/gpt-4o-mini",
+  "ev": "broken",
+  "slug": "natj-f4fe2ea0"
+ },
+ {
+  "name": "BennuGD",
+  "evidence_url": "https://en.wikipedia.org/wiki/BennuGD",
+  "model": "sonnet",
+  "ev": "unrelated",
+  "slug": "bennugd-ecf8929f"
+ },
+ {
+  "name": "IBM 704 Assembly",
+  "evidence_url": "https://en.wikipedia.org/wiki/IBM_704",
+  "model": "sonnet",
+  "ev": "unrelated",
+  "slug": "ibm-704-assembly-370f1582"
+ },
+ {
+  "name": "Oxygen Basic",
+  "evidence_url": "https://en.wikipedia.org/wiki/Oxygen_Basic",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "oxygen-basic-a0532fcf"
+ },
+ {
+  "name": "Arena",
+  "evidence_url": "https://en.wikipedia.org/wiki/Arena_(programming_language)",
+  "model": "claude-sonnet-4-6",
+  "ev": "broken",
+  "slug": "arena-77d7cd99"
+ },
+ {
+  "name": "MLj",
+  "evidence_url": "https://en.wikipedia.org/wiki/MLj",
+  "model": "claude-sonnet-4-6",
+  "ev": "broken",
+  "slug": "mlj-79bd348a"
+ },
+ {
+  "name": "Disciple",
+  "evidence_url": "https://en.wikipedia.org/wiki/Disciplined_Disciple_Compiler",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "disciple-70bcaa16"
+ },
+ {
+  "name": "Agal",
+  "evidence_url": "https://en.wikipedia.org/wiki/Adobe_Graphics_Assembly_Language",
+  "model": "sonnet",
+  "ev": "unrelated",
+  "slug": "agal-5c46a5cc"
+ },
+ {
+  "name": "BASIC-D",
+  "evidence_url": "https://en.wikipedia.org/wiki/Data_General_BASIC",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "basic-d-81c22813"
+ },
+ {
+  "name": "KVIrc Script",
+  "evidence_url": "https://en.wikipedia.org/wiki/KVIrc",
+  "model": "claude-sonnet-4-6",
+  "ev": "unrelated",
+  "slug": "kvirc-script-2c6430c8"
+ },
+ {
+  "name": "kBasic",
+  "evidence_url": "https://en.wikipedia.org/wiki/KBasic",
+  "model": "claude-sonnet-4-6",
+  "ev": "unrelated",
+  "slug": "kbasic-02bdc1e5"
+ },
+ {
+  "name": "Axe",
+  "evidence_url": "https://en.wikipedia.org/wiki/Axe_(programming_language)",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "axe-9e28648f"
+ },
+ {
+  "name": "Electrum",
+  "evidence_url": "https://en.wikipedia.org/wiki/Electrum_(model_checker)",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "electrum-690ce08a"
+ },
+ {
+  "name": "Bedwyr",
+  "evidence_url": "https://slimmer.gforge.inria.fr/bedwyr/",
+  "model": "claude-sonnet-4-6",
+  "ev": "broken",
+  "slug": "bedwyr-9573df31"
+ },
+ {
+  "name": "Obix",
+  "evidence_url": "https://en.wikipedia.org/wiki/Obix",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "obix-981665ef"
+ },
+ {
+  "name": "Koord",
+  "evidence_url": "https://github.com/cyphyhouse/Koord-Lang",
+  "model": "claude-sonnet-4-6",
+  "ev": "broken",
+  "slug": "koord-b448e150"
+ },
+ {
+  "name": "Argile",
+  "evidence_url": "https://en.wikipedia.org/wiki/Argile_(programming_language)",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "argile-475c9555"
+ },
+ {
+  "name": "VA Smalltalk",
+  "evidence_url": "https://en.wikipedia.org/wiki/VisualAge",
+  "model": "claude-sonnet-4-6",
+  "ev": "unrelated",
+  "slug": "va-smalltalk-9c21b7b8"
+ },
+ {
+  "name": "OpenAxiom",
+  "evidence_url": "https://en.wikipedia.org/wiki/OpenAxiom",
+  "model": "sonnet",
+  "ev": "unrelated",
+  "slug": "openaxiom-4afb9c67"
+ },
+ {
+  "name": "Brython",
+  "evidence_url": "https://en.wikipedia.org/wiki/Brython",
+  "model": "sonnet",
+  "ev": "unrelated",
+  "slug": "brython-f45b46d4"
+ },
+ {
+  "name": "DSSP",
+  "evidence_url": "https://en.wikipedia.org/wiki/DSSP",
+  "model": "claude-sonnet-4-6",
+  "ev": "unrelated",
+  "slug": "dssp-0c7d4fb6"
+ },
+ {
+  "name": "Pilog",
+  "evidence_url": "https://picolisp.com/wiki/?pilog",
+  "model": "claude-sonnet-4-6",
+  "ev": "broken",
+  "slug": "pilog-abdbdae5"
+ },
+ {
+  "name": "PicBasic",
+  "evidence_url": "https://en.wikipedia.org/wiki/PicBasic",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "picbasic-159b0dcd"
+ },
+ {
+  "name": "ARIBAS",
+  "evidence_url": "https://en.wikipedia.org/wiki/ARIBAS",
+  "model": "opus",
+  "ev": "broken",
+  "slug": "aribas-553af3dc"
+ },
+ {
+  "name": "OVAL",
+  "evidence_url": "https://en.wikipedia.org/wiki/Open_Vulnerability_and_Assessment_Language",
+  "model": "sonnet",
+  "ev": "unrelated",
+  "slug": "oval-03d0815f"
+ },
+ {
+  "name": "Oxymoron",
+  "evidence_url": "https://esolangs.org/wiki/Oxymoron",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "oxymoron-29c737a6"
+ },
+ {
+  "name": "Jim Tcl",
+  "evidence_url": "https://jim.tcl.tk/",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "jim-tcl-4b585e46"
+ },
+ {
+  "name": "Andl",
+  "evidence_url": "https://en.wikipedia.org/wiki/Andl_(programming_language)",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "andl-628ad3d3"
+ },
+ {
+  "name": "DQL",
+  "evidence_url": "https://en.wikipedia.org/wiki/Documentum",
+  "model": "claude-sonnet-4-6",
+  "ev": "broken",
+  "slug": "dql-88705260"
+ },
+ {
+  "name": "Alore",
+  "evidence_url": "http://www.alorelang.org/",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "alore-261d1df3"
+ },
+ {
+  "name": "Oblivion Script",
+  "evidence_url": "https://en.wikipedia.org/wiki/Oblivion_Script",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "oblivion-script-b48ce6b1"
+ },
+ {
+  "name": "WebDSL",
+  "evidence_url": "https://en.wikipedia.org/wiki/WebDSL",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "webdsl-41214e2e"
+ },
+ {
+  "name": "Cakelisp",
+  "evidence_url": "https://github.com/macoy/cakelisp",
+  "model": "sonnet",
+  "ev": "broken",
+  "slug": "cakelisp-62fc9d18"
+ }
+]

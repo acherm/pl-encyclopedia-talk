@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 570" font-family="'Latin Modern Sans', 'LM Sans 10', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="pf-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#5a5a6a"/>
+    </marker>
+  </defs>
+
+  <!-- ============ funnel ============ -->
+  <polygon points="80,10 680,10 635,94 125,94" fill="#d5e3f5" stroke="#1f5fa6" stroke-width="2"/>
+  <polygon points="125,102 635,102 590,186 170,186" fill="#e6eef8" stroke="#1f5fa6" stroke-width="2"/>
+  <polygon points="170,194 590,194 545,278 215,278" fill="#fbf3dc" stroke="#a87700" stroke-width="2"/>
+  <polygon points="215,286 545,286 500,370 260,370" fill="#fbe9d6" stroke="#c65d00" stroke-width="2"/>
+  <polygon points="260,378 500,378 455,462 305,462" fill="#e8f3e8" stroke="#007a00" stroke-width="2"/>
+
+  <g text-anchor="middle">
+    <text x="380" y="46" fill="#111111" font-size="20" font-weight="800">0 · On the compressed graph</text>
+    <text x="380" y="72" fill="#333340" font-size="16">no bytes: file name, extension, path, repo</text>
+
+    <text x="380" y="138" fill="#111111" font-size="20" font-weight="800">1 · Cheap content signals</text>
+    <text x="380" y="164" fill="#333340" font-size="16">shebang · modeline · magic bytes · rules</text>
+
+    <text x="380" y="230" fill="#111111" font-size="20" font-weight="800">2 · Parsers &amp; classifiers</text>
+    <text x="380" y="256" fill="#333340" font-size="16">Tree-sitter · Bayesian · Magika</text>
+
+    <text x="380" y="322" fill="#111111" font-size="20" font-weight="800">3 · LLM judge</text>
+    <text x="380" y="348" fill="#333340" font-size="16">on samples only</text>
+
+    <text x="380" y="418" fill="#111111" font-size="20" font-weight="800">4 · Humans</text>
+    <text x="380" y="442" fill="#333340" font-size="16">review</text>
+  </g>
+
+  <!-- Synid bracket (levels 0-2) -->
+  <path d="M62,14 L48,14 L48,274 L62,274" stroke="#1f5fa6" stroke-width="2.5" fill="none"/>
+  <text x="34" y="144" transform="rotate(-90 34 144)" fill="#1f5fa6" font-size="15" font-weight="700" text-anchor="middle">Synid today (no parsers yet)</text>
+
+  <!-- cost arrow -->
+  <path d="M712,14 L712,456" stroke="#5a5a6a" stroke-width="2" fill="none" marker-end="url(#pf-a)"/>
+  <text x="728" y="236" transform="rotate(90 728 236)" fill="#555566" font-size="14" text-anchor="middle">more precise · more costly per file · fewer files</text>
+
+  <!-- ============ annotations ============ -->
+  <g font-size="19.5">
+    <text x="752" y="44" fill="#111111" font-weight="700">The whole archive, almost free</text>
+    <text x="752" y="68" fill="#444450" font-size="16.5">extension (case-aware), filename, siblings, repo</text>
+
+    <text x="752" y="136" fill="#111111" font-weight="700">Fetching the bytes: the real cost</text>
+    <text x="752" y="160" fill="#444450" font-size="16.5">Linguist's 377 rules · <tspan font-family="'Latin Modern Mono', Menlo, monospace">**FREE</tspan> · COBOL divisions</text>
+
+    <text x="752" y="228" fill="#111111" font-weight="700">Does it parse? What does it contain?</text>
+    <text x="752" y="252" fill="#444450" font-size="16.5">Tree-sitter grammars · classifiers learned from labels</text>
+
+    <text x="752" y="320" fill="#111111" font-weight="700">~$0.02 per file</text>
+    <text x="752" y="344" fill="#444450" font-size="16.5">semantics; the oracle that trains levels 1–2</text>
+
+    <text x="752" y="412" fill="#111111" font-weight="700">Ground truth</text>
+    <text x="752" y="436" fill="#444450" font-size="16.5">review app · disputes · consensus</text>
+  </g>
+
+  <!-- ============ validation + outcomes ============ -->
+  <text x="600" y="496" fill="#a87700" font-size="18" font-weight="800" text-anchor="middle">Validate each level against the next: precision · recall · F1</text>
+
+  <rect x="70" y="514" width="330" height="44" rx="22" fill="#e8f3e8" stroke="#007a00" stroke-width="2"/>
+  <text x="235" y="542" fill="#007a00" font-size="16.5" font-weight="700" text-anchor="middle">✓ found: real programs</text>
+  <rect x="430" y="514" width="330" height="44" rx="22" fill="#f9e8e8" stroke="#c00000" stroke-width="2"/>
+  <text x="595" y="542" fill="#c00000" font-size="16.5" font-weight="700" text-anchor="middle">∅ absent from the archive</text>
+  <rect x="790" y="514" width="360" height="44" rx="22" fill="#fbf3dc" stroke="#a87700" stroke-width="2"/>
+  <text x="970" y="542" fill="#a87700" font-size="16.5" font-weight="700" text-anchor="middle">? present, not detectable at scale</text>
+</svg>

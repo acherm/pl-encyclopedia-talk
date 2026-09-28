@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 480" font-family="'Latin Modern Sans', 'LM Sans 10', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="pl-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3333b3"/>
+    </marker>
+  </defs>
+
+  <!-- cycle arrows -->
+  <g stroke="#3333b3" stroke-width="2.8" fill="none" marker-end="url(#pl-a)">
+    <path d="M460,58 C520,62 558,120 557,192"/>
+    <path d="M557,276 C558,350 520,414 464,420"/>
+    <path d="M216,420 C160,414 122,350 123,276"/>
+    <path d="M123,192 C122,120 160,62 216,58"/>
+  </g>
+
+  <!-- the four steps -->
+  <g stroke-width="2">
+    <rect x="220" y="18" width="240" height="80" rx="8" fill="#ebebf7" stroke="#3333b3"/>
+    <rect x="442" y="194" width="232" height="80" rx="8" fill="#ebebf7" stroke="#3333b3"/>
+    <rect x="220" y="382" width="240" height="80" rx="8" fill="#e8f3e8" stroke="#007a00"/>
+    <rect x="6" y="194" width="232" height="80" rx="8" fill="#fbf3dc" stroke="#a87700"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="340" y="46" font-size="21" font-weight="700" fill="#111">① Pick programs</text>
+    <text x="340" y="69" font-size="16" fill="#333">per extension</text>
+    <text x="340" y="88" font-size="16" fill="#333">by file, by repo, disagreements</text>
+
+    <text x="558" y="222" font-size="21" font-weight="700" fill="#111">② Synthesize <tspan font-style="italic">f</tspan></text>
+    <text x="558" y="245" font-size="16" fill="#333">rules · grammars</text>
+    <text x="558" y="264" font-size="16" fill="#333">classifiers · LLM-written</text>
+
+    <text x="340" y="410" font-size="21" font-weight="700" fill="#111">③ Validate &amp; review</text>
+    <text x="340" y="433" font-size="16" fill="#333">P / R / F1 on <tspan font-style="italic">D</tspan>, per language</text>
+    <text x="340" y="452" font-size="16" fill="#333">humans on disagreements</text>
+
+    <text x="122" y="222" font-size="21" font-weight="700" fill="#111">④ Grow <tspan font-style="italic">D</tspan></text>
+    <text x="122" y="245" font-size="16" fill="#333">new labels, kept forever</text>
+    <text x="122" y="264" font-size="16" fill="#333">= regression tests for <tspan font-style="italic">f</tspan></text>
+  </g>
+
+  <!-- centre -->
+  <g text-anchor="middle" fill="#111">
+    <text x="340" y="198" font-size="17" fill="#555566">start</text>
+    <text x="340" y="226" font-size="20"><tspan font-style="italic">f</tspan>₀ = claims (<tspan font-style="italic">e</tspan> → ℓ)</text>
+    <text x="340" y="258" font-size="20"><tspan font-style="italic">f</tspan>₁, <tspan font-style="italic">f</tspan>₂, …, <tspan font-style="italic">f</tspan><tspan font-size="14" dy="5" font-style="italic">k</tspan></text>
+    <text x="340" y="290" font-size="17" fill="#555566">until SWH is covered</text>
+  </g>
+</svg>

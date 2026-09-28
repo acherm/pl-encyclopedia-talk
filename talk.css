@@ -1,0 +1,397 @@
+/* ======================================================================
+   Beamer-like theme (Madrid / whale flavour) for reveal.js
+   Talk: Every Programming Language, with Its Real Programs
+   Fonts: Latin Modern (GUST Font License), bundled in assets/fonts/
+   ====================================================================== */
+
+@font-face { font-family: "Latin Modern Sans"; src: url("assets/fonts/lmsans10-regular.otf") format("opentype"); font-weight: 400; font-style: normal; }
+@font-face { font-family: "Latin Modern Sans"; src: url("assets/fonts/lmsans10-bold.otf") format("opentype"); font-weight: 700; font-style: normal; }
+@font-face { font-family: "Latin Modern Sans"; src: url("assets/fonts/lmsans10-oblique.otf") format("opentype"); font-weight: 400; font-style: italic; }
+@font-face { font-family: "Latin Modern Mono"; src: url("assets/fonts/lmmono10-regular.otf") format("opentype"); font-weight: 400; font-style: normal; }
+
+:root {
+  --struct: #3333b3;          /* Beamer structure colour */
+  --struct-dark: #1f1f73;
+  --struct-darker: #15154d;
+  --struct-light: #ebebf7;    /* block body */
+  --alert: #cc0000;           /* \alert */
+  --alert-light: #f9e8e8;
+  --example: #007a00;         /* exampleblock */
+  --example-light: #e8f3e8;
+  --gold: #a87700;
+  --gold-light: #fbf3dc;
+  --text: #111111;
+  --muted: #555566;
+  --rule: #222222;
+  --sans: "Latin Modern Sans", "LM Sans 10", "CMU Sans Serif", Helvetica, Arial, sans-serif;
+  --mono: "Latin Modern Mono", "LM Mono 10", "CMU Typewriter Text", Menlo, monospace;
+}
+
+.reveal-viewport { background: #ffffff; }
+.reveal {
+  font-family: var(--sans);
+  font-size: 31px;
+  font-weight: 400;
+  color: var(--text);
+  line-height: 1.25;
+}
+.reveal .slides { text-align: left; }
+
+/* ---- Frames: fixed 1280×720, frame title band on top, content centred vertically ---- */
+.reveal .slides > section,
+.reveal .slides > section > section {
+  height: 720px;
+  box-sizing: border-box;
+  padding: 92px 46px 46px !important;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Frame title (first h2 of a frame) */
+.reveal .slides section > h2:first-child {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 70px;
+  margin: 0;
+  padding: 16px 30px 0;
+  box-sizing: border-box;
+  display: block;
+  background: var(--struct);
+  color: #ffffff;
+  font-family: var(--sans);
+  font-weight: 400;
+  font-size: 33px;
+  line-height: 1.1;
+  text-transform: none;
+  letter-spacing: 0;
+  text-align: left;
+}
+.reveal .slides section > h2:first-child:has(.sub) { padding-top: 7px; }
+.reveal .slides section > h2:first-child .sub {
+  display: block;
+  font-size: 0.6em;
+  margin-top: 0.15em;
+  color: #d8d8f2;
+}
+.reveal .slides section > h2:first-child code { color: #ffffff; background: none; }
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  font-family: var(--sans);
+  color: var(--struct);
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+  line-height: 1.15;
+  margin: 0 0 0.4em;
+}
+.reveal h3 { font-size: 1em; }
+
+/* ---- Footline (injected by index.html) ---- */
+.reveal .footline {
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 26px;
+  display: flex;
+  font-size: 15px;
+  line-height: 26px;
+  color: #ffffff;
+  text-align: center;
+}
+.reveal .footline > span { display: block; overflow: hidden; white-space: nowrap; }
+.reveal .footline .fl-a { flex: 1; background: var(--struct-darker); }
+.reveal .footline .fl-b { flex: 1.3; background: var(--struct-dark); }
+.reveal .footline .fl-c { flex: 1; background: var(--struct); display: flex; justify-content: space-between; padding: 0 1em; }
+
+/* ---- Text ---- */
+.reveal p { margin: 0.45em 0; }
+.reveal strong, .reveal b { font-weight: 700; color: inherit; }
+.reveal em, .reveal i { font-style: italic; }
+.reveal a { color: var(--struct); text-decoration: none; }
+.reveal .ok { color: var(--example); }
+.reveal .ko { color: var(--alert); }
+.reveal .smaller { font-size: 0.8em; }
+.reveal .smallest { font-size: 0.62em; color: var(--muted); }
+.reveal .left { text-align: left; }
+.reveal .center { text-align: center; }
+
+/* ---- Itemize: Beamer triangles ---- */
+.reveal ul { list-style: none; margin: 0.3em 0 0.3em 1.15em; padding: 0; display: block; }
+.reveal ul > li { position: relative; margin: 0.32em 0; }
+.reveal ul > li::before {
+  content: "▶";
+  position: absolute;
+  left: -2.05em;      /* in units of the marker's own (0.55em) font size */
+  top: 0.62em;
+  font-size: 0.55em;
+  line-height: 1;
+  color: var(--struct);
+}
+.reveal ul ul > li::before { content: "–"; font-size: 1em; top: 0; left: -0.9em; }
+.reveal ol { margin: 0.3em 0 0.3em 1.4em; padding: 0; display: block; }
+.reveal ol > li { margin: 0.28em 0; padding-left: 0.2em; }
+.reveal ol > li::marker { color: var(--struct); font-weight: 700; }
+
+/* ---- Code ---- */
+.reveal code { font-family: var(--mono); color: #1d1d5e; font-size: 1em; }
+.reveal pre {
+  width: 100%;
+  margin: 0.4em 0;
+  font-size: 0.52em;
+  box-shadow: none;
+  background: #f6f6f9;
+  border: 1px solid #c9c9d6;
+  border-radius: 4px;
+}
+.reveal pre code { max-height: 520px; padding: 0.6em 0.8em; background: transparent; color: #111; line-height: 1.3; }
+.reveal .hljs { background: transparent; color: #111; }
+.reveal .hljs-string { color: #8b1a1a; }
+.reveal .hljs-attr, .reveal .hljs-keyword, .reveal .hljs-name { color: #1d1d8e; }
+.reveal .hljs-literal, .reveal .hljs-number { color: #006400; }
+.reveal .hljs-comment { color: #777; font-style: italic; }
+
+/* ---- Quote ---- */
+.reveal blockquote {
+  width: auto;
+  margin: 0.5em 1.5em;
+  padding: 0.2em 0 0.2em 0.9em;
+  border-left: 3px solid var(--struct);
+  font-style: italic;
+  background: none;
+  box-shadow: none;
+}
+.reveal blockquote p { margin: 0.25em 0; }
+
+/* ---- Figures & screenshots ---- */
+.reveal img, .reveal video, .reveal svg.inline-svg {
+  max-height: 560px;
+  margin: 0 auto;
+  display: block;
+  border: none;
+  box-shadow: none;
+  border-radius: 0;
+  background: none;
+}
+.reveal img.shot { border: 1px solid #b8b8c8; background: #fff; }
+
+/* ---- Big number ---- */
+.reveal .big {
+  display: block;
+  font-size: 2.3em;
+  font-weight: 700;
+  line-height: 1.1;
+  margin: 0.15em 0;
+  color: var(--struct);
+}
+.reveal .big small { display: block; font-size: 0.36em; font-weight: 400; color: var(--text); }
+
+/* ---- Columns ---- */
+.reveal .cols { display: flex; gap: 1.2em; align-items: center; justify-content: center; }
+.reveal .cols > div { flex: 1; min-width: 0; }
+.reveal .cols img { width: 100%; object-fit: contain; }
+
+/* ---- Blocks (block / alertblock / exampleblock) ----
+   .card and .findings are rendered as Beamer blocks: the h3 is the block title. */
+.reveal .cards { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.55em 0.8em; text-align: left; }
+.reveal .cards.three { grid-template-columns: repeat(3, 1fr); }
+.reveal .cards.four { grid-template-columns: repeat(4, 1fr); }
+.reveal .card, .reveal .findings {
+  background: var(--struct-light);
+  border-radius: 5px;
+  overflow: hidden;
+  font-size: 0.62em;
+  line-height: 1.3;
+  padding-bottom: 0.4em;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.18);
+}
+.reveal .findings { font-size: 0.85em; }
+.reveal .card > h3, .reveal .findings > h3 {
+  margin: 0 0 0.3em;
+  padding: 0.22em 0.6em;
+  background: var(--struct);
+  color: #ffffff;
+  font-size: 1.12em;
+  font-weight: 400;
+}
+.reveal .card > :not(h3), .reveal .findings > :not(h3) { margin-left: 0.65em; margin-right: 0.65em; }
+.reveal .card > ul { margin-left: 1.6em; }
+.reveal .card p { margin: 0.25em 0.65em; }
+.reveal .card li { margin: 0.18em 0; }
+.reveal .card.red { background: var(--alert-light); }
+.reveal .card.red > h3 { background: var(--alert); }
+.reveal .card.green { background: var(--example-light); }
+.reveal .card.green > h3 { background: var(--example); }
+.reveal .card.hl { background: var(--struct-light); }
+
+/* ---- Tables: booktabs ---- */
+.reveal table {
+  margin: 0.3em auto;
+  font-size: 0.68em;
+  border-collapse: collapse;
+  border-top: 2px solid var(--rule);
+  border-bottom: 2px solid var(--rule);
+  background: none;
+  box-shadow: none;
+}
+.reveal table th {
+  font-weight: 700;
+  color: var(--text);
+  border-bottom: 1px solid var(--rule);
+  padding: 0.32em 0.7em;
+  background: none;
+}
+.reveal table td { padding: 0.28em 0.7em; border: none; vertical-align: top; }
+.reveal table.tight { font-size: 0.6em; }
+.reveal table.tight td, .reveal table.tight th { padding: 0.26em 0.55em; }
+
+/* ---- Pills (small tags) ---- */
+.reveal .pill {
+  display: inline-block;
+  font-size: 0.8em;
+  padding: 0 0.45em;
+  border-radius: 3px;
+  border: 1px solid #9a9ab8;
+  background: #f4f4fa;
+  margin: 0.1em 0.08em;
+  white-space: nowrap;
+}
+.reveal .pill.y { border-color: var(--gold); color: var(--gold); background: var(--gold-light); }
+.reveal .pill.b { border-color: var(--struct); color: var(--struct); background: var(--struct-light); }
+.reveal .pill.g { border-color: var(--example); color: var(--example); background: var(--example-light); }
+.reveal .pill.r { border-color: var(--alert); color: var(--alert); background: var(--alert-light); }
+
+/* ---- Mock "evidence card" (dream slide), as a Beamer block ---- */
+.reveal .evcard {
+  text-align: left;
+  font-size: 0.52em;
+  line-height: 1.3;
+  background: var(--struct-light);
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.18);
+  padding-bottom: 0.5em;
+}
+.reveal .evcard .evtitle {
+  background: var(--struct);
+  color: #fff;
+  font-size: 1.5em;
+  padding: 0.2em 0.6em;
+  margin-bottom: 0.3em;
+}
+.reveal .evcard .evtitle span { font-size: 0.6em; color: #d8d8f2; margin-left: 0.5em; }
+.reveal .evcard .evrow { margin: 0.3em 0.8em; }
+.reveal .evcard .st { display: inline-block; width: 1.4em; font-weight: 700; }
+.reveal .evcard .y { color: var(--gold); }
+.reveal .evcard .dim { color: var(--muted); }
+.reveal .evcard b { margin-right: 0.35em; }
+.reveal .evcard img, .reveal .evcard svg.inline-svg { width: 94%; max-height: none; margin: 0.2em auto; }
+.reveal .evcard .evlegend { font-size: 0.85em; color: var(--muted); margin: 0.5em 0.8em 0; border-top: 1px solid #c9c9e0; padding-top: 0.3em; }
+
+/* ---- UML notes (cardinalities slide) ---- */
+.reveal .umlnotes { font-size: 0.5em; line-height: 1.28; text-align: left; }
+.reveal .umlnotes p { margin: 0 0 0.45em; padding: 0.3em 0.55em 0.35em 2.1em; position: relative; background: #fffbe6; border: 1px solid #d8cc8a; }
+.reveal .umlnotes p .n {
+  position: absolute; left: 0.45em; top: 0.35em;
+  width: 1.25em; height: 1.25em; line-height: 1.25em; border-radius: 50%;
+  background: var(--struct); color: #fff; text-align: center; font-weight: 700; font-size: 0.95em;
+}
+
+/* ---- Logos ---- */
+.reveal .logos { display: flex; align-items: center; justify-content: center; gap: 1.2em; margin: 0.6em auto 0; }
+.reveal .logos img { height: 40px; width: auto; max-height: 40px; margin: 0; display: inline-block; }
+
+/* ---- Title page (Madrid) ---- */
+.reveal .slides section.titlepage { justify-content: center; text-align: center; padding: 40px 80px 46px !important; }
+.reveal .titlepage .titlebox {
+  background: var(--struct);
+  color: #fff;
+  border-radius: 10px;
+  padding: 0.55em 1em 0.6em;
+  margin: 0 auto 0.8em;
+  box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.25);
+}
+.reveal .titlepage .titlebox h1 { color: #fff; font-size: 1.55em; margin: 0; }
+.reveal .titlepage .titlebox p { margin: 0.35em 0 0; font-size: 0.85em; color: #e2e2f6; }
+.reveal .titlepage .author { font-size: 1em; margin: 0.3em 0 0.1em; }
+.reveal .titlepage .institute { font-size: 0.72em; color: var(--muted); margin: 0.1em 0; }
+.reveal .titlepage .date { font-size: 0.72em; margin: 0.5em 0 0.2em; }
+
+/* ---- Section pages ---- */
+.reveal .slides section.section-slide { justify-content: center; text-align: center; }
+.reveal .section-slide h1 {
+  display: inline-block;
+  align-self: center;
+  background: var(--struct);
+  color: #fff;
+  font-size: 1.45em;
+  border-radius: 8px;
+  padding: 0.35em 1.1em;
+  margin: 0 auto 0.5em;
+  box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.25);
+}
+.reveal .section-slide h2 { color: var(--text); font-size: 0.95em; font-weight: 400; margin: 0; text-align: center; }
+
+/* ---- Closing frame ---- */
+.reveal .slides section.closing { justify-content: center; text-align: center; }
+.reveal .closing h1 { font-size: 1.5em; margin-bottom: 0.3em; }
+
+/* ---- Hide reveal chrome (Beamer has no progress bar) ---- */
+.reveal .progress { display: none; }
+
+/* ---- Comparison matrix (diagnosis slide) ---- */
+.reveal table.matrix { font-size: 0.66em; }
+.reveal table.matrix th, .reveal table.matrix td { padding: 0.42em 0.65em; text-align: left; }
+.reveal .half { color: var(--gold); }
+
+/* ---- "Two gaps" slide ---- */
+.reveal .findings.gap { font-size: 0.7em; }
+.reveal .findings.gap p { margin: 0.2em 0.65em 0.3em; line-height: 1.3; }
+.reveal .gapnum { float: left; font-size: 2.6em; line-height: 1; font-weight: 700; color: var(--struct); margin: 0.02em 0.3em 0 0; }
+
+/* ---- Two-column list inside a block (challenges slide) ---- */
+.reveal ul.twocol { column-count: 2; column-gap: 1.6em; }
+.reveal ul.twocol > li { break-inside: avoid; }
+
+/* ---- Slogan ---- */
+.reveal .slogan { font-style: italic; color: var(--struct); font-size: 1.05em; margin-top: 0.6em; }
+
+/* ---- Compact interest cards ("Why now") ---- */
+.reveal .cards.mini .card { font-size: 0.5em; padding-bottom: 0.25em; }
+.reveal .cards.mini .card > h3 { font-size: 1.05em; padding: 0.15em 0.55em; }
+.reveal .cards.mini .card p { margin: 0.15em 0.6em; }
+
+/* ---- "Catch them all" (gamification) ---- */
+.reveal .dex { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.35em; font-size: 0.5em; }
+.reveal .dex .t { border: 2px solid #b8b8c8; border-radius: 6px; padding: 0.3em 0.35em 0.4em; background: #f6f6f9; text-align: center; line-height: 1.2; color: var(--muted); }
+.reveal .dex .t b { display: block; font-size: 1.3em; color: var(--text); margin: 0.05em 0 0.1em; }
+.reveal .dex .t .ic { display: block; font-size: 1.3em; line-height: 1; }
+.reveal .dex .t.caught { border-color: var(--example); background: var(--example-light); }
+.reveal .dex .t.caught .ic { color: var(--example); }
+.reveal .dex .t.seen { border-style: dashed; }
+.reveal .dex .t.fake { border-color: var(--alert); background: var(--alert-light); }
+.reveal .dex .t.fake b { text-decoration: line-through; color: var(--alert); }
+.reveal .dex .t.fake .ic { color: var(--alert); }
+.reveal .dexbar { height: 0.45em; background: #e3e3ee; border-radius: 4px; overflow: hidden; margin: 0.7em 0 0.25em; }
+.reveal .dexbar span { display: block; height: 100%; min-width: 4px; background: var(--example); }
+
+/* ---- Definition block (formalization slide) ---- */
+.reveal .card.definition { font-size: 0.58em; line-height: 1.35; }
+.reveal .card.definition p { margin: 0.35em 0.7em; }
+.reveal .card.definition sub, .reveal .card.definition sup { font-size: 0.7em; }
+
+/* reveal's reset.css flattens sub/sup: restore them */
+.reveal sub { vertical-align: sub; font-size: 0.72em; line-height: 0; }
+.reveal sup { vertical-align: super; font-size: 0.72em; line-height: 0; }
+
+/* ---- PDF export (?print-pdf): reveal's print CSS forces display:block and padding:0 on
+   sections; restore the Beamer frame layout (fixed 1280×720 page, content centred). ---- */
+html.reveal-print .reveal .slides section {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  width: 1280px !important;
+  height: 720px !important;
+  top: 0 !important;
+  left: 0 !important;
+  padding: 92px 46px 46px !important;
+}
+html.reveal-print .reveal .slides section.titlepage { padding: 40px 80px 46px !important; }

@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Towards an Encyclopedia of Programming Languages — Mathieu Acher</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+  <link rel="stylesheet" href="reveal/dist/reset.css">
+  <link rel="stylesheet" href="reveal/dist/reveal.css">
+  <link rel="stylesheet" href="talk.css">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section data-markdown="slides.md"
+               data-separator="^\r?\n---\r?\n$"
+               data-separator-vertical="^\r?\n--\r?\n$"
+               data-separator-notes="^Note:"
+               data-charset="utf-8">
+      </section>
+    </div>
+  </div>
+
+  <script src="reveal/dist/reveal.js"></script>
+  <script src="reveal/plugin/markdown/markdown.js"></script>
+  <script src="reveal/plugin/highlight/highlight.js"></script>
+  <script src="reveal/plugin/notes/notes.js"></script>
+  <script src="reveal/plugin/zoom/zoom.js"></script>
+  <script>
+    // Beamer-like footline: author | title | venue + frame number (backup frames are numbered B1, B2…)
+    const FOOT_A = 'M. Acher (INSA Rennes · IRISA · Inria)';
+    const FOOT_B = 'Towards an Encyclopedia of Programming Languages';
+    const FOOT_C = 'CodeCommons plenary · 28 Sept. 2026';
+
+    function addFootlines() {
+      const slides = Reveal.getSlides();
+      const backupStart = slides.findIndex(s => s.classList.contains('backup-start'));
+      const nMain = backupStart >= 0 ? backupStart : slides.length;
+      slides.forEach((s, i) => {
+        if (s.classList.contains('titlepage') || s.querySelector(':scope > .footline')) return;
+        const num = i < nMain ? `${i + 1} / ${nMain}` : (i === backupStart ? 'Backup' : `B${i - backupStart}`);
+        const f = document.createElement('div');
+        f.className = 'footline';
+        f.innerHTML = `<span class="fl-a">${FOOT_A}</span><span class="fl-b">${FOOT_B}</span>` +
+                      `<span class="fl-c"><span>${FOOT_C}</span><span>${num}</span></span>`;
+        s.appendChild(f);
+      });
+    }
+
+    // Inline the SVG diagrams (img[data-inline]) so that they use the page fonts (Latin Modern)
+    function inlineSvgs() {
+      document.querySelectorAll('.reveal img[data-inline]').forEach(img => {
+        fetch(img.getAttribute('src')).then(r => r.text()).then(txt => {
+          const box = document.createElement('div');
+          box.innerHTML = txt;
+          const svg = box.querySelector('svg');
+          if (!svg) return;
+          svg.classList.add('inline-svg');
+          if (img.className) img.className.split(' ').forEach(c => c && svg.classList.add(c));
+          if (img.getAttribute('style')) svg.setAttribute('style', img.getAttribute('style'));
+          svg.setAttribute('role', 'img');
+          svg.setAttribute('aria-label', img.alt || '');
+          img.replaceWith(svg);
+        }).catch(() => { /* file:// or offline: keep the <img> */ });
+      });
+    }
+
+    Reveal.initialize({
+      hash: true,
+      slideNumber: false,
+      controls: false,
+      progress: false,
+      center: false,
+      display: 'flex',
+      transition: 'none',
+      width: 1280,
+      height: 720,
+      margin: 0,
+      pdfSeparateFragments: false,
+      plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom ]
+    }).then(() => { addFootlines(); inlineSvgs(); });
+  </script>
+</body>
+</html>
