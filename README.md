@@ -2,41 +2,67 @@
 
 *Every Programming Language, with Its Real Programs*. Slogan: *Every language with its programs, every program with its language.*
 
-**Online: https://blog.mathieuacher.com/pl-encyclopedia-talk/** · PDF: https://blog.mathieuacher.com/pl-encyclopedia-talk/talk.pdf
+**Online (20-minute version): https://blog.mathieuacher.com/pl-encyclopedia-talk/** · PDF: https://blog.mathieuacher.com/pl-encyclopedia-talk/talk.pdf
+**Full version**: https://blog.mathieuacher.com/pl-encyclopedia-talk/long.html · PDF: https://blog.mathieuacher.com/pl-encyclopedia-talk/talk-long.pdf
 
 CodeCommons plenary meeting, Inria Paris, 28 September 2026. Talk by Mathieu Acher. 20 minutes, reveal.js slides written in Markdown (same setup as
 `../PLs-AI-talk`), with a **Beamer-like theme** (Madrid/whale flavour): frame-title band, three-part
 footline with frame numbers, blue/red/green blocks, triangle bullets, booktabs tables, Latin Modern fonts.
 
+## Two versions, one source
+
+| Version | Page | Markdown | PDF | Frames |
+|---|---|---|---|---|
+| **20 minutes** (default) | `index.html` | `slides-short.md` (**generated**) | `talk.pdf` | 28 + 15 in the appendix, ~19:40 |
+| **Full** | `long.html` | `slides.md` (**the source**) | `talk-long.pdf` | 34 + 9 in the appendix, ~24 min |
+
+Edit `slides.md` only. `build_short.py` generates `slides-short.md`: it moves the frames listed in `MOVE`
+to the appendix (Icon, "Do LLMs invent languages?", Lesson 2, `.rpgle`, Lesson 3, "From case studies to a
+method"), patches the two places that pointed to them (`PATCH`: slide 9 gains a one-line answer to "do
+LLMs invent languages?"), and rewrites the ⏱ markers of the speaker notes from `DURATIONS`.
+The shared reveal setup (footline, SVG inlining) is in `talk.js`.
+
 ## Run it
 
 ```bash
 cd PL-catalog-talk
-python3 serve.py            # http://localhost:8000
+python3 serve.py            # http://localhost:8000 (20 min) · http://localhost:8000/long.html (full)
 ```
 
 reveal.js is vendored in `reveal/`, so everything works offline.
 
 - `S`: speaker view (notes + timer). Every slide has notes with `⏱ T+` markers
-- `F`: fullscreen, `O`: overview (for the backup slides), `B`: black screen
+- `F`: fullscreen, `O`: overview (for the appendix), `B`: black screen
 - Serve it over HTTP (not `file://`): the SVG diagrams are fetched and inlined at load time so that
   they use the Latin Modern font; opened as a file they still display, in the fallback font
 
 ## PDF
 
-`talk.pdf` (44 pages: 34 + 10 backup, 1280×720) is built from the slides with reveal's print mode:
-
 ```bash
 npm install        # once: puppeteer-core (drives your local Google Chrome)
-npm run pdf        # → talk.pdf
+npm run pdf        # build_short.py, then talk.pdf (20 min) and talk-long.pdf (full)
 ```
 
-`build-pdf.mjs` starts `serve.py`, opens `index.html?print-pdf`, waits for reveal, the fonts and the
-inlined SVGs, then prints. Set `CHROME=/path/to/chrome` if Chrome is not in `/Applications`.
-Rebuild it after every change to `slides.md`, then commit and push: GitHub Pages serves `main` as is
-(`.nojekyll`), slides and PDF included.
+`build-pdf.mjs <page.html> <out.pdf>` starts `serve.py`, opens `<page>?print-pdf`, waits for reveal, the
+fonts and the inlined SVGs, then prints 1280×720 pages. Set `CHROME=/path/to/chrome` if Chrome is not in
+`/Applications`. After every change: `npm run pdf`, commit, push; GitHub Pages serves `main` as is
+(`.nojekyll`).
 
-## Plan and timing: 34 slides + 10 backup
+## Plan and timing
+
+### 20-minute version (`index.html`)
+
+| T+ | Section | Slides |
+|----|---------|--------|
+| 0 | Title · the prototype today · features · the dream + slogan · why now, why it matters | 1–5 |
+| 4:00 | **1. Four mirrors, no code**: HOPL · PL-ultimate · PL-ultimate-llm (the Icon commit; LLMs rarely invent languages) · SWH extensions · diagnosis matrix | 6–11 |
+| 7:35 | **2. The vision, made concrete**: ontology · UML cardinalities · two gaps · PLI, formally · PLI funnel | 12–17 |
+| 12:45 | **3. Zoom in**: one extension, all of it · three stories · lesson 1 (a claim, not a fact) | 18–21 |
+| 15:20 | **4. Making it real**: contributions · challenges · how to help · catch them all! · roadmap | 22–27 |
+| 19:25 | Closing | 28 |
+| — | Appendix A1–A15: the six frames moved out (Icon, LLM evidence check, lesson 2, `.rpgle`, lesson 3, method), then polysemy, central idea, architecture, sources, a cited SWHID, LLM protocol, `.fsf`, review app, reviews | |
+
+### Full version (`long.html`)
 
 | T+ | Section | Slides |
 |----|---------|--------|
@@ -46,7 +72,7 @@ Rebuild it after every change to `slides.md`, then commit and push: GitHub Pages
 | 14:45 | **3. Zoom in** (MSR-style): pipeline, three stories (`.fsf` = embedded DSL), COBOL, `.rpgle`, the LLM judge, method | 20–27 |
 | 19:30 | **4. Making it real**: contributions (trace everything; the workflow will be redesigned) · challenges (PLI first; CodeCommons extractors) · how to help · **catch them all!** (1.5% caught: a pipeline gap) · **roadmap** (0 · register a domain name + official initiative?, 1 · start small, 2 · grow, 3 · scale; one reproducible pipeline throughout) | 28–33 |
 | 24 | Closing + slogan + thanks | 34 |
-| — | Backup: polysemy (`.m`), central idea, architecture, sources table, a cited SWHID, LLM protocol, `.fsf`, review app, review schema | B1–B9 |
+| — | Appendix: polysemy (`.m`), central idea, architecture, sources table, a cited SWHID, LLM protocol, `.fsf`, review app, review schema | B1–B9 |
 
 As written this runs about **23–24 minutes**. To get back to 20, in this order: show slide 3 (features)
 without reading it; say slide 8 (PL-ultimate) in one sentence; skip slide 12 (SWH extensions table: the
@@ -54,7 +80,7 @@ without reading it; say slide 8 (PL-ultimate) in one sentence; skip slide 12 (SW
 of the UML slide make the same point); shorten slide 5 to the two arguments; on slide 18 (PLI, formally)
 show the loop and skip reading the definitions.
 
-## Numbers behind "Do LLMs invent languages?" (slide 11)
+## Numbers behind "Do LLMs invent languages?" (full version slide 11, appendix A2 in the 20-min version)
 
 `analysis/llm_evidence_check.py` (outputs in `analysis/out/`, run of 2026-09-27):
 
@@ -126,12 +152,12 @@ come from the live PL Catalog home page.
 
 ## Before the talk
 
-- [ ] Slide 6 (Icon): the `.icn` / `.icon` breakdown comes from GitHub code search (default branches), not
+- [ ] Icon slide (appendix A1 in the 20-min version): the `.icn` / `.icon` breakdown comes from GitHub code search (default branches), not
       from SWH; confirm on an SWH sample before quoting it as an SWH fact
-- [ ] Slides 19 and 34: check the spelling "Axel Amour N'cho" (given as "Axel Amour N cho")
-- [ ] Slide 31 ("How you can help"): decide whether to name the people already on each case study
+- [ ] Full-version slides 19 and 34 (20-min: 17 and 28): check the spelling "Axel Amour N'cho" (given as "Axel Amour N cho")
+- [ ] "How you can help" slide: decide whether to name the people already on each case study
       (COBOL, `.fsf`/neuro, `.m`, RPG). They are only mentioned in the speaker notes for now
-- [ ] Slide 33: the roadmap (no dates yet) and the three "decisions for today" are a proposal; adjust to what
+- [ ] Roadmap slide: the roadmap (no dates yet) and the three "decisions for today" are a proposal; adjust to what
       has already been discussed with SWH / CodeCommons
 - [ ] Optional live demo: PL Catalog (`/l/icon-…`, `/ext/m/`, a Perl page with SWH samples) and the
       HOPL viewer (`cd ../hopl-scrapping && python3 -m http.server`, then `/viewer/pl-graph/`)

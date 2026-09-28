@@ -2,6 +2,9 @@
   "name": "pl-encyclopedia-talk",
   "private": true,
   "description": "Towards an Encyclopedia of Programming Languages Anchored in Software Heritage & CodeCommons (slides)",
-  "scripts": { "pdf": "node build-pdf.mjs talk.pdf" },
+  "scripts": {
+    "short": "python3 build_short.py",
+    "pdf": "python3 build_short.py && node build-pdf.mjs index.html talk.pdf && node build-pdf.mjs long.html talk-long.pdf"
+  },
   "devDependencies": { "puppeteer-core": "^23.0.0" }
 }
