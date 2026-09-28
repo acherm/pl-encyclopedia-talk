@@ -2,7 +2,9 @@
 
 *Every Programming Language, with Its Real Programs*. Slogan: *Every language with its programs, every program with its language.*
 
-Talk by Mathieu Acher. 20 minutes, reveal.js slides written in Markdown (same setup as
+**Online: https://blog.mathieuacher.com/pl-encyclopedia-talk/** · PDF: https://blog.mathieuacher.com/pl-encyclopedia-talk/talk.pdf
+
+CodeCommons plenary meeting, Inria Paris, 28 September 2026. Talk by Mathieu Acher. 20 minutes, reveal.js slides written in Markdown (same setup as
 `../PLs-AI-talk`), with a **Beamer-like theme** (Madrid/whale flavour): frame-title band, three-part
 footline with frame numbers, blue/red/green blocks, triangle bullets, booktabs tables, Latin Modern fonts.
 
@@ -31,7 +33,8 @@ npm run pdf        # → talk.pdf
 
 `build-pdf.mjs` starts `serve.py`, opens `index.html?print-pdf`, waits for reveal, the fonts and the
 inlined SVGs, then prints. Set `CHROME=/path/to/chrome` if Chrome is not in `/Applications`.
-Rebuild it after every change to `slides.md`.
+Rebuild it after every change to `slides.md`, then commit and push: GitHub Pages serves `main` as is
+(`.nojekyll`), slides and PDF included.
 
 ## Plan and timing: 34 slides + 10 backup
 
@@ -125,8 +128,7 @@ come from the live PL Catalog home page.
 
 - [ ] Slide 6 (Icon): the `.icn` / `.icon` breakdown comes from GitHub code search (default branches), not
       from SWH; confirm on an SWH sample before quoting it as an SWH fact
-- [ ] Slide 19 (PLI funnel): check the byline of the ongoing-work team; the name was given as "Axel Amour N cho"
-      and is written "N'cho" on the slide
+- [ ] Slides 19 and 34: check the spelling "Axel Amour N'cho" (given as "Axel Amour N cho")
 - [ ] Slide 31 ("How you can help"): decide whether to name the people already on each case study
       (COBOL, `.fsf`/neuro, `.m`, RPG). They are only mentioned in the speaker notes for now
 - [ ] Slide 33: the roadmap and the three "decisions for today" are a proposal; adjust to what

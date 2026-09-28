@@ -7,7 +7,6 @@
 </div>
 
 <p class="author">Mathieu Acher</p>
-<p class="institute">INSA Rennes · IRISA · Inria · Institut Universitaire de France</p>
 <p class="date">CodeCommons plenary meeting · Inria Paris · 28 September 2026</p>
 
 <div class="logos">
@@ -841,7 +840,7 @@ Note: ⏱ T+22:45 — The ask. We can start small (a few extensions, a few langu
 <p class="smaller">PL Catalog: blog.mathieuacher.com/PL-ultimate-llm · github.com/acherm/PL-ultimate-llm<br>
 Reports: <code>docs/cobol_swh_study.pdf</code> · <code>fsf_swh_study.pdf</code> · <code>rpgle_swh_study.pdf</code></p>
 
-<p class="smallest">Thanks to Roberto, Valentin and Baptiste for the SWH extractions; to the DiverSE team (Rennes) and the PLI group: Caroline Landry, Axel Amour N'cho, Baptiste Mehat, Bignon Lokonon, Corentin Ollivier, Guillaume Claudic, Stephan Kunne; and to everyone who will adopt an extension.</p>
+<p class="smallest">Thanks to Software Heritage (Thomas Aynaud, Roberto Di Cosmo, Stefano Zacchiroli, Valentin Lorentz) for feedback, assistance and the SWH extractions; to the DiverSE team (Rennes) and the PLI group (Caroline Landry, Axel Amour N'cho, Baptiste Mehat, Bignon Lokonon, Corentin Ollivier, Guillaume Claudic, Stephan Kunne); and to everyone who will adopt an extension.</p>
 
 <div class="logos">
 <img src="assets/img/logos/swh.svg" alt="Software Heritage">
