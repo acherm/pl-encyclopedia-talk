@@ -794,39 +794,54 @@ Note: ⏱ T+21:10 — A way to make the work fun and to scale participation. The
 
 ---
 
-## Proposal: an official SWH × CodeCommons initiative <span class="sub">Start small, scale incrementally, on a reproducible pipeline</span>
+## Roadmap: an official SWH × CodeCommons initiative <span class="sub">Start with a name and a home, then grow incrementally</span>
 
-<div class="cols" style="align-items: stretch">
-<div style="flex: 0.9">
-<div class="card green" style="font-size: 0.6em; height: 100%">
-<h3>A reproducible build, not a hand-maintained site</h3>
+<div class="roadmap">
+<div class="stage s0">
+<div class="chev"><span class="when">now</span>0 · Official &amp; online</div>
 <ul>
-<li><b>inputs of any kind</b>: catalogs, HOPL, SWH datasets, PLI tools, LLM proposals and judgements, <b>human insights and reviews</b></li>
-<li>one versioned pipeline turns them into the encyclopedia: site, datasets, evidence cards</li>
-<li>rebuilt from scratch at any time; every number traceable to its inputs</li>
+<li>a <b>hostname</b> (DNS) for the encyclopedia</li>
+<li>an <b>official SWH × CodeCommons initiative</b></li>
+<li>a neutral home (org), a data license, curators</li>
+</ul>
+</div>
+<div class="stage s1">
+<div class="chev"><span class="when">next</span>1 · Start small</div>
+<ul>
+<li>the <b>reproducible build</b></li>
+<li>canonical language IDs; merge HOPL</li>
+<li>feed the CodeCommons extractions (<code>.cbl</code>, <code>.fsf</code>, <code>.rpgle</code>); adopt 3–5 extensions</li>
+</ul>
+</div>
+<div class="stage s2">
+<div class="chev"><span class="when">then</span>2 · Grow</div>
+<ul>
+<li>more extractors, a <b>PLI benchmark</b></li>
+<li>evidence cards for all ~12,600 languages</li>
+<li>open contributions: redesigned workflow, <i>catch them all</i></li>
+</ul>
+</div>
+<div class="stage s3">
+<div class="chev"><span class="when">later</span>3 · Scale</div>
+<ul>
+<li>a <b>complete mapping</b> of SWH programs to languages</li>
+<li>usage over time, traces in papers (CodeCommons)</li>
+<li>MSR paper (method), data paper</li>
 </ul>
 </div>
 </div>
-<div style="flex: 1.1">
 
-| Step | What (to discuss) |
-|---|---|
-| **1 · start small** | neutral home · canonical language IDs · the reproducible build · 3–5 adopted extensions |
-| **2 · grow** | SWH-native evidence (graph, derived datasets) · a PLI benchmark · evidence cards for all languages |
-| **3 · scale** | archive-wide with CodeCommons: usage over time, papers · MSR paper (method) · data paper |
+<div class="throughout"><b>Throughout: one reproducible pipeline.</b> Inputs of any kind (catalogs, HOPL, SWH datasets, PLI tools, LLMs, <b>human insights and reviews</b>) → site, datasets, evidence cards; rebuilt from scratch at any time, every number traceable to its inputs.</div>
 
-</div>
-</div>
-
-<div class="findings" style="margin-top: 0.7em">
+<div class="findings" style="margin-top: 0.6em">
 
 ### Decisions for today
 
-**Who's in?** · **Where does it live?** · **Which extensions do we adopt first?**
+**Who's in?** · **Which hostname, which home?** · **Which extensions do we adopt first?**
 
 </div>
 
-Note: ⏱ T+22:45 — The ask. We can start small (a few extensions, a few languages, the pieces that already work) and scale incrementally. The one non-negotiable property: the encyclopedia is the output of a reproducible pipeline, whatever its inputs are (sources, tools, LLMs, human insights and reviews), so that it can be rebuilt, audited and improved by anyone. A sustainable initiative needs an owner that is not one researcher's GitHub account, and a steady cadence (e.g. one extension study per month).
+Note: ⏱ T+22:45 — The ask, as a roadmap. Step 0 is small but decisive: a hostname for the encyclopedia and an official SWH × CodeCommons initiative, i.e. a name, a home that is not one researcher's GitHub account, a data license and a few curators. Then start small with what already works: the reproducible build, canonical language IDs, HOPL merged, the CodeCommons extractions of .cbl/.fsf/.rpgle fed into the catalog, a handful of adopted extensions. Then grow (more extractors, a PLI benchmark, evidence cards for every language, open contributions with a better workflow and the game) and eventually scale to a complete mapping of Software Heritage programs, with CodeCommons statistics on usage over time and traces in papers. The one non-negotiable property, from day one: the encyclopedia is the output of a reproducible pipeline, whatever its inputs are (sources, tools, LLMs, human insights and reviews), so that it can be rebuilt, audited and improved by anyone. A steady cadence helps (e.g. one extension study per month).
 
 ---
 

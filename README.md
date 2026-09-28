@@ -44,7 +44,7 @@ Rebuild it after every change to `slides.md`, then commit and push: GitHub Pages
 | 4:45 | **1. Four mirrors, no code**: HOPL · PL-ultimate · PL-ultimate-llm (the Icon commit) · do LLMs invent languages? · SWH extensions · diagnosis matrix | 7–13 |
 | 9 | **2. The vision, made concrete**: ontology · UML cardinalities · two gaps in numbers · **PLI, formally** (*f* : *P* × *E* → 2<sup>*L*</sup>, learnt iteratively, labels as regression tests) · PLI funnel (Tree-sitter, team byline) | 14–19 |
 | 14:45 | **3. Zoom in** (MSR-style): pipeline, three stories (`.fsf` = embedded DSL), COBOL, `.rpgle`, the LLM judge, method | 20–27 |
-| 19:30 | **4. Making it real**: contributions (trace everything; the workflow will be redesigned) · challenges (PLI first; CodeCommons extractors) · how to help · **catch them all!** (1.5% caught: a pipeline gap) · proposal (start small, reproducible pipeline) | 28–33 |
+| 19:30 | **4. Making it real**: contributions (trace everything; the workflow will be redesigned) · challenges (PLI first; CodeCommons extractors) · how to help · **catch them all!** (1.5% caught: a pipeline gap) · **roadmap** (0 · hostname + official initiative, 1 · start small, 2 · grow, 3 · scale; one reproducible pipeline throughout) | 28–33 |
 | 24 | Closing + slogan + thanks | 34 |
 | — | Backup: polysemy (`.m`), central idea, architecture, sources table, a cited SWHID, LLM protocol, `.fsf`, review app, review schema | B1–B9 |
 
@@ -131,7 +131,7 @@ come from the live PL Catalog home page.
 - [ ] Slides 19 and 34: check the spelling "Axel Amour N'cho" (given as "Axel Amour N cho")
 - [ ] Slide 31 ("How you can help"): decide whether to name the people already on each case study
       (COBOL, `.fsf`/neuro, `.m`, RPG). They are only mentioned in the speaker notes for now
-- [ ] Slide 33: the roadmap and the three "decisions for today" are a proposal; adjust to what
+- [ ] Slide 33: the roadmap (no dates yet) and the three "decisions for today" are a proposal; adjust to what
       has already been discussed with SWH / CodeCommons
 - [ ] Optional live demo: PL Catalog (`/l/icon-…`, `/ext/m/`, a Perl page with SWH samples) and the
       HOPL viewer (`cd ../hopl-scrapping && python3 -m http.server`, then `/viewer/pl-graph/`)
