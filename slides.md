@@ -794,7 +794,7 @@ Note: ⏱ T+21:10 — A way to make the work fun and to scale participation. The
 
 ---
 
-## Roadmap: an official SWH × CodeCommons initiative <span class="sub">Start with a name and a home, then grow incrementally</span>
+## Roadmap: an official SWH × CodeCommons initiative? <span class="sub">Start with a name and a home, then grow incrementally</span>
 
 <div class="roadmap">
 <div class="stage s0">
