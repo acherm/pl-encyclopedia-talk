@@ -57,7 +57,7 @@ fonts and the inlined SVGs, then prints 1280×720 pages. Set `CHROME=/path/to/ch
 | 0 | Title · the prototype today · features · the dream + slogan · why now, why it matters | 1–5 |
 | 4:00 | **1. Four mirrors, no code**: HOPL · PL-ultimate · PL-ultimate-llm (the Icon commit; LLMs rarely invent languages) · SWH extensions · diagnosis matrix | 6–11 |
 | 7:35 | **2. The vision, made concrete**: ontology · UML cardinalities · two gaps · PLI, formally · PLI funnel | 12–17 |
-| 12:45 | **3. Zoom in**: one extension, all of it · three stories · lesson 1 (a claim, not a fact) | 18–21 |
+| 12:45 | **3. Zoom in**: one extension, all of it · three stories · example (COBOL): a claim, not a fact | 18–21 |
 | 15:20 | **4. Making it real**: contributions · challenges · how to help · catch them all! · roadmap | 22–27 |
 | 19:25 | Closing | 28 |
 | — | Appendix A1–A15: the six frames moved out (Icon, LLM evidence check, lesson 2, `.rpgle`, lesson 3, method), then polysemy, central idea, architecture, sources, a cited SWHID, LLM protocol, `.fsf`, review app, reviews | |

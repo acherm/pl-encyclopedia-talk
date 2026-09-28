@@ -33,6 +33,8 @@ PATCH = [
      "1,403 names that no upstream source has: are those real? Almost all: after checking every evidence link "
      "(Wikipedia API, GitHub API, HTTP) and a web search on a random sample, about 23 names look invented "
      "(0.6%, at most 2%); the details are in the appendix."),
+    ("## Lesson 1: an extension is a claim, not a fact",
+     "## Example (COBOL): an extension is a claim, not a fact"),
     ("this is why by-file and by-repo results disagree (part 3).",
      "this is why by-file and by-repo results disagree (appendix: \"how you count changes the story\")."),
 ]
@@ -59,7 +61,7 @@ DURATIONS = [
     ("# 3. Zoom in", 10),
     ("## One extension, all of it", 45),
     ("## Three extensions, three stories", 50),
-    ("## Lesson 1:", 50),
+    ("## Example (COBOL):", 50),
     ("# 4. Making it real", 10),
     ("## Contributions:", 35),
     ("## Challenges:", 50),

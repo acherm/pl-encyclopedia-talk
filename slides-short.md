@@ -461,7 +461,7 @@ Note: ⏱ T+13:40 — Three very different outcomes with the same pipeline. COBO
 
 ---
 
-## Lesson 1: an extension is a claim, not a fact
+## Example (COBOL): an extension is a claim, not a fact
 
 <div class="cols" style="align-items: center">
 <div style="flex: 1.05">
