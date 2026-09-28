@@ -800,8 +800,8 @@ Note: ⏱ T+21:10 — A way to make the work fun and to scale participation. The
 <div class="stage s0">
 <div class="chev"><span class="when">now</span>0 · Official &amp; online</div>
 <ul>
-<li>a <b>hostname</b> (DNS) for the encyclopedia</li>
-<li>an <b>official SWH × CodeCommons initiative</b></li>
+<li><b>register a domain name</b> for the encyclopedia</li>
+<li>an <b>official SWH × CodeCommons initiative?</b></li>
 <li>a neutral home (org), a data license, curators</li>
 </ul>
 </div>
@@ -837,11 +837,11 @@ Note: ⏱ T+21:10 — A way to make the work fun and to scale participation. The
 
 ### Decisions for today
 
-**Who's in?** · **Which hostname, which home?** · **Which extensions do we adopt first?**
+**Who's in?** · **Which domain name, which home?** · **Which extensions do we adopt first?**
 
 </div>
 
-Note: ⏱ T+22:45 — The ask, as a roadmap. Step 0 is small but decisive: a hostname for the encyclopedia and an official SWH × CodeCommons initiative, i.e. a name, a home that is not one researcher's GitHub account, a data license and a few curators. Then start small with what already works: the reproducible build, canonical language IDs, HOPL merged, the CodeCommons extractions of .cbl/.fsf/.rpgle fed into the catalog, a handful of adopted extensions. Then grow (more extractors, a PLI benchmark, evidence cards for every language, open contributions with a better workflow and the game) and eventually scale to a complete mapping of Software Heritage programs, with CodeCommons statistics on usage over time and traces in papers. The one non-negotiable property, from day one: the encyclopedia is the output of a reproducible pipeline, whatever its inputs are (sources, tools, LLMs, human insights and reviews), so that it can be rebuilt, audited and improved by anyone. A steady cadence helps (e.g. one extension study per month).
+Note: ⏱ T+22:45 — The ask, as a roadmap. Step 0 is small but decisive: register a domain name for the encyclopedia, and (to be discussed) make it an official SWH × CodeCommons initiative, i.e. a name, a home that is not one researcher's GitHub account, a data license and a few curators. Then start small with what already works: the reproducible build, canonical language IDs, HOPL merged, the CodeCommons extractions of .cbl/.fsf/.rpgle fed into the catalog, a handful of adopted extensions. Then grow (more extractors, a PLI benchmark, evidence cards for every language, open contributions with a better workflow and the game) and eventually scale to a complete mapping of Software Heritage programs, with CodeCommons statistics on usage over time and traces in papers. The one non-negotiable property, from day one: the encyclopedia is the output of a reproducible pipeline, whatever its inputs are (sources, tools, LLMs, human insights and reviews), so that it can be rebuilt, audited and improved by anyone. A steady cadence helps (e.g. one extension study per month).
 
 ---
 

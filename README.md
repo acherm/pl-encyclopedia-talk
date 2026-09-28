@@ -44,7 +44,7 @@ Rebuild it after every change to `slides.md`, then commit and push: GitHub Pages
 | 4:45 | **1. Four mirrors, no code**: HOPL · PL-ultimate · PL-ultimate-llm (the Icon commit) · do LLMs invent languages? · SWH extensions · diagnosis matrix | 7–13 |
 | 9 | **2. The vision, made concrete**: ontology · UML cardinalities · two gaps in numbers · **PLI, formally** (*f* : *P* × *E* → 2<sup>*L*</sup>, learnt iteratively, labels as regression tests) · PLI funnel (Tree-sitter, team byline) | 14–19 |
 | 14:45 | **3. Zoom in** (MSR-style): pipeline, three stories (`.fsf` = embedded DSL), COBOL, `.rpgle`, the LLM judge, method | 20–27 |
-| 19:30 | **4. Making it real**: contributions (trace everything; the workflow will be redesigned) · challenges (PLI first; CodeCommons extractors) · how to help · **catch them all!** (1.5% caught: a pipeline gap) · **roadmap** (0 · hostname + official initiative, 1 · start small, 2 · grow, 3 · scale; one reproducible pipeline throughout) | 28–33 |
+| 19:30 | **4. Making it real**: contributions (trace everything; the workflow will be redesigned) · challenges (PLI first; CodeCommons extractors) · how to help · **catch them all!** (1.5% caught: a pipeline gap) · **roadmap** (0 · register a domain name + official initiative?, 1 · start small, 2 · grow, 3 · scale; one reproducible pipeline throughout) | 28–33 |
 | 24 | Closing + slogan + thanks | 34 |
 | — | Backup: polysemy (`.m`), central idea, architecture, sources table, a cited SWHID, LLM protocol, `.fsf`, review app, review schema | B1–B9 |
 
